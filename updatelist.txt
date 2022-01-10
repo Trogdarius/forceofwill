@@ -88,7 +88,7 @@ plugins/ForceOfWill/sets/CardDataAlice.txt	https://raw.githubusercontent.com/FoW
 plugins/ForceOfWill/sets/CardDataExtras.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Extras.txt	160379
 plugins/ForceOfWill/sets/CardDataGrimm.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Grimm.txt	8526365
 plugins/ForceOfWill/sets/CardDataLapis.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Lapis.txt	11414747
-plugins/ForceOfWill/sets/CardDataNewValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/NewValhalla.txt	6100670
+plugins/ForceOfWill/sets/CardDataNewValhalla.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/sets/NewValhalla.txt	6100670
 plugins/ForceOfWill/sets/CardDataPromo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Promo.txt	1862315
 plugins/ForceOfWill/sets/CardDataReiya.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Reiya.txt	13424139
 plugins/ForceOfWill/sets/CardDataStones.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Stones.txt	2527012
