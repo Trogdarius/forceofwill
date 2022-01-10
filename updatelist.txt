@@ -104,7 +104,7 @@ plugins/ForceOfWill/CardImageURLsLapis.txt	https://raw.githubusercontent.com/Tro
 plugins/ForceOfWill/CardImageURLsNewValhalla.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsNewValhalla.txt	2701203
 plugins/ForceOfWill/CardImageURLsPromo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsPromo.txt	667094
 plugins/ForceOfWill/CardImageURLsReiya.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsReiya.txt	5744765
-plugins/ForceOfWill/CardImageURLsValhalla.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsValhalla.txt	3888479
+plugins/ForceOfWill/CardImageURLsValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsValhalla.txt	3888479
 
 plugins/ForceOfWill/README.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/README.txt	318440
 plugins/ForceOfWill/public-sync.bat	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/public-sync.txt	16496
