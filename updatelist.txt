@@ -1,0 +1,123 @@
+ForceOfWill	01-09-22
+
+images/backgrounds/modular_default.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/modular_default.jpg	-426148
+images/backgrounds/acn_background.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/acn_background.jpg	-60425
+images/backgrounds/ashynyuu_enveloping_light_mat.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/ashynyuu_enveloping_light_mat.jpg	-426148
+images/backgrounds/ashynyuu_flute_mat.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/ashynyuu_flute_mat.jpg	-410183
+images/backgrounds/ashynyuu_phoenix_pricia_mat.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/ashynyuu_phoenix_pricia_mat.jpg	-377411
+images/backgrounds/ashynyuu_pokemon_mat.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/ashynyuu_pokemon_mat.jpg	-476460
+
+plugins/ForceOfWill/plugininfo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/plugininfo.txt	633082
+plugins/ForceOfWill/uninstall.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/uninstall.txt	176225
+plugins/ForceOfWill/formats.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/formats.txt	276802
+plugins/ForceOfWill/version.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/version.txt	27245
+plugins/ForceOfWill/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/general/cardback.jpg	-12393
+plugins/ForceOfWill/bot.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-EmperorValentina.jpg	6064
+plugins/ForceOfWill/pluginpreferences.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/pluginpreferences.txt	282963
+plugins/ForceOfWill/updatelist.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/updatelist.txt	20703
+
+images/backgrounds/fow_mat_double.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/fow_mat_double.png	-229439
+images/backgrounds/fow_mat_double2.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/fow_mat_double2.png	-169753
+images/backgrounds/fow_mat_double3.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/fow_mat_double3.png	-220739
+images/avatars/FOW-Abdul.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Abdul.png	-21816
+images/avatars/FOW-Alice.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Alice.png	-36139
+images/avatars/FOW-Bahamut.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Bahamut.png	-23759
+images/avatars/FOW-BlackMago.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-BlackMago.png	-8144
+images/avatars/FOW-BlueMago.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-BlueMago.png	-7909
+images/avatars/FOW-CrimsonGirl.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-CrimsonGirl.jpg	-23915
+images/avatars/FOW-CrimsonSkyGirl.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-CrimsonSkyGirl.png	-19487
+images/avatars/FOW-Dracula.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Dracula.png	-22222
+images/avatars/FOW-GreenMago.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-GreenMago.png	-12645
+images/avatars/FOW-Grimm.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Grimm.png	-29067
+images/avatars/FOW-Kaguya.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Kaguya.png	-12966
+images/avatars/FOW-Lumia.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Lumia.png	-38416
+images/avatars/FOW-PussInBoot.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-PussInBoot.png	-17056
+images/avatars/FOW-RedMago.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-RedMago.png	-13242
+images/avatars/FOW-WhiteMago.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-WhiteMago.png	7811
+images/avatars/FOW-Cain.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Cain.png	-2711
+images/avatars/FOW-Fiend_of_Dark_Pyre.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Fiend_of_Dark_Pyre.png	-14701
+images/avatars/FOW-Grimm_Ipank.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Grimm_Ipank.png	-27305
+images/avatars/FOW-Grimmia.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Grimmia.png	-46968
+images/avatars/FOW-Kaguya_MPR.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Kaguya_MPR.png	989
+images/avatars/FOW-Scheherazade.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Scheherazade.png	540
+images/avatars/FOW-Spano_Chronos.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Spano_Chronos.png	-19890
+images/avatars/FOW-arla.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-arla.jpg	-1429
+images/avatars/FOW-Blazer.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Blazer.jpg	-8965
+images/avatars/FOW-DarkAlice.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-DarkAlice.jpg	-2935
+images/avatars/FOW-DarkArla.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-DarkArla.jpg	-7399
+images/avatars/FOW-DarkFaria.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-DarkFaria.jpg	-237
+images/avatars/FOW-DarkMachina.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-DarkMachina.jpg	1792
+images/avatars/FOW-DarkMelgis.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-DarkMelgis.jpg	-1537
+images/avatars/FOW-DarkPricia.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-DarkPricia.jpg	-4392
+images/avatars/FOW-DarkRezzard.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-DarkRezzard.jpg	-5423
+images/avatars/FOW-EmperorValentina.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-EmperorValentina.jpg	6064
+images/avatars/FOW-Faria.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Faria.jpg	-3791
+images/avatars/FOW-Machina.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Machina.jpg	3207
+images/avatars/FOW-Melgis.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Melgis.jpg	-12307
+images/avatars/FOW-Pricia.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Pricia.jpg	6837
+images/avatars/FOW-QueenAlice.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-QueenAlice.jpg	-3418
+images/avatars/FOW-Refrain.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Refrain.jpg	-15842
+images/avatars/FOW-Rezzard.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Rezzard.jpg	-7468
+images/avatars/FOW-Sylvia.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Sylvia.jpg	-8718
+images/avatars/FOW-Valentina.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Valentina.jpg	-7036
+images/avatars/custom-userupload1.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/custom-userupload1.jpg	26567
+
+plugins/ForceOfWill/sounds/welcome.wav  https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sounds/welcome.wav	-1
+
+plugins/ForceOfWill/decks/SDL1.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDL1.dek	347172
+plugins/ForceOfWill/decks/SDL2.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDL2.dek	343950
+plugins/ForceOfWill/decks/SDL3.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDL3.dek	340471
+plugins/ForceOfWill/decks/SDL4.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDL4.dek	330981
+plugins/ForceOfWill/decks/SDL5.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDL5.dek	341269
+plugins/ForceOfWill/decks/SDR1.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDR1.dek	323365
+plugins/ForceOfWill/decks/SDR2.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDR2.dek	315248
+plugins/ForceOfWill/decks/SDR3.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDR3.dek	326076
+
+plugins/ForceOfWill/packs/packdefinitions1.xml	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/packdefinitions1.xml	1789954
+plugins/ForceOfWill/packs/packdefinitions2.xml	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/packdefinitions2.xml	1181198
+plugins/ForceOfWill/packs/pack_default.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_default.jpg	-34432
+plugins/ForceOfWill/packs/pack_lapis_CFC.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_lapis_CFC.jpg	-76221
+plugins/ForceOfWill/packs/pack_lapis_LEL.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_lapis_LEL.jpg	25918
+plugins/ForceOfWill/packs/pack_lapis_RDE.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_lapis_RDE.jpg	-63078
+plugins/ForceOfWill/packs/pack_lapis_ENW.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_lapis_ENW.jpg	-408481
+
+plugins/ForceOfWill/sets/CardDataSaga.txt	https://www.lackeyfow.com/FoWUpdatesets/CardDataSaga.txt	11461678
+plugins/ForceOfWill/sets/CardDataDuel.txt	https://www.lackeyfow.com/FoWUpdatesets/CardDataDuel.txt	11461678
+plugins/ForceOfWill/sets/CardDataAliceOrigin.txt	https://www.lackeyfow.com/FoWUpdatesets/CardDataAliceOrigin.txt	11461678
+plugins/ForceOfWill/sets/CardDataAlice.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Alice.txt	11461678
+plugins/ForceOfWill/sets/CardDataExtras.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Extras.txt	160379
+plugins/ForceOfWill/sets/CardDataGrimm.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Grimm.txt	8526365
+plugins/ForceOfWill/sets/CardDataLapis.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Lapis.txt	11414747
+plugins/ForceOfWill/sets/CardDataNewValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/NewValhalla.txt	6100670
+plugins/ForceOfWill/sets/CardDataPromo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Promo.txt	1862315
+plugins/ForceOfWill/sets/CardDataReiya.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Reiya.txt	13424139
+plugins/ForceOfWill/sets/CardDataStones.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Stones.txt	2527012
+plugins/ForceOfWill/sets/CardDataVahalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Vahalla.txt	10563963
+
+plugins/ForceOfWill/sets/CardImageURLsAliceOrigin.txt	https://www.lackeyfow.com/FoWUpdatesets/CardImageURLsAliceOrigin.txt	11461678
+plugins/ForceOfWill/sets/CardImageURLsDuel.txt	https://www.lackeyfow.com/FoWUpdatesets/CardImageURLsDuel.txt	11461678
+plugins/ForceOfWill/sets/CardImageURLsAliceOrigin.txt	https://www.lackeyfow.com/FoWUpdatesets/CardImageURLsAliceOrigin.txt	11461678
+plugins/ForceOfWill/CardImageURLsAlice.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsAlice.txt	4733039
+plugins/ForceOfWill/CardImageURLsExtras.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsExtras.txt	186893
+plugins/ForceOfWill/CardImageURLsGrimm.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsGrimm.txt	3875181
+plugins/ForceOfWill/CardImageURLsLapis.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsLapis.txt	4817992
+plugins/ForceOfWill/CardImageURLsNewValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsNewValhalla.txt	2701203
+plugins/ForceOfWill/CardImageURLsPromo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsPromo.txt	667094
+plugins/ForceOfWill/CardImageURLsReiya.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsReiya.txt	5744765
+plugins/ForceOfWill/CardImageURLsValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsValhalla.txt	3888479
+
+plugins/ForceOfWill/README.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/README.txt	318440
+plugins/ForceOfWill/public-sync.bat	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/public-sync.txt	16496
+
+CardURLFiles:
+CardImageURLsAlice.txt
+CardImageURLsAliceOrigin.txt
+CardImageURLsDuel.txt
+CardImageURLsSaga.txt
+CardImageURLsExtras.txt
+CardImageURLsGrimm.txt
+CardImageURLsLapis.txt
+CardImageURLsNewValhalla.txt
+CardImageURLsPromo.txt
+CardImageURLsReiya.txt
+CardImageURLsValhalla.txt
