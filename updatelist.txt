@@ -1,21 +1,18 @@
 ForceOfWill	01-09-22
-
 images/backgrounds/modular_default.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/modular_default.jpg	-426148
 images/backgrounds/acn_background.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/acn_background.jpg	-60425
 images/backgrounds/ashynyuu_enveloping_light_mat.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/ashynyuu_enveloping_light_mat.jpg	-426148
 images/backgrounds/ashynyuu_flute_mat.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/ashynyuu_flute_mat.jpg	-410183
 images/backgrounds/ashynyuu_phoenix_pricia_mat.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/ashynyuu_phoenix_pricia_mat.jpg	-377411
 images/backgrounds/ashynyuu_pokemon_mat.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/ashynyuu_pokemon_mat.jpg	-476460
-
 plugins/ForceOfWill/plugininfo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/plugininfo.txt	633082
 plugins/ForceOfWill/uninstall.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/uninstall.txt	176225
-plugins/ForceOfWill/formats.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/formats.txt	276802
-plugins/ForceOfWill/version.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/version.txt	27245
+plugins/ForceOfWill/formats.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/formats.txt	348515
+plugins/ForceOfWill/version.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/version.txt	29101
 plugins/ForceOfWill/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/general/cardback.jpg	-12393
 plugins/ForceOfWill/bot.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-EmperorValentina.jpg	6064
-plugins/ForceOfWill/pluginpreferences.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/pluginpreferences.txt	282963
-plugins/ForceOfWill/updatelist.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/updatelist.txt	20703
-
+plugins/ForceOfWill/pluginpreferences.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/pluginpreferences.txt	272194
+plugins/ForceOfWill/updatelist.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/updatelist.txt	1348683
 images/backgrounds/fow_mat_double.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/fow_mat_double.png	-229439
 images/backgrounds/fow_mat_double2.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/fow_mat_double2.png	-169753
 images/backgrounds/fow_mat_double3.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/fow_mat_double3.png	-220739
@@ -61,9 +58,7 @@ images/avatars/FOW-Rezzard.jpg	https://raw.githubusercontent.com/FoW-Lackey-Comm
 images/avatars/FOW-Sylvia.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Sylvia.jpg	-8718
 images/avatars/FOW-Valentina.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-Valentina.jpg	-7036
 images/avatars/custom-userupload1.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/custom-userupload1.jpg	26567
-
-plugins/ForceOfWill/sounds/welcome.wav  https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sounds/welcome.wav	-1
-
+plugins/ForceOfWill/sounds/welcome.wav	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sounds/welcome.wav	0
 plugins/ForceOfWill/decks/SDL1.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDL1.dek	347172
 plugins/ForceOfWill/decks/SDL2.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDL2.dek	343950
 plugins/ForceOfWill/decks/SDL3.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDL3.dek	340471
@@ -72,7 +67,6 @@ plugins/ForceOfWill/decks/SDL5.dek	https://raw.githubusercontent.com/FoW-Lackey-
 plugins/ForceOfWill/decks/SDR1.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDR1.dek	323365
 plugins/ForceOfWill/decks/SDR2.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDR2.dek	315248
 plugins/ForceOfWill/decks/SDR3.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDR3.dek	326076
-
 plugins/ForceOfWill/packs/packdefinitions1.xml	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/packdefinitions1.xml	1789954
 plugins/ForceOfWill/packs/packdefinitions2.xml	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/packdefinitions2.xml	1181198
 plugins/ForceOfWill/packs/pack_default.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_default.jpg	-34432
@@ -80,36 +74,32 @@ plugins/ForceOfWill/packs/pack_lapis_CFC.jpg	https://raw.githubusercontent.com/F
 plugins/ForceOfWill/packs/pack_lapis_LEL.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_lapis_LEL.jpg	25918
 plugins/ForceOfWill/packs/pack_lapis_RDE.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_lapis_RDE.jpg	-63078
 plugins/ForceOfWill/packs/pack_lapis_ENW.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_lapis_ENW.jpg	-408481
-
-plugins/ForceOfWill/sets/CardDataSaga.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/sets/CardDataSaga.txt	11461678
-plugins/ForceOfWill/sets/CardDataDuel.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/sets/CardDataDuel.txt	11461678
-plugins/ForceOfWill/sets/CardDataAliceOrigin.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/sets/CardDataAliceOrigin.txt	11461678
+plugins/ForceOfWill/sets/CardDataSaga.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/sets/CardDataSaga.txt	5312506
+plugins/ForceOfWill/sets/CardDataDuel.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/sets/CardDataDuel.txt	2271467
+plugins/ForceOfWill/sets/CardDataAliceOrigin.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/sets/CardDataAliceOrigin.txt	5811592
 plugins/ForceOfWill/sets/CardDataAlice.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Alice.txt	11461678
 plugins/ForceOfWill/sets/CardDataExtras.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Extras.txt	160379
 plugins/ForceOfWill/sets/CardDataGrimm.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Grimm.txt	8526365
 plugins/ForceOfWill/sets/CardDataLapis.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Lapis.txt	11414747
-plugins/ForceOfWill/sets/CardDataNewValhalla.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/sets/CardDataNewValhalla.txt	6100670
+plugins/ForceOfWill/sets/CardDataNewValhalla.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/sets/CardDataNewValhalla.txt	8587596
 plugins/ForceOfWill/sets/CardDataPromo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Promo.txt	1862315
 plugins/ForceOfWill/sets/CardDataReiya.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Reiya.txt	13424139
 plugins/ForceOfWill/sets/CardDataStones.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Stones.txt	2527012
 plugins/ForceOfWill/sets/CardDataVahalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Vahalla.txt	10563963
-
-plugins/ForceOfWill/CardImageURLsAliceOrigin.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsAliceOrigin.txt	11461678
-plugins/ForceOfWill/CardImageURLsDuel.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsDuel.txt	11461678
-plugins/ForceOfWill/CardImageURLsAliceOrigin.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsAliceOrigin.txt	11461678
-plugins/ForceOfWill/CardImageURLsAlice.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsAlice.txt	4733039
+plugins/ForceOfWill/CardImageURLsAliceOrigin.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsAliceOrigin.txt	4694808
+plugins/ForceOfWill/CardImageURLsDuel.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsDuel.txt	1093287
+plugins/ForceOfWill/CardImageURLsAliceOrigin.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsAliceOrigin.txt	4694808
+plugins/ForceOfWill/CardImageURLsAlice.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsAlice.txt	4207529
 plugins/ForceOfWill/CardImageURLsExtras.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsExtras.txt	186893
-plugins/ForceOfWill/CardImageURLsGrimm.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsGrimm.txt	3875181
-plugins/ForceOfWill/CardImageURLsLapis.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsLapis.txt	4817992
-plugins/ForceOfWill/CardImageURLsNewValhalla.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsNewValhalla.txt	2701203
+plugins/ForceOfWill/CardImageURLsGrimm.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsGrimm.txt	3435116
+plugins/ForceOfWill/CardImageURLsLapis.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsLapis.txt	3374841
+plugins/ForceOfWill/CardImageURLsNewValhalla.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsNewValhalla.txt	4812609
 plugins/ForceOfWill/CardImageURLsPromo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsPromo.txt	667094
-plugins/ForceOfWill/CardImageURLsReiya.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsReiya.txt	5744765
+plugins/ForceOfWill/CardImageURLsReiya.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsReiya.txt	6534658
 plugins/ForceOfWill/CardImageURLsValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsValhalla.txt	3888479
-
-plugins/ForceOfWill/README.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/README.txt	318440
+plugins/ForceOfWill/README.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/README.txt	331968
 plugins/ForceOfWill/public-sync.bat	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/public-sync.txt	16496
-
-CardURLFiles:
+CardImageURLs:
 CardImageURLsAlice.txt
 CardImageURLsAliceOrigin.txt
 CardImageURLsDuel.txt
