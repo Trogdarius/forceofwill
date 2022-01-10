@@ -1,0 +1,514 @@
+Name	Set	ImageFile	SetID	type	Race	Cost	TCost	ATK	DEF	Attribute	Rarity	Cardtext	Script
+Agravain, the Hard Hand	AO1	AO1-001	AO1-001	Resonator	Knight of the Round Table	[L]	3	            400	400        	Light	R	[Barrier][F] [Barrier][D]	
+Blessed Holy Wolf	AO1	AO1-002	AO1-002	Resonator	Holy Beast	[L][1]	3	            400	600        	Light	N		
+Bors, Returned Adventurer	AO1	AO1-003	AO1-003	Resonator	Knight of the Round Table	[L][2]	6	            600	600        	Light	N		
+Galahad, the Son of the God	AO1	AO1-004	AO1-004	Resonator	Knight of the Round Table	[L][1]	3	            400	400        	Light	N		
+Gloria's Castle Town	AO1	AO1-005	AO1-005	Addition: Field	Castle	[L][1]	3			Light	N		
+Gwiber, the White Dragon	AO1	AO1-006	AO1-006	Resonator	Dragon	[L][4]	12	            1200	1200        	Light	N	[Flying] (This card cannot be blocked by J/resonators without [Flying].)	
+Izanami, the God of Life	AO1	AO1-007	AO1-007	Resonator	Twelve Protective Deities	[L][L]	3	            800	800        	Light	SR	[Drain][Barrier](Resonator)	
+Life Profiteering Priest	AO1	AO1-008	AO1-008	Resonator	Priest	[L]	3	            200	400        	Light	N		
+Light of Sacred Spirit	AO1	AO1-009	AO1-009	Chant	Sword Art	[L]	3			Light	SR	[Quickcast]Choose one, if you control "Lars, Knight of the Sacred Spirit", you may choose both instead - Remove target resonator with 900 ATK or more from the game; or search your deck for a Five Hero resonator, reveal it and put it into your hand.	
+Ouroboros, the Reincarnating Light Serpent	AO1	AO1-010	AO1-010	Resonator	Twelve Protective Deities	[L][L][L][L][L]	3	            2000	2000        	Light	SR		
+Parry	AO1	AO1-011	AO1-011	Chant	Sword Art	[L]	3			Light	R	[Quickcast]Prevent all damage that would be dealt by target chant spell or ability until end of turn. Draw a card.	
+Pride of Knights	AO1	AO1-012	AO1-012	Chant	-	[L]	3			Light	N	[Quickcast]Target J/resonator you control gains [+200/+200] until end of turn.	
+Protective Barrier	AO1	AO1-013	AO1-013	Chant	-	[L]	3			Light	N	[Quickcast]Prevent all damage that would be dealt to target resonator until end of turn.	
+Remilla, the Librarian of Magna	AO1	AO1-014	AO1-014	Resonator	Wizard/Cat	[L]	3	            200	500        	Light	R		
+Seal of Lenneth	AO1	AO1-015	AO1-015	Addition	-	[L]	3			Light	N		
+Spirit of Goddess	AO1	AO1-016	AO1-016	Resonator	Fairy	[L]	3	            400	400        	Light	N	[Flying]Remove this card from the game: Produce [F]. Spend this will only to play Goddess cards.	
+Spirit of Memory	AO1	AO1-017	AO1-017	Resonator	Spirit	[L]	3	            400	400        	Light	N	[Flying]	
+Barbatos, the Crimson Duke (Stranger)	AO1	AO1-018	AO1-018	Resonator(Stranger)	Demon	[F]	3	            700	700        	Fire	R	[Swiftness]	
+Berserk Dragon (Stranger)	AO1	AO1-019	AO1-019	Resonator(Stranger)	Dragon	[F][F][F]	3	            2000	400        	Fire	R	[Flying]	
+Burn to Cinders	AO1	AO1-020	AO1-020	Chant	-	[F][F]	3			Fire	N	[Quickcast]This card deals 700 damage to target J/resonator. If it's a J-ruler, it loses [Imperishable] until end of turn. If it's a resonator and it would be put into a graveyard from a field this turn, remove it from game instead.	
+Certo, the Blazing Volcano	AO1	AO1-021	AO1-021	Addition: Field	Mountain	[F][1]	3			Fire	N		
+Draig, the Red Dragon	AO1	AO1-022	AO1-022	Resonator	Dragon	[F][4]	12	            1200	1200        	Fire	N	[Flying] (This card cannot be blocked by J/resonators without [Flying].)	
+Familiar of Primogenitor	AO1	AO1-023	AO1-023	Resonator	Demon	[F]	3	            400	100        	Fire	N		
+Fire Fox	AO1	AO1-024	AO1-024	Resonator	Beast	[F]	3	            400	400        	Fire	R		
+Gareth, the Dauntless Knight	AO1	AO1-025	AO1-025	Resonator	Knight of the Round Table	[F][F][1]	3	            800	800        	Fire	N	[Precision] (This card can attack recovered J/resonators.)	
+Heroic Spirit of Vell-Savaria	AO1	AO1-026	AO1-026	Resonator	Heroic Spirit	[F]	3	            600	600        	Fire	N		
+Invasion of Alisaris	AO1	AO1-027	AO1-027	Chant	Mage Art	[F]	3			Fire	N	[Quickcast]Remove the top three cards of your deck from the game. This card deals 100 damage multiplied by the combined total cost of the cards removed this way to target J/resonator.[Remnant]	
+Keeper of the Future, Skuld	AO1	AO1-028	AO1-028	Resonator	Goddess	[F][1]	3	            500	500        	Fire	N		
+Keeper of the Past, Urthr	AO1	AO1-029	AO1-029	Resonator	Goddess	[F][2]	6	            800	800        	Fire	N		
+Keeper of the Present, Verdandi	AO1	AO1-030	AO1-030	Resonator	Goddess	[F]	3	            100	100        	Fire	N		
+Memory of Disappearance	AO1	AO1-031	AO1-031	Chant	-	[F]	3			Fire	N	Put target card from your removed area into your hand. 	
+Regalia Break	AO1	AO1-032	AO1-032	Chant	Sword Art	[F]	3			Fire	R	[Quickcast]Destroy target regalia. Draw a card.	
+Rukh Egg	AO1	AO1-033	AO1-033	Resonator	Egg	[F]	3	            0	200        	Fire	N		
+Sanguine Arena	AO1	AO1-034	AO1-034	Addition: Field	-	[F]	3			Fire	N		
+Thunder	AO1	AO1-035	AO1-035	Chant	-	[F]	3			Fire	N	[Quickcast]This card deals 500 damage to target player or J/resonator.	
+Torching the Timeline	AO1	AO1-036	AO1-036	Chant	-	[F]	3			Fire	N	This card deals 100 damage to target resonator for each card in your removed area.	
+Whelp Drake	AO1	AO1-037	AO1-037	Resonator	Dragon	[F][1]	3	            400	400        	Fire	N	[Flying]	
+Alice's Little Scout	AO1	AO1-038	AO1-038	Resonator	Soldier	[Wa]	4	            200	200        	Water	N		
+Bewildering Charm	AO1	AO1-039	AO1-039	Chant	Mage Art	[Wa]	4			Water	R	[Quickcast]Choose one - Return target resonator to its owner's hand; or draw a card.	
+Rahab, The Emperor Dragon of Riptide (Stranger)	AO1	AO1-040	AO1-040	Resonator(Stranger)	Dragon	[Wa][Wa][Wa]	4	            1000	1000        	Water	R	[Flying]	
+Vala, the Bewildering Mage	AO1	AO1-041	AO1-041	Resonator	Five Heroes	[Wa][Wa]	4	            600	600        	Water	SR		
+Astema, the Fallen Angel of Desolation (Stranger)	AO1	AO1-042	AO1-042	Resonator(Stranger)	Fallen Angel/Deity	[D][D][D]	3	            1000	1000        	Darkness	SR	[Flying][Drain]	
+Dark Alice's Shadow Warrior	AO1	AO1-043	AO1-043	Resonator	Shadow/Soldier	[D]	3	            300	300        	Darkness	N		
+Dark Indication	AO1	AO1-044	AO1-044	Chant	-	[D]	3			Darkness	R	Your opponent reveals their hand. Choose a chant or an addition. They discard that card.	
+Alisaris, the Invader to the God's City	AO1	AO1-045	AO1-045	Resonator	Human	[L][F]	6			Light	SR		
+Amaterasu, the Oracle of Sacred Text (Stranger)	AO1	AO1-046	AO1-046	Resonator(Stranger)	Deity	[L][F]	6	            800	800        	Light	SR		
+Athena, the Guardian of Blaze	AO1	AO1-047	AO1-047	Resonator	Twelve Protective Deities/Goddess	[L][L][F]	6	            800	800        	Light	SR	[Flying][Drain]	
+Azazel, the Blazing Charger (Stranger)	AO1	AO1-048	AO1-048	Resonator(Stranger)	Demon	[F][D]	6	            700	700        	Fire	SR		
+Blazer	AO1	AO1-049	AO1-049	Resonator	Dragon	[F][F][D][D]	6	            1000	1000        	Fire	SR	[Flying]	
+Caduceus	AO1	AO1-050	AO1-050	Regalia	-	[L][F]	6			Light	SR	[Mythic]	
+Crossing Point	AO1	AO1-051	AO1-051	Chant	Mage Art	[L][F]	6			Light	SR	[Quickcast]Look at the top seven cards of your deck. You may reveal any number of Goddess resonators among them and put them into your hand. Remove the rest from the game.	
+Dark Fire	AO1	AO1-052	AO1-052	Chant	Sword Art	[F][F][D]	6			Fire	SR	[Quickcast]As an additional cost to play this card, you may pay any amount of life. This card deals that much damage to target J/resonator. If you control "Laevateinn", this card may deal that much damage to a second target J/resonator. If this card was awakened, choose a card from your Stranger deck at random, and put it into the field.[Awakening][F][F][D][D]	
+Darkest Fire Small Dragon	AO1	AO1-053	AO1-053	Resonator	Dragon	[F][D]	6	            600	600        	Fire	R	[Flying]	
+Hitomatano-Orochi, the Pet of Lenneth	AO1	AO1-054	AO1-054	Resonator	Twelve Protective Deities/Dragon	[L][F]	6	            200	200        	Light	R	[Barrier]	
+Holy Nova	AO1	AO1-055	AO1-055	Chant	Sword Art	[L][L][Wa][Wa]	7			Light	SR	Destroy all resonators. If this card was awakened, choose a card from your Stranger deck at random, and put it into the field.[Awakening][L][L][D][D]	
+Ishtar, the Great Goddess of Kindness (Stranger)	AO1	AO1-056	AO1-056	Resonator(Stranger)	Goddess	[L][L][Wa][Wa]	7	            1000	1000        	Light	SR		
+Lamorak, the Third Knight	AO1	AO1-057	AO1-057	Resonator	Knight of the Round Table	[L][Wa]	7	            600	600        	Light	R		
+Lars, Knight of the Sacred Spirit	AO1	AO1-058	AO1-058	Resonator	Five Heroes	[L][L][Wa]	7	            800	800        	Light	SR	[Drain][First Strike]	
+Light of Raze and Revive	AO1	AO1-059	AO1-059	Chant	Mage Art	[L][F]	6			Light	SR	[Quickcast]Choose one - Remove target non-J-ruler, non-magic stone entity with total cost 3 or less from the game; or put a resonator with total cost 3 or less from your removed area into the field; or search your deck for a light regalia, reveal it, and put it into your hand.	
+Opening the Red Eyes	AO1	AO1-060	AO1-060	Chant	Sword Art	[F][D]	6			Fire	SR	[Quickcast]Target J/resonator gains [+700/+700], [Precision], and [First Strike] until end of turn. If it's "Shakti, the Red Eyes Swords Master", put seven [+100/+100] counters on it and it gains [Precision], [First Strike], and [Eternal] until end of turn instead.	
+Phoenix, the Inextinct Fire	AO1	AO1-061	AO1-061	Resonator	Twelve Protective Deities/Beast	[L][F]	6	            400	1000        	Light	R	[Flying]	
+Shakti, the Red Eyes Swords Master	AO1	AO1-062	AO1-062	Resonator	Five Heroes	[F][D]	6	            600	600        	Fire	SR		
+The Palace of Three Goddess	AO1	AO1-063	AO1-063	Addition	-	[L][F]	6			Light	R		
+Thor, the White Lightning (Stranger)	AO1	AO1-064	AO1-064	Resonator(Stranger)	Deity	[L][F]	6	            800	800        	Light	R		
+Twin-Adders Spiral	AO1	AO1-065	AO1-065	Chant	Mage Art	[L][F]	6			Light	R	[Quickcast]This card deals 600 damage to target player or J/resonator. You gain 600 life. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.[Awakening][L]	
+Vell-Savaria, the God's City	AO1	AO1-066	AO1-066	Addition	-	[L][F]	6			Light	R	[Rest]: Produce [L] or [F]. Spend this will only to play (Stranger) resonators.	
+Magic Stone of Heat Ray	AO1	AO1-067	AO1-067	Special Magic Stone	-		0				R		
+Avalon, Illusionary Home of Knights	SDAO1	SDAO1-001	SDAO1-001	Addition: Field	-	[L][1]	3			Light			
+Bedivere, the Restorer of Souls	SDAO1	SDAO1-002	SDAO1-002	Resonator	Knight of the Round Table	[L][L][1]	3	            700	700        	Light		[Precision]	
+Gawain, the Knight of the Sun	SDAO1	SDAO1-003	SDAO1-003	Resonator	Knight of the Round Table	[L][L]	3	            300	700        	Light			
+Kai, the Resonant Knight	SDAO1	SDAO1-004	SDAO1-004	Resonator	Knight of the Round Table	[L]	3	            400	400        	Light			
+Perceval, the Seeker of Holy Grail	SDAO1	SDAO1-005	SDAO1-005	Resonator	Knight of the Round Table	[L]	3	            200	200        	Light			
+Siegfried, the Dragon Knight (Stranger)	SDAO1	SDAO1-006	SDAO1-006	Resonator (Stranger)	Paladin	[L][L]	3	            700	1000        	Light		[Flying] [Barrier][F] [Barrier][D]	
+White Wizard (Stranger)	SDAO1	SDAO1-007	SDAO1-007	Resonator (Stranger)	Wizard	[L]	3	            500	700        	Light		[Drain]	
+Demonflame	SDAO1	SDAO1-008	SDAO1-008	Chant	-	[F]	3			Fire		[QuickCast]Choose one - 	
+Guinevere, the Jealous Queen	SDAO1	SDAO1-009	SDAO1-009	Resonator	Queen	[F]	3	            200	400        	Fire			
+Hector de Maris, the Acolyte of Mad Demon	SDAO1	SDAO1-010	SDAO1-010	Resonator	Knight of the Round Table	[F][1]	3	            400	400        	Fire			
+Lancelot, the Knight of Mad Demon	SDAO1	SDAO1-011	SDAO1-011	Resonator	Knight of the Round Table	[F][F]	3	            600	600        	Fire		[Swiftness] (This card can attack and you can play its [rest] abilities the same turn it enters a field.)	
+Perceval, the Fascinated by Holy Grail	SDAO1	SDAO1-012	SDAO1-012	Resonator	Knight of the Round Table	[F]	3	            200	200        	Fire			
+Red Wizard  (Stranger)	SDAO1	SDAO1-013	SDAO1-013	Resonator (Stranger)	Wizard	[F]	3	            600	600        	Fire			
+Regulus, the King of Volcano (Stranger)	SDAO1	SDAO1-014	SDAO1-014	Resonator (Stranger)	Beast	[F][F]	3	            1000	1000        	Fire		[Swiftness]	
+Twin Swords of Water's Mercy (Stranger)	SDAO1	SDAO1-015	SDAO1-015	Resonator (Stranger)	Swordsman	[Wa]	4	            600	600        	Water		[Quickcast]	
+Undine, the Spirit (Stranger)	SDAO1	SDAO1-016	SDAO1-016	Resonator (Stranger)	Spirit	[Wa]	4	            700	700        	Water		[Quickcast][Flying]	
+Amon, the Demon Prince of Conspiracy (Stranger)	SDAO1	SDAO1-017	SDAO1-017	Resonator (Stranger)	Demon	[D]	3	            0	0        	Darkness			
+Shade (Stranger)	SDAO1	SDAO1-018	SDAO1-018	Resonator (Stranger)	Spirit	[D]	3	            600	600        	Darkness		[Bane]	
+Arthur, the King of Knights (Stranger)	SDAO1	SDAO1-019	SDAO1-019	Resonator (Stranger)	Knight of the Round Table	[L][L][Wa]	7	            1000	1000        	Light		[Precision][First Strike]	
+Awakening of the Flame King	SDAO1	SDAO1-020	SDAO1-020	Chant	Sword Art	[F][F][D]	6			Fire		[Quickcast]Choose one - This card deals 800 damage to target player; or target player banishes a resonator; or this card deals 400 damage to each J/resonator your opponent controls. You may put a fire resonator with total cost 3 or less from your hand into the field.	
+Awakening of the Sacred Queen	SDAO1	SDAO1-021	SDAO1-021	Chant	Sword Art	[L][L][Wa]	7			Light		[Quickcast]Choose one - Search your deck for a light regalia and put it into the field; or gain 1000 life. Draw a card; or rest target J/resonator. J/resonators you control gain [+400/+400] until end of turn.	
+Bloody Break	SDAO1	SDAO1-022	SDAO1-022	Chant	Sword Art	[F][D]	6			Fire		[Quickcast]Destroy target J/resonator. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.[Awakening][F]	
+C? Chulainn, the Hero in a Far Land (Stranger)	SDAO1	SDAO1-023	SDAO1-023	Resonator (Stranger)	Hero	[F][F][D]	6	            1000	1000        	Fire		[First Strike][Bane]	
+Darkest Fire Dragon	SDAO1	SDAO1-024	SDAO1-024	Resonator	Dragon	[F][D]	6	            800	800        	Fire		[Flying]	
+Excalibur	SDAO1	SDAO1-025	SDAO1-025	Regalia	-	[L][Wa]	7			Light		[Mythic] (If you control two or more entities with [Mythic] that share a name, banish all but one of them.)[Rest]: Produce two wills in any combination of [L] and/or [D]. Spend this will only to play God's Art abilities, (Strangers), or Sword Arts.	
+Faria	SDAO1	SDAO1-026	SDAO1-026	Ruler	Little Girl		0					[Stranger]10 (You may begin the game with a Stranger deck of exactly ten (Stranger) resonators. You may not have more than two copies of any card in your Stranger deck.)[Energize][L][D]	
+Laevateinn	SDAO1	SDAO1-027	SDAO1-027	Regalia	-	[F][D]	6			Fire		[Mythic] (If you control two or more entities with [Mythic] that share a name, banish all but one of them.)[Rest]: Produce two wills in any combination of [F] and/or [D]. Spend this will only to play God's Art abilities, (Strangers), or Sword Arts.	
+Melgis	SDAO1	SDAO1-028	SDAO1-028	Ruler	Warrior		0					[Stranger]10 (You may begin the game with a Stranger deck of exactly ten (Stranger) resonators. You may not have more than two copies of any card in your Stranger deck.)[Energize][F][D]	
+Sacred Wave Blade	SDAO1	SDAO1-029	SDAO1-029	Chant	Sword Art	[L][Wa]	7			Light		[Quickcast][Awakening][L]	
+Traveler in Wonderland	SDAO1	SDAO1-030	SDAO1-030	Resonator	Wanderer	[L][L][Wa]	7	            800	800        	Light		[Quickcast]	
+Viviane	SDAO1	SDAO1-031	SDAO1-031	Resonator	Fairy	[L][Wa]	7	            600	600        	Light		[Flying]	
+Volga, the Fire King	SDAO1	SDAO1-032	SDAO1-032	Resonator	King	[F][F][D]	6	            900	900        	Fire		[Precision][Swiftness]	
+Attoractia’s Memoria	SDAO1	SDAO1-033	SDAO1-033	Special Magic Stone	-		0					[Rest]: Produce one will of any attribute shared with your J/ruler.	
+Magic Stone of Light Vapors	SDAO1	SDAO1-034	SDAO1-034	Special Magic Stone	-		0						
+Magic Stone of Scorched Bales	SDAO1	SDAO1-035	SDAO1-035	Special Magic Stone	-		0						
+Fire Magic Stone	SDAO1	SDAO1-036	SDAO1-036	Basic Magic Stone	-		0						
+Light Magic Stone	SDAO1	SDAO1-037	SDAO1-037	Basic Magic Stone	-		0						
+Bai Hu, the Sacred Beast	AO2	AO2-001	AO2-001	Resonator	Four Sacred Beasts	[L][2]	6	            600	600        	Light	N	[Precision]	
+Zhu Que, the Sacred Beast	AO2	AO2-003	AO2-003	Resonator	Four Sacred Beasts	[F][1]	3	            400	400        	Fire	N	[Swiftness] (This card can attack and play its  abilities the same turn it enters a field.)	
+All Consuming Suspicion	AO2	AO2-005	AO2-005	Addition: Resonator	-	[Wa]	4			Water	N		
+Euryale, the Dark Eye of Blindness	AO2	AO2-008	AO2-008	Resonator	Gorgon	[Wa][2]	6	            600	500        	Water	N		
+Foresee	AO2	AO2-009	AO2-009	Chant	-	[Wa][Wa]	4			Water	N	Draw two cards.	
+Medusa, the Dead Eye of Petrification	AO2	AO2-013	AO2-013	Resonator	Gorgon	[Wa][2]	6	            600	600        	Water	N		
+Shangri-La, the Paradise on the Ocean	AO2	AO2-015	AO2-015	Addition: Field	-	[Wa][1]	3			Water	N		
+Stheno, the Evil Eye of Temptation	AO2	AO2-017	AO2-017	Resonator	Gorgon	[Wa][2]	6	            500	600        	Water	N		
+Xuan Wu, the Sacred Beast	AO2	AO2-023	AO2-023	Resonator	Four Sacred Beasts	[Wa][2]	6	            500	700        	Water	N		
+Pricia's Call to Action	AO2	AO2-026	AO2-026	Chant	-	[Wi]	4			Wind	N	You may pay [Wi] less to play this card if it targets a Beast.Target resonator gains [Swiftness] and [Precision] until end of turn. Draw a card.	
+Qing Long, the Sacred Beast	AO2	AO2-027	AO2-027	Resonator	Four Sacred Beasts	[Wi][Wi][1]	3	            800	800        	Wind	N		
+Ratatoskr, the Spirit Beast of Yggdrasil	AO2	AO2-028	AO2-028	Resonator	Beast	[Wi]	4	            0	200        	Wind	N		
+Sissei, the Ancient Forest	AO2	AO2-031	AO2-031	Addition: Field	Forest	[Wi][1]	3			Wind	N		
+Dance of the Shadows	AO2	AO2-035	AO2-035	Chant	-	[D][3]	9			Darkness	N	[Quickcast] [Remnant]Put target resonator from your graveyard into your field. Remove it from the game at end of turn.	
+Clockwork Soldiers	AO2	AO2-056	AO2-056	Resonator	Machine	[1]	3	            300	300        		N	[Precision] (This card can attack recovered J/resonators.)	
+Leginus, the Mechanical City	AO2	AO2-058	AO2-058	Addition: Field	Machine	[2]	6				N		
+Machine Lab of Leginus	AO2	AO2-059	AO2-059	Addition: Field	Machine	[2]	6				N		
+Mariabella's Work	AO2	AO2-060	AO2-060	Chant	-	[5]	15				N	[Quickcast]You may pay [1] less to play this card for each Machine you control.Draw two cards.	
+Remote Control Beast	AO2	AO2-061	AO2-061	Resonator	Machine/Beast	[4]	12	            800	800        		N		
+Remote Control Golem	AO2	AO2-062	AO2-062	Resonator	Machine	[1][0]	3	            2000	2000        		N		
+Attoractia’s Memoria	AO2	AO2-063	AO2-063	Special Magic Stone	-		0				N	[Rest]: Produce one will of any attribute shared with your J/ruler.	
+Magic Stone of Deep Wood	AO2	AO2-064	AO2-064	Special Magic Stone	-		0				N		
+Secret Duel in the Moonlight	AO2	AO2-002	AO2-002	Chant	Sword Art/Moon Art	[F]	3			Fire	SR	As an additional cost to play this card, pay any amount of life. Draw a card for each 1000 life paid this way.[Awakening][F]: This card deals X damage divided as you choose to any number of target J/resonators, where X is the amount of life paid as additional cost.[Awakening][M]: J/resonators gain [-100/-100] for each 100 life paid as additional cost until end of turn.	
+A Present from Machina	AO2	AO2-004	AO2-004	Chant	Sword Art	[Wa]	4			Water	N	[Quickcast]Draw a card. If you control "Mariabella", choose a card from your Stranger deck at random and put it into your hand.	
+Buster Rifle	AO2	AO2-006	AO2-006	Addition	Machine	[Wa]	4			Water	R		
+Caller of Gorgons	AO2	AO2-007	AO2-007	Resonator	Wizard	[Wa]	4	            200	500        	Water	R		
+Gear Golem, the Magical Soldier (Stranger)	AO2	AO2-010	AO2-010	Resonator (Stranger)	Machine	[Wa][Wa][Wa][Wa][Wa]	4	            4000	4000        	Water	SR		
+Leginus, the City of Science	AO2	AO2-011	AO2-011	Addition	Machine	[Wa]	4			Water	R		
+Linked Battle Robot	AO2	AO2-012	AO2-012	Resonator	Machine	[Wa][Wa][1]	3	            800	800        	Water	SR		
+Mirage Golem (Stranger)	AO2	AO2-014	AO2-014	Resonator (Stranger)	Machine	[Wa]	4	            700	700        	Water	R	[Quickcast]	
+Shion, the Sorrowful Songstress	AO2	AO2-016	AO2-016	Resonator	Human	[Wa]	4	            400	400        	Water	SR		
+Suppression Order	AO2	AO2-018	AO2-018	Chant	Sword Art	[Wa]	4			Water	R	[Quickcast]As an additional cost to play this card, reveal a Machine resonator from your hand.This card deals damage equal to revealed resonator's ATK to target J/resonator. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.[Awakening][Wi]	
+Athenia, the Wind Master (Stranger)	AO2	AO2-024	AO2-024	Resonator (Stranger)	Human	[Wi]	4	            600	600        	Wind	R		
+Don't Cheat!	AO2	AO2-025	AO2-025	Chant	Sword Art	[Wi][Wi][Wi]	4			Wind	SR	[Quickcast]You may play this card without paying its cost if it targets a spell that was not played from a hand.Cancel target chant spell. If you control a wind regalia, draw a card.	
+Rushing Boar	AO2	AO2-029	AO2-029	Resonator	Beast	[Wi]	4	            400	400        	Wind	R		
+Secret Hot Spring of Sissei	AO2	AO2-030	AO2-030	Addition	-	[Wi]	4			Wind	SR		
+Sprout of Treasure Tree (Stranger)	AO2	AO2-032	AO2-032	Resonator (Stranger)	Spirit	[Wi]	4	            0	100        	Wind	SR		
+World Tree Spider	AO2	AO2-033	AO2-033	Resonator	Beast	[Wi][Wi][1]	3	            800	800        	Wind	R		
+Brutal Majin	AO2	AO2-034	AO2-034	Resonator	Demon	[D][3]	9	            1000	1000        	Darkness	R	[Bane]	
+Laboratory of Forbidden Arts 	AO2	AO2-036	AO2-036	Addition	-	[D]	3			Darkness	R		
+Aura of the Sacred Sword	AO2	AO2-037	AO2-037	Chant	Sword Art	[L][Wa]	7			Light	SR	[Quickcast]You and entities you control gain [Barrier] until end of turn. Draw a card.If you control "Excalibur" and a J-ruler named "Faria", you may play this card without paying its cost.	
+Awakening of Ambition	AO2	AO2-038	AO2-038	Chant	Mage Art	[Wa][D]	7			Water	SR	Look at your opponent's hand. Choose a card. They put that card on the bottom of their deck. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.[Awakening] Discard two cards.	
+Burning Rush!	AO2	AO2-039	AO2-039	Chant	Sword Art	[F][Wi]	7			Fire	R	[Quickcast]Choose one - This card deals 1000 damage to target J/resonator; or target J/resonator you control gains [+1000/+1000] until end of turn.If there are three or more friendship counters on your J/ruler, you may pay [Wi] or [F] to play this card instead. If there are seven or more friendship counters on your J/ruler, you may play this card without paying its cost.	
+Chronos, the Master of Labyrinth (Stranger)	AO2	AO2-040	AO2-040	Resonator (Stranger)	Myth	[Wa][Wa][D]	7	            1000	1000        	Water	SR		
+Communication Robot	AO2	AO2-041	AO2-041	Resonator	Machine	[Wa][Wi]	8	            600	600        	Water	N	[Flying]	
+Elemental of the Demon Sword	AO2	AO2-042	AO2-042	Resonator	Elemental	[F][F][D]	6	            1200	100        	Fire	R	[Swiftness][Precision]	
+Forbidden Summoning	AO2	AO2-043	AO2-043	Chant	Mage Art	[Wa][Wa][D]	7			Water	SR	Search your deck for up to three Gorgons that don't share a name, reveal them, and put them into your hand. Then shuffle your deck. Remove this card from the game and put a forbidden arts counter on it. Then, if you control a J-ruler named "Valentina", put up to three Gorgons that don't share a name from your hand into the field.As long as this card is in your removed area with one or more forbidden arts counters on it, Gorgons you control gain [+200/+200].	
+Forest Bear	AO2	AO2-044	AO2-044	Resonator	Beast	[F][Wi]	7	            600	600        	Fire	R	[Quickcast]	
+Huanglong	AO2	AO2-045	AO2-045	Resonator	God/Beast	[F][Wi]	7	            500	500        	Fire	SR		
+Mariabella	AO2	AO2-046	AO2-046	Resonator	Human/Machine	[Wa][Wi]	8	            600	600        	Water	SR		
+Mariabella's Recycling Robot	AO2	AO2-047	AO2-047	Resonator	Machine	[Wa][Wa][Wi]	8	            800	800        	Water	SR	[Awakening] Remove two Machines in your graveyard from the game.	
+Marybell Type Zero	AO2	AO2-048	AO2-048	Regalia	Machine	[Wa][Wi]	8			Water	SR	[Mythic]	
+Nameless Knight	AO2	AO2-049	AO2-049	Resonator	Knight of the Round Table	[L][Wa]	7	            600	600        	Light	R		
+Royal Palace Guardian Mage, Freya (Stranger)	AO2	AO2-050	AO2-050	Resonator (Stranger)	Wizard	[Wa][Wi]	8	            700	700        	Water	SR	[Quickcast]	
+Sniper Robot	AO2	AO2-051	AO2-051	Resonator	Machine	[Wa][Wi]	8	            600	600        	Water	R		
+Super Beast Burning Rush!	AO2	AO2-052	AO2-052	Chant	Sword Art	[F][F][Wi][Wi]	7			Fire	SR	Put a friendship counter on your J/ruler. If this card was awakened, choose X times from the following, otherwise choose X times from the following at random, where X is the number of friendship counters on your J/ruler. (You can choose any option multiple times.) - This card deals 500 damage to your opponent; or put a [600/600] wind Beast resonator token into the field. It gains [Swiftness] until end of turn; or recover up to two magic stones you control; or choose a card from your Stranger deck at random and put it into your hand.[Awakening][F][F][Wi][Wi]	
+The Determination of the Machine Lord	AO2	AO2-053	AO2-053	Chant	Sword Art	[Wa][Wi]	8			Water	SR	[Quickcast]Choose one - Machine J/resonators you control gain [Swiftness] and [+200/+200] until end of turn; or return two target Machines you control to their owner's hand; or search your deck for two Machines with total cost 1 or less. Put one into the field and the other into your graveyard. Then shuffle your deck.	
+The Tune-up of Marybell	AO2	AO2-054	AO2-054	Chant	Sword Art	[Wa][Wi]	8			Water	R	[Quickcast]Choose one, if you don't control "Mariabella", choose one at random instead - Destroy target Machine resonator you control and draw X cards, where X is the total cost of the resonator destroyed this way; or put six [+100/+100] counters on target Machine resonator you control; or put a token copy of target Machine resonator you control into the field.	
+Wanderer in the Nightmare Land	AO2	AO2-055	AO2-055	Resonator	Wanderer	[Wa][D][D]	7	            800	800        	Water	SR	[Awakening] Remove three resonators in your graveyard from the game.	
+Healing Gimmick (Stranger)	AO2	AO2-057	AO2-057	Resonator (Stranger)	Machine	[0]	0	            200	600        		R		
+The Betrayer Returns	AO2	AO2-019	AO2-019	Chant	Mage Art	[Wa]	4			Water	R	[Quickcast][Remnant]Target J/resonator gains [-800/0] until end of turn.	
+Twin Robots	AO2	AO2-020	AO2-020	Resonator	Machine	[Wa]	4	            200	200        	Water	N		
+Ultimate Shield	AO2	AO2-021	AO2-021	Addition	Machine	[Wa]	4			Water	R		
+Underwater Robot	AO2	AO2-022	AO2-022	Resonator	Machine	[Wa][Wa]	4	            700	700        	Water	N		
+Barust, the Machine God of Conflagration (Stranger)	SDAO2	SDAO2-001	SDAO2-001	Resonator (Stranger)	Demon	[F][F]	3	            800	800        	Fire		[Awakening][Wi]: [Enter] => J/resonators you control gain [Pierce] until end of turn.[Awakening][F]: [Enter] => J/resonators you control gain [Swiftness] until end of turn.	
+Blue Wizard (Stranger)	SDAO2	SDAO2-002	SDAO2-002	Resonator (Stranger)	Wizard	[Wa]	4	            600	600        	Water		[Quickcast]	
+Charm of the Princess	SDAO2	SDAO2-003	SDAO2-003	Chant	-	[Wa][Wa][X]	4			Water		Gain control of target resonator with total cost X or less.	
+Cinderella, the Valkyrie of Glass	SDAO2	SDAO2-004	SDAO2-004	Resonator	Fairy Tale	[Wa][Wa]	4	            200	800        	Water			
+Perceval, the Charmed Knight	SDAO2	SDAO2-005	SDAO2-005	Resonator	Knight of the Round Table	[Wa]	4	            200	200        	Water			
+Triton, the Prince of Ocean (Stranger)	SDAO2	SDAO2-006	SDAO2-006	Resonator (Stranger)	God	[Wa][Wa]	4	            800	800        	Water		[Quickcast]	
+Valentina's Zealot	SDAO2	SDAO2-007	SDAO2-007	Resonator	Soldier	[Wa]	4	            100	500        	Water			
+Afanc, the Phantom Beast	SDAO2	SDAO2-008	SDAO2-008	Resonator	Beast	[Wi][1]	3	            600	600        	Wind			
+Deep Green Magician, Liz (Stranger)	SDAO2	SDAO2-009	SDAO2-009	Resonator (Stranger)	Elf	[Wi][Wi]	4	            700	800        	Wind		[Quickcast]	
+Friendly Seeking Mole	SDAO2	SDAO2-010	SDAO2-010	Resonator	Beast	[Wi]	4	            300	300        	Wind			
+Green Wizard (Stranger)	SDAO2	SDAO2-011	SDAO2-011	Resonator (Stranger)	Wizard	[Wi]	4	            600	600        	Wind			
+Herald of the Beast Lady	SDAO2	SDAO2-012	SDAO2-012	Resonator	Beast	[Wi]	4	            400	400        	Wind			
+Pricia's Encouragement	SDAO2	SDAO2-013	SDAO2-013	Chant	Sword Art	[Wi]	4			Wind		[Quickcast]Target J/resonator you control deals damage equal to its ATK to target J/resonator your opponent controls. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.[Awakening][F]	
+Rapid Growth	SDAO2	SDAO2-014	SDAO2-014	Chant	-	[Wi]	4			Wind		[Quickcast][Remnant]Target J/resonator gains [+400/+400] until end of turn.	
+Sprinting Wolf	SDAO2	SDAO2-015	SDAO2-015	Resonator	Beast	[Wi][Wi]	4	            600	500        	Wind		[Precision] (This card can attack recovered J/resonators.)	
+Yggnitsvay, the Guardian of Green Branch (Stranger)	SDAO2	SDAO2-016	SDAO2-016	Resonator (Stranger)	Spirit	[Wi][Wi]	4	            700	800        	Wind		[Quickcast]	
+Loki, the Ancient Demon Lord (Stranger)	SDAO2	SDAO2-017	SDAO2-017	Resonator (Stranger)	God	[D][D][D][7]	3	            1200	1200        	Darkness		[Flying]	
+Awakening of the Beast Queen	SDAO2	SDAO2-018	SDAO2-018	Chant	Sword Art	[F][Wi][Wi]	7			Fire		[Quickcast]Choose one - J/resonators you control gain [+600/+600] until end of turn; or put two friendship counters on your J/ruler. Then recover up to two magic stones; or put two [600/600] wind Beast resonator tokens into the field.	
+Claw of the Sacred Beast	SDAO2	SDAO2-019	SDAO2-019	Regalia	-	[F][Wi]	7			Fire		[Mythic] 	
+El Chif?n, the Pet Dragon of the Lord of the Seas	SDAO2	SDAO2-020	SDAO2-020	Resonator	Dragon	[Wa][Wa][D][3]	9	            1000	1000        	Water		[Flying]	
+Eureka, the Puppet Lord of the Seas	SDAO2	SDAO2-021	SDAO2-021	Resonator	King	[Wa][Wa][D]	7	            900	900        	Water			
+Freya, the Goddess of Full Moon (Stranger)	SDAO2	SDAO2-022	SDAO2-022	Resonator (Stranger)	Goddess	[Wa][D]	7	            700	700        	Water			
+Guardian of Outland (Stranger)	SDAO2	SDAO2-023	SDAO2-023	Resonator (Stranger)	Treeman	[F][Wi][Wi]	7	            0	2000        	Fire			
+Lovers' Lock	SDAO2	SDAO2-024	SDAO2-024	Regalia	-	[Wa][D]	7			Water		[Mythic] [Quickcast]	
+Magna's Guardian Beast	SDAO2	SDAO2-025	SDAO2-025	Resonator	Beast	[F][Wi][Wi]	7	            600	600        	Fire			
+Masked Prince	SDAO2	SDAO2-026	SDAO2-026	Resonator	Human	[Wa][D]	7	            600	600        	Water			
+Morrigan, the Goddess of Tragic Love (Stranger)	SDAO2	SDAO2-027	SDAO2-027	Resonator (Stranger)	Goddess	[Wa][Wa][D]	7	            900	1000        	Water		[Flying]	
+Pricia	SDAO2	SDAO2-028	SDAO2-028	Ruler	Little Girl		0				RR	[Stranger]10 (You may begin the game with a Stranger deck of exactly ten (Stranger) resonators. You may not have more than two copies of any card in your Stranger deck.)[Judgment] [Wi][Wi][F][Energize] [F][Wi]	
+Space-Time Anomaly	SDAO2	SDAO2-029	SDAO2-029	Chant	-	[Wa][D]	7			Water		[Quickcast] [Remnant]Target J/resonator gains [-500/-500] until end of turn. Draw a card.	
+The Princess of Love Takes Control	SDAO2	SDAO2-030	SDAO2-030	Chant	Mage Art	[Wa][Wa][D]	7			Water		[Quickcast]Choose one - Put target resonator or regalia on the bottom of its owner's deck; or put two target resonators from your graveyard into your hand; or choose a card from your Stranger deck at random and put it into your hand. Then recover target regalia.	
+Valentina	SDAO2	SDAO2-031	SDAO2-031	Ruler	Wizard		0				RR	[Stranger]10 (You may begin the game with a Stranger deck of exactly ten (Stranger) resonators. You may not have more than two copies of any card in your Stranger deck.)[Judgment] [D][D][D][Energize] [D][D]	
+World Tree Fox	SDAO2	SDAO2-032	SDAO2-032	Resonator	Beast	[F][Wi]	7	            600	600        	Fire			
+Attoractia’s Memoria	SDAO2	SDAO2-033	SDAO2-033	Special Magic Stone	-		0					[Rest]: Produce one will of any attribute shared with your J/ruler.	
+Magic Stone of Blasting Waves	SDAO2	SDAO2-034	SDAO2-034	Special Magic Stone	-		0						
+Magic Stone of Dark Depth	SDAO2	SDAO2-035	SDAO2-035	Special Magic Stone	-		0						
+Water Magic Stone	SDAO2	SDAO2-036	SDAO2-036	Basic Magic Stone	-		0						
+Wind Magic Stone	SDAO2	SDAO2-037	SDAO2-037	Basic Magic Stone	-		0						
+Aramaki	GITS2045SD	GITS2045SD-001	GITS2045SD-001	Ruler	Human		0				RR	[Energize] [1] 	
+Batou & Kusanagi Motoko	GITS2045SD	GITS2045SD-002	GITS2045SD-002	Resonator	Human/Machine	[5]	15	            1200	1000        			[Swiftness]	
+Batou, the Motoko's Buddy	GITS2045SD	GITS2045SD-003	GITS2045SD-003	Resonator	Human/Machine	[3]	9	            1000	1000        				
+Bombarding	GITS2045SD	GITS2045SD-004	GITS2045SD-004	Chant	-	[4]	12					You may rest a recovered Machine resonator you control rather than pay this card's cost.This card deals 1000 damage to target resonator.	
+Ishikawa, the Competent Supporter	GITS2045SD	GITS2045SD-005	GITS2045SD-005	Resonator	Human/Machine	[2]	6	            600	400        				
+Kusanagi Motoko, in Bodysuit	GITS2045SD	GITS2045SD-006	GITS2045SD-006	Resonator	Human/Machine	[4]	12	            800	800        				
+Kusanagi Motoko, in Relax	GITS2045SD	GITS2045SD-007	GITS2045SD-007	Resonator	Human/Machine	[1]	3	            400	400        				
+Optical Camouflage	GITS2045SD	GITS2045SD-008	GITS2045SD-008	Chant	-	[1]	3					Return target resonator to its owner's hand.	
+Purin Esaki, the Elite	GITS2045SD	GITS2045SD-009	GITS2045SD-009	Resonator	Human	[1]	3	            0	700        				
+Stan, a Former Army Infantry	GITS2045SD	GITS2045SD-010	GITS2045SD-010	Resonator	Human/Machine	[2]	6	            600	500        				
+Tachikoma C	GITS2045SD	GITS2045SD-011	GITS2045SD-011	Resonator	Machine	[3]	9	            600	600        			[Quickcast]	
+Beverly Hills	GITS2045SD	GITS2045SD-012	GITS2045SD-012	Special Magic Stone	-		0					[Rest]: Produce [1].	
+Gated Town	GITS2045SD	GITS2045SD-013	GITS2045SD-013	Special Magic Stone	-		0					[Rest]: Produce [1].[4], [Rest]: Draw a card.	
+Palm Springs	GITS2045SD	GITS2045SD-014	GITS2045SD-014	Special Magic Stone	-		0					[Rest]: Produce [1].	
+Acrobatic Shot	GITS2045	GITS2045-001	GITS2045-001	Chant	-	[3]	9				N	This card deals 600 damage divided as you choose to any number of target resonators.	
+Ada Byron	GITS2045	GITS2045-002	GITS2045-002	Resonator	Human	[3]	9	            400	600        		N		
+Android Harlot	GITS2045	GITS2045-003	GITS2045-003	Resonator	Human/Machine	[1]	3	            0	300        		N		
+Aramaki & Togusa	GITS2045	GITS2045-004	GITS2045-004	Resonator	Human	[3]	9	            200	600        		SR		
+Aramaki, An Executive of the Public Security	GITS2045	GITS2045-005	GITS2045-005	Resonator	Human	[5]	15	            600	800        		R		
+Armed Suit	GITS2045	GITS2045-006	GITS2045-006	Addition	-	[4]	12				R		
+Armored Car	GITS2045	GITS2045-007	GITS2045-007	Resonator	Machine	[6]	0	            1500	1500        		N		
+Batou	GITS2045	GITS2045-008	GITS2045-008	Resonator	Human/Machine	[4]	12	            1000	1000        		SR		
+Batou & Ishikawa	GITS2045	GITS2045-009	GITS2045-009	Resonator	Human/Machine	[6]	0	            1200	1200        		N		
+Batou & Motoko	GITS2045	GITS2045-010	GITS2045-010	Resonator	Human/Machine	[6]	0	            1200	1000        		SR		
+Batou & Saito	GITS2045	GITS2045-011	GITS2045-011	Resonator	Human/Machine	[4]	12	            800	800        		SR		
+Batou & Stan	GITS2045	GITS2045-012	GITS2045-012	Resonator	Human/Machine	[5]	15	            1000	1000        		SR		
+Batou & Togusa	GITS2045	GITS2045-013	GITS2045-013	Resonator	Human/Machine	[4]	12	            700	700        		SR		
+Batou, a Mercenary Crew	GITS2045	GITS2045-014	GITS2045-014	Resonator	Human/Machine	[6]	0	            2000	1500        		N		
+Batou, the Ranger	GITS2045	GITS2045-015	GITS2045-015	Resonator	Human/Machine	[5]	15	            1200	1000        		R	[Barrier]	
+Blackhawk	GITS2045	GITS2045-016	GITS2045-016	Resonator	Machine	[6]	0	            1300	1300        		N	[Flying]	
+Borma	GITS2045	GITS2045-017	GITS2045-017	Resonator	Human/Machine	[5]	15	            1200	1000        		R		
+Buggy	GITS2045	GITS2045-018	GITS2045-018	Resonator	Machine	[4]	12	            800	800        		N		
+Civil with Business Spirit	GITS2045	GITS2045-019	GITS2045-019	Resonator	Human	[3]	9	            500	500        		N		
+Cyber Interface	GITS2045	GITS2045-020	GITS2045-020	Chant	-	[1]	3				N	Look at the top 4 cards of your deck. Put them on the top of your deck in any order.	
+Delta-Cyborged Army	GITS2045	GITS2045-021	GITS2045-021	Resonator	Human/Machine	[2]	6	            500	600        		N		
+Evasion Action	GITS2045	GITS2045-022	GITS2045-022	Chant	-	[1]	3				N	Target resonator gains [0/+600] until end of turn.	
+Gary Harts	GITS2045	GITS2045-023	GITS2045-023	Resonator	Human	[4]	12	            400	1200        		N	[Barrier]	
+Gaze with Curiosity	GITS2045	GITS2045-024	GITS2045-024	Chant	-	[1]	3				N	Look at your opponent's hand.	
+Ghost Meeting	GITS2045	GITS2045-025	GITS2045-025	Chant	-	[4]	12				N	Draw two cards.	
+Hacker with a Brief	GITS2045	GITS2045-026	GITS2045-026	Resonator	Human	[1]	3	            100	300        		N		
+Head Mounted Display	GITS2045	GITS2045-027	GITS2045-027	Addition	-	[3]	9				N		
+Infiltration Reconnaissance	GITS2045	GITS2045-028	GITS2045-028	Chant	-	[2]	6				N	Look at your opponent's hand and the top card of their deck.	
+Ishikawa & Motoko	GITS2045	GITS2045-029	GITS2045-029	Resonator	Human/Machine	[4]	12	            1000	1000        		R		
+Ishikawa, the Experienced Crew	GITS2045	GITS2045-030	GITS2045-030	Resonator	Human/Machine	[3]	9	            600	700        		N		
+John Smith	GITS2045	GITS2045-031	GITS2045-031	Resonator	Human	[1]	3	            300	300        		N		
+Jumping	GITS2045	GITS2045-032	GITS2045-032	Chant	-	[1]	3				N	Target resonator gains [Flying] until end of turn.	
+Kurisu Otomo Teito	GITS2045	GITS2045-033	GITS2045-033	Resonator	Human	[5]	15	            800	1000        		N		
+Kusanagi Motoko, Boarding Tachikoma	GITS2045	GITS2045-034	GITS2045-034	Resonator	Human/Machine	[7]	0	            1200	1200        		SR	[Swiftness]	
+Kusanagi Motoko, in Formal Wear	GITS2045	GITS2045-035	GITS2045-035	Resonator	Human/Machine	[1]	3	            200	200        		SR		
+Kusanagi Motoko, the Captain of Mercenary	GITS2045	GITS2045-036	GITS2045-036	Resonator	Human/Machine	[3]	9	            600	700        		N		
+Kusanagi Motoko, the Major	GITS2045	GITS2045-037	GITS2045-037	Resonator	Human/Machine	[2]	6	            600	500        		SR		
+Laying Down of Arms	GITS2045	GITS2045-038	GITS2045-038	Chant	-	[2]	6				N	[Quickcast]Target resonator gains [-1000/0] until end of turn.	
+Maid Robot	GITS2045	GITS2045-039	GITS2045-039	Resonator	Machine	[1]	3	            0	400        		N		
+Nomads	GITS2045	GITS2045-040	GITS2045-040	Resonator	Human	[2]	6	            400	400        		N		
+Onslaught	GITS2045	GITS2045-041	GITS2045-041	Chant	-	[3]	9				N	Resonators with no attribute you control gain [+600/0] until end of turn.	
+Patric Huge	GITS2045	GITS2045-042	GITS2045-042	Resonator	Human	[5]	15	            1000	1700        		N	[Barrier]	
+Paz	GITS2045	GITS2045-043	GITS2045-043	Resonator	Human/Machine	[3]	9	            600	600        		R		
+Presidential Order	GITS2045	GITS2045-044	GITS2045-044	Chant	-	[5]	15				N	Rest all resonators your opponent controls.	
+Purin Esaki, an Investigator	GITS2045	GITS2045-045	GITS2045-045	Resonator	Human	[2]	6	            400	400        		SR	[Quickcast]Whenever this card attacks or blocks => Draw a card.	
+Purin Esaki, the Girl in Love	GITS2045	GITS2045-046	GITS2045-046	Resonator	Human	[1]	3	            0	400        		SR		
+Raydist	GITS2045	GITS2045-047	GITS2045-047	Resonator	Human	[5]	15	            1000	1000        		N		
+Roundhouse Kick	GITS2045	GITS2045-048	GITS2045-048	Chant	-	[3]	9				N	Destroy all resonators with total cost 1 or less.	
+Saito & Stan	GITS2045	GITS2045-049	GITS2045-049	Resonator	Human/Machine	[5]	15	            1200	1200        		N		
+Saito, Boarding Tachikoma	GITS2045	GITS2045-050	GITS2045-050	Resonator	Human/Machine	[5]	15	            1200	1200        		N	[Swiftness]	
+Saito, in Relax	GITS2045	GITS2045-051	GITS2045-051	Resonator	Human/Machine	[3]	9	            700	600        		N		
+Saito, the Skilled Sniper	GITS2045	GITS2045-052	GITS2045-052	Resonator	Human/Machine	[3]	9	            600	400        		R		
+Saito, the Sniper	GITS2045	GITS2045-053	GITS2045-053	Resonator	Human/Machine	[3]	9	            600	600        		SR		
+Sanji Yaguchi	GITS2045	GITS2045-054	GITS2045-054	Resonator	Human	[5]	15	            1600	1000        		N	[Barrier]	
+Secret Agent	GITS2045	GITS2045-055	GITS2045-055	Resonator	Human	[2]	6	            500	500        		N		
+Security Robot	GITS2045	GITS2045-056	GITS2045-056	Resonator	Machine	[3]	9	            600	600        		N		
+SP	GITS2045	GITS2045-057	GITS2045-057	Resonator	Human	[1]	3	            200	200        		N		
+Spider-Type Drone	GITS2045	GITS2045-058	GITS2045-058	Resonator	Machine	[1]	3	            100	100        		N		
+Stan, the Good Helper	GITS2045	GITS2045-059	GITS2045-059	Resonator	Human/Machine	[4]	12	            800	800        		R		
+Stan, the Noob	GITS2045	GITS2045-060	GITS2045-060	Resonator	Human/Machine	[2]	6	            600	600        		N		
+Stealth Drone	GITS2045	GITS2045-061	GITS2045-061	Resonator	Machine	[5]	15	            800	800        		N	[Flying]	
+Tachikoma A	GITS2045	GITS2045-062	GITS2045-062	Resonator	Machine	[3]	9	            600	600        		R	[Quickcast]	
+Tachikoma B	GITS2045	GITS2045-063	GITS2045-063	Resonator	Machine	[3]	9	            600	600        		R	[Quickcast]	
+The President of Obsidian Inc. 	GITS2045	GITS2045-064	GITS2045-064	Resonator	Human	[4]	12	            1000	1000        		N		
+Togusa	GITS2045	GITS2045-065	GITS2045-065	Resonator	Human	[1]	3	            300	400        		N		
+Togusa, in the Secret Order	GITS2045	GITS2045-066	GITS2045-066	Resonator	Human	[2]	6	            400	400        		R		
+Togusa, the Competent Investigator	GITS2045	GITS2045-067	GITS2045-067	Resonator	Human	[1]	3	            300	300        		SR		
+Top Secret Document	GITS2045	GITS2045-068	GITS2045-068	Chant	-	[4]	12				N	Search your deck for a card and put it into your hand. Then shuffle your deck.	
+Truck	GITS2045	GITS2045-069	GITS2045-069	Resonator	Machine	[6]	0	            1300	1500        		N		
+Wasp-Type Drone	GITS2045	GITS2045-070	GITS2045-070	Resonator	Machine	[1]	3	            100	100        		N	[Flying]	
+Watchdog Robot	GITS2045	GITS2045-071	GITS2045-071	Resonator	Machine	[1]	3	            200	200        		N		
+Wired Anchor	GITS2045	GITS2045-072	GITS2045-072	Chant	-	[2]	6				N	Put a Machine from your graveyard into your hand.	
+Worldwide Default	GITS2045	GITS2045-073	GITS2045-073	Chant	-	[7]	0				R	All players discard all cards in their hand.	
+Edwards Air Force Base	GITS2045	GITS2045-074	GITS2045-074	Special Magic Stone	-		0				R	[Rest]: Produce [1].[3], [Rest]: Target Machine resonator gains [0/+600].	
+Home Ministry	GITS2045	GITS2045-075	GITS2045-075	Special Magic Stone	-		0				R	[Rest]: Produce [1].[Rest]: Produce [2]. Play this ability only if you control "Section 9 New Headquarters Building" and "Prime Minister's Office".	
+NSA Headquarters	GITS2045	GITS2045-076	GITS2045-076	Special Magic Stone	-		0				R	[Rest]: Produce [1].[1], [Rest]: Foresee 1. (Look at the top card of your deck. You may put it on the bottom of your deck.)	
+Prime Minister's Office	GITS2045	GITS2045-077	GITS2045-077	Special Magic Stone	-		0				R	[Rest]: Produce [1].[Rest]: Produce [3]. Play this ability only if you control "The Public Security" and "Section 9 New Headquarters Building".	
+Section 9 New Headquarters	GITS2045	GITS2045-078	GITS2045-078	Special Magic Stone	-		0				R	[Rest]: Produce [1].[Rest]: Produce [2]. Play this ability only if you control "The Public Security" and "Prime Minister's Office".	
+Accel, the White Gale Eagle	AO3	AO3-001	AO3-001	Resonator	Beast	[L]	3	            100	100        	Light	R	[Flying]	
+Accel's Reconnaissance	AO3	AO3-002	AO3-002	Chant	Sword Art	[L]	3			Light	N	[Quickcast]Look at the top X+1 cards of your deck, where X is the number of (Stranger) resonators in your removed area. Put a card from among them into your hand and the rest on the top or the bottom of your deck in any order.	
+Apollon, the God of Light (Stranger)	AO3	AO3-003	AO3-003	Resonator (Stranger)	Deity	[L][L][2]	6	            1400	1700        	Light	R	[Pierce]	
+Ares, the Knight God Emperor (Stranger)	AO3	AO3-004	AO3-004	Resonator (Stranger)	Deity	[L][L]	3	            1000	600        	Light	R	[Precision] [Eternal]	
+Celestial Wing Seraph	AO3	AO3-005	AO3-005	Resonator	Angel	[L][L][3]	9	            1000	1000        	Light	N	[Flying] (This card cannot be blocked by J/resonators without [Flying].)	
+Crystallization	AO3	AO3-006	AO3-006	Chant	Sword Art	[L]	3			Light	N	[Quickcast]Destroy target resonator. Its controller gains 1000 life. If this card was awakened, choose a card from your Stranger deck at random and remove it from the game.[Awakening][Wi]	
+Dignified Seraph	AO3	AO3-007	AO3-007	Resonator	Angel	[L][L][2]	6	            800	800        	Light	N	[Flying] (This card cannot be blocked by J/resonators without [Flying].)	
+Give Wings	AO3	AO3-008	AO3-008	Chant	-	[L]	3			Light	N	[Quickcast]Target resonator gains [+200/+200] and [Flying] until end of turn.	
+Heavenly Garden of Armalla	AO3	AO3-009	AO3-009	Addition: Field	Garden	[L][1]	3			Light	N		
+Herald of the Winged Lord	AO3	AO3-010	AO3-010	Resonator	Wingman	[L][2]	6	            600	600        	Light	N	[Flying] (This card cannot be blocked by J/resonators without [Flying].)	
+Knight of the White Hill	AO3	AO3-011	AO3-011	Resonator	Human	[L]	3	            400	400        	Light	N		
+Michael, the Archangel (Stranger)	AO3	AO3-012	AO3-012	Resonator (Stranger)	Angel	[L][L][L]	3	            1000	1000        	Light	R	[Flying]	
+Mourning Angel	AO3	AO3-013	AO3-013	Resonator	Angel	[L]	3	            400	400        	Light	N	[Quickcast] [Flying]	
+Pier, the Godspeed Archer	AO3	AO3-014	AO3-014	Resonator	Five Heroes	[L]	3	            400	400        	Light	SR	[Flying] [Swiftness]Remove four divine bow counters from this card: Destroy target J/resonator with [Flying].	
+Rabbit of Moonlit Nights	AO3	AO3-015	AO3-015	Resonator	Rabbit	[L]	3	            200	400        	Light	N		
+Release	AO3	AO3-016	AO3-016	Chant	-	[L][1]	3			Light	N	Put a non-magic stone card from your removed area into your hand. Draw a card.	
+Wingman of Armalla	AO3	AO3-017	AO3-017	Resonator	Wingman	[L][1]	3	            300	600        	Light	N	[Flying] (This card cannot be blocked by J/resonators without [Flying].)	
+Crime and Punishment	AO3	AO3-018	AO3-018	Chant	-	[F]	3			Fire	N	[Quickcast]This card deals X damage to target J/resonator, where X is the damage it dealt this turn.	
+Gatekeeper of Vell-Savaria	AO3	AO3-019	AO3-019	Resonator	Angel	[F]	3	            0	700        	Fire	N	[Quickcast]	
+Red Illusionary Dragon of Passion	AO3	AO3-020	AO3-020	Resonator	Dragon	[F][F][2]	6	            1000	1000        	Fire	SR	[Flying] [Swiftness]	
+Red Illusionary Hero	AO3	AO3-021	AO3-021	Resonator	Illusion	[F][F][1]	3	            800	800        	Fire	N	[Swiftness]	
+Reflect's Summoning	AO3	AO3-022	AO3-022	Chant	Mage Art	[F][F]	3			Fire	N	If you have [Passion], you may pay [F] less to play this card.Put a [800/400] fire Beast resonator token with "[Enter] => This card deals damage equal to its ATK to target resonator. Then, if you have [Passion], invert your ruler." into the field.	
+Shuren, the King of Supremacy (Stranger)	AO3	AO3-023	AO3-023	Resonator (Stranger)	Warrior	[F][F][F]	3	            1000	1000        	Fire	N	[Swiftness]	
+Snow White, the Valkyrie of Passion	AO3	AO3-024	AO3-024	Resonator	Fairy Tale	[F][F][1]	3	            500	700        	Fire	N	[Swiftness] [First Strike]	
+Spirit of Passion	AO3	AO3-025	AO3-025	Resonator	Spirit	[F]	3	            400	400        	Fire	N	[Swiftness]	
+Ushuah, the Flame Samurai Swordman (Stranger)	AO3	AO3-026	AO3-026	Resonator (Stranger)	Warrior	[F][F][F][1]	3	            1700	1700        	Fire	R		
+Alice's Castling	AO3	AO3-027	AO3-027	Chant	-	[Wa]	4			Water	N	[Quickcast]Put target resonator you control on the bottom of its owner's deck. If you do, you may put a resonator with the same total cost from your hand into your field. Draw a card.	
+Antorite, the Guardian of Deep Blue (Stranger)	AO3	AO3-028	AO3-028	Resonator (Stranger)	Mermaid	[Wa][Wa][Wa][1]	3	            1100	1100        	Water	N	[Quickcast]	
+Blue Illusionary Dragon of Calmness	AO3	AO3-029	AO3-029	Resonator	Dragon	[Wa][Wa][2]	6	            1000	1000        	Water	SR	[Quickcast] [Flying]	
+Blue Illusionary Hero	AO3	AO3-030	AO3-030	Resonator	Illusion	[Wa][Wa][1]	3	            800	800        	Water	N	[Quickcast]	
+Refrain's Summoning	AO3	AO3-031	AO3-031	Chant	Mage Art	[Wa][Wa]	4			Water	N	If you have [Calmness], you may pay [D] less to play this card.Put a [400/800] water Beast resonator token with "[Enter] => Draw three cards and put two cards from your hand on top of your deck in any order. Then, if you have [Calmness], invert your ruler." into the field.	
+Riina, the Girl with Nothing	AO3	AO3-032	AO3-032	Resonator	Human	[Wa][1]	3	            400	400        	Water	N		
+Spirit of Calmness	AO3	AO3-033	AO3-033	Resonator	Spirit	[Wa]	4	            400	400        	Water	N	[Quickcast]	
+Wall of Ideas	AO3	AO3-034	AO3-034	Chant	-	[Wa]	4			Water	N	[Quickcast]Target resonator gains [-800/0] or [0/+800] until end of turn.	
+Faurecia's Journey	AO3	AO3-035	AO3-035	Chant	Mage Art	[Wi]	4			Wind	N	[Quickcast]Choose one - Target any number of chant spells. For each spell, its controller may pay [1]. If they don't, cancel it; or put up to one target card from your graveyard on the bottom of your deck. Draw a card.	
+Frigg, the Goddess of Abundance (Stranger)	AO3	AO3-036	AO3-036	Resonator (Stranger)	Goddess	[Wi][Wi][1]	3	            1000	1000        	Wind	SR		
+Morgiana, the Wise Servant	AO3	AO3-037	AO3-037	Resonator	Story/Human	[Wi]	4	            300	300        	Wind	N		
+Perceval, the Flying Knight	AO3	AO3-038	AO3-038	Resonator	Knight of the Round Table	[Wi]	4	            200	200        	Wind	R	[Flying]	
+Arthur, the Dead Lord of Vengeance	AO3	AO3-039	AO3-039	Resonator	Zombie	[D][D][2]	6	            1000	1000        	Darkness	N		
+Black Wizard (Stranger)	AO3	AO3-040	AO3-040	Resonator (Stranger)	Wizard	[D]	3	            600	600        	Darkness	N	[Bane]	
+Blood of the Mikage	AO3	AO3-041	AO3-041	Chant	-	[D]	3			Darkness	N	Target J/resonator you control gains [+800/+800] and [Precision] until end of turn. At the next end of turn, destroy it. (Cards you control with [Precision] can attack recovered J/resonators.)	
+Fallen Angelic Destroyer, Lucifer	AO3	AO3-042	AO3-042	Resonator	Angel/Demon	[D][D][2]	6	            900	900        	Darkness	N	[Flying] (This card cannot be blocked by J/resonators without [Flying].)	
+Grave Robbers	AO3	AO3-043	AO3-043	Resonator	Zombie	[D][D]	3	            600	600        	Darkness	N		
+Knight of Sigurd	AO3	AO3-044	AO3-044	Resonator	Knight	[D]	3	            400	400        	Darkness	N		
+Laurier, the Twilight Witch (Stranger)	AO3	AO3-045	AO3-045	Resonator (Stranger)	Witch	[D][D]	3	            400	400        	Darkness	R		
+Mikage Reiya	AO3	AO3-046	AO3-046	Resonator	Vampire	[D]	3	            400	400        	Darkness	SR	[Quickcast] [Flying]	
+Moan of the Dead	AO3	AO3-047	AO3-047	Chant	Mage Art	[D]	3			Darkness	N	[Quickcast]You may banish a darkness resonator rather than pay this card's cost.Destroy target resonator if its total cost is less than the number of cards in your graveyard. Choose a card from your Stranger deck at random and put it into your graveyard.	
+Necromancy of the Undead Lord	AO3	AO3-048	AO3-048	Addition: Resonator	-	[D]	3			Darkness	N		
+Niflheim, the Realm of the Dead	AO3	AO3-049	AO3-049	Addition: Field	Grave	[D][1]	3			Darkness	N		
+Priestess of the Black City	AO3	AO3-050	AO3-050	Resonator	Human	[D][2]	6	            600	1000        	Darkness	N		
+Residents of the Black City	AO3	AO3-051	AO3-051	Resonator	Human	[D]	3	            400	400        	Darkness	N		
+Soulhunt	AO3	AO3-052	AO3-052	Chant	-	[D]	3			Darkness	N	Each player banishes a resonator, then each player discards a card.	
+Soulless Soldier	AO3	AO3-053	AO3-053	Resonator	Zombie	[D][D]	3	            600	500        	Darkness	N		
+Vampire's Staff	AO3	AO3-054	AO3-054	Resonator	Vampire	[D][1]	3	            400	400        	Darkness	N		
+A Part of True Power	AO3	AO3-055	AO3-055	Chant	Mage Art	[Wi][D]	7			Wind	SR	[Remnant]As an additional cost to play this card, banish a resonator.Put target darkness resonator from your graveyard into the field.	
+Angel of Healing	AO3	AO3-056	AO3-056	Resonator	Angel	[L][L][Wi]	7	            800	800        	Light	N	[Quickcast] [Flying]	
+Artemis, the Goddess of Hunt (Stranger)	AO3	AO3-057	AO3-057	Resonator (Stranger)	Goddess	[L][L][Wi][Wi]	7	            1000	1000        	Light	SR	[Swiftness] [First Strike]	
+Awakening of the Undead Lord	AO3	AO3-058	AO3-058	Chant	Mage Art	[Wi][D]	7			Wind	SR	[Quickcast]Choose one - This card deals 400 damage to each resonator. You gain life equal to the amount of damage dealt by this card; or banish any number of resonators. Draw that many cards; or put a [X00/X00] darkness Zombie resonator token into the field, where X is the number of cards in your graveyard.	
+Awakening of the Winged Lord	AO3	AO3-059	AO3-059	Chant	Sword Art	[L][Wi]	7			Light	SR	[Quickcast]Choose one - Recover up to two J/resonators with [Flying]; or look at the top four cards of your deck. Put a non-chant card with total cost 2 or less from among them into the field. Put the rest on the bottom of your deck in a random order; or choose a card from your Stranger deck at random and remove it from the game. You gain life equal to its ATK.	
+Between Passion and Calmness	AO3	AO3-060	AO3-060	Chant	Mage Art	[F][F][Wa][Wa][1]	3			Fire	SR	[Quickcast]If you have [Passion], you may pay [D][D] less to play this card and choose one - Remove target resonator from the game; or resonators you control gain [+600/0] until end of turn.If you have [Calmness], you may pay [F][F] less to play this card and choose one - Put target non-magic stone, non-J/resonator entity on the bottom of its owner's deck; or draw a card.	
+Butterfly Effect	AO3	AO3-061	AO3-061	Chant	Mage Art	[F][Wa]	7			Fire	R	[Quickcast]If you have [Passion], this card gains "This card deals 800 damage to target resonator your opponent controls chosen at random.".If you have [Calmness], this card gains "Return target non-magic stone, non-J-ruler entity to its owner's hand. Draw a card.".	
+Cathedral of Armalla	AO3	AO3-062	AO3-062	Addition	-	[L][Wi]	7			Light	N		
+Change the Heart	AO3	AO3-063	AO3-063	Regalia	-	[F][Wa]	7			Fire	SR	[Mythic]	
+Charlotte, the Sleeping Girl in the Castle	AO3	AO3-064	AO3-064	Resonator	Little Girl	[L][Wa]	7	            0	1000        	Light	R	[Barrier]	
+Deathscythe	AO3	AO3-065	AO3-065	Regalia	-	[Wi][D]	7			Wind	SR	[Mythic]	
+Earthly Flash	AO3	AO3-066	AO3-066	Chant	Sword Art	[L][Wi]	7			Light	R	[Quickcast]Choose one - Cancel target resonator spell with total cost 3 or less: or destroy target resonator with [Flying].	
+Faurecia, the Virtuous Vampire	AO3	AO3-067	AO3-067	Resonator	Five Heroes/Vampire	[Wi][D]	7	            600	600        	Wind	SR	[Flying] [Barrier]	
+Faust, the Promising Warrior (Stranger)	AO3	AO3-068	AO3-068	Resonator (Stranger)	Warrior	[Wi][Wi][D][D][1]	3	            1400	1400        	Wind	SR	[Bane] [Drain]	
+Gloria's Round Table	AO3	AO3-069	AO3-069	Addition	-	[L][Wa]	7			Light	N		
+Griphon, Racing Across Darkness	AO3	AO3-070	AO3-070	Resonator	Chimera	[Wi][D][4]	12	            1200	1200        	Wind	N	[Flying]	
+Heavenly Flash	AO3	AO3-071	AO3-071	Chant	Sword Art	[L][L][Wi][Wi]	7			Light	SR	As you play this card, you may rest any number of recovered resonators you control with [Flying]. You pay [L] or [Wi] less to play this card for each resonator rested this way.Destroy all resonators without [Flying].	
+Jabberwock, the Chaotic Disaster (Stranger)	AO3	AO3-072	AO3-072	Resonator (Stranger)	Magical Beast	[Wi][D][1]	3	            800	800        	Wind	R		
+Magna's Angel	AO3	AO3-073	AO3-073	Resonator	Angel	[L][Wi]	7	            100	100        	Light	N	[Flying]	
+Mikage Seijuro	AO3	AO3-074	AO3-074	Resonator	Vampire	[Wi][D][D][D]	7	            1200	1200        	Wind	R	[Flying] [Precision]	
+Mikage Seijuro's Game of Dreams	AO3	AO3-075	AO3-075	Chant	Mage Art	[Wi][Wi][D][D]	7			Wind	R	Each player puts all resonators from their graveyard into the field. Then, each player banishes all resonators not put into the field this way.	
+Milcell, the Clairvoyant Guide	AO3	AO3-076	AO3-076	Resonator	Human/Wizard	[F][F][Wa][Wa]	7	            1000	1000        	Fire	R		
+Pricia, Pursuant of Exploding Flame	AO3	AO3-077	AO3-077	Resonator	Beast	[F][Wi][1]	3	            700	400        	Fire	N	[Swiftness] [Precision] [First Strike]	
+Resistance of the Twelve Protective Deities	AO3	AO3-078	AO3-078	Chant	Mage Art	[L][F]	6			Light	R	[Quickcast]If this card was played with will produced by "Caduceus", put it into its owner's hand as it resolves. Choose one - Look at the top two cards of your deck. Put a card from among them into your hand and remove the rest from the game; or put a Twelve Protective Deities from your hand into the field.	
+Sacred Beast of Artemis	AO3	AO3-079	AO3-079	Resonator	Beast	[L][Wi][4]	12	            1000	1000        	Light	SR		
+Scheherazade, the Teller of Heroic Epics	AO3	AO3-080	AO3-080	Resonator	Wanderer	[F][Wa]	7	            700	700        	Fire	SR	[Barrier] (Chant)[Awakening] Rest a recovered regalia you control.	
+Scheherazade's Heroic Epic	AO3	AO3-081	AO3-081	Chant	Mage Art	[F][Wa][1]	3			Fire	R	Choose a card from your Stranger deck at random and put it into the field.	
+Sigurd, the Covenant King	AO3	AO3-082	AO3-082	Resonator	King/Zombie	[Wi][D]	7	            800	800        	Wind	R		
+Spiral of Potential and Convergence	AO3	AO3-083	AO3-083	Chant	Mage Art	[F][Wa]	7			Fire	N	[Quickcast]If this is the second card you play this turn, you may pay [F] less to play this card. If this is the third card you play this turn, you may pay [D] less to play this card. If this is the fourth card you play this turn, you may pay [F][D] less to play this card.If you have [Passion], this card gains "Look at the top four cards of your deck. Put a card from among them into your hand and the rest on the bottom of your deck in any order.".If you have [Calmness], this card gains "Copy target chant spell you control. You may choose new targets for the copy.".	
+The End of Friendship	AO3	AO3-084	AO3-084	Chant	Mage Art	[Wi][D]	7			Wind	N	[Quickcast]As an additional cost to play this card, banish a resonator.Your opponent banishes two resonators.	
+The Last Secret Sword	AO3	AO3-085	AO3-085	Chant	Sword Art	[F][F][D]	6			Fire	R	You may banish all but one entity you control and discard your hand rather than pay this card's cost.This card deals 1000 damage to your opponent.	
+Will-o'-the-Wisp (Stranger)	AO3	AO3-086	AO3-086	Resonator (Stranger)	Spirit	[L][Wi]	7	            0	1000        	Light	R	[Quickcast] [Barrier]	
+Wings of the Archangel	AO3	AO3-087	AO3-087	Regalia	-	[L][Wi]	7			Light	SR	[Mythic]	
+Wounded Black Dragon	AO3	AO3-088	AO3-088	Resonator	Dragon	[F][D]	6	            1000	1000        	Fire	N	[Flying]	
+Attoractia’s Memoria	AO3	AO3-089	AO3-089	Special Magic Stone	-		0				N	[Rest]: Produce one will of any attribute shared with your J/ruler.	
+Magic Stone of Black Silence	AO3	AO3-090	AO3-090	Special Magic Stone	-		0				R		
+Magic Stone of Gusting Skies	AO3	AO3-091	AO3-091	Special Magic Stone	-		0				R		
+Magic Stone of Hearth's Core	AO3	AO3-092	AO3-092	Special Magic Stone	-		0				R		
+Intimidation	PofA	PofA-001	PofA-001	Chant	-	[L]	3			Light	N	[Quickcast]Prevent all damage that would be dealt by resonators this turn.	
+King of Kings	PofA	PofA-002	PofA-002	Resonator	Fairy Tale	[L][L][1]	3	            900	900        	Light	R		
+Lenneth's Wish	PofA	PofA-003	PofA-003	Chant	Mage Art	[L]	3			Light	N	[Quickcast]Put target (Stranger) resonator you control into your Stranger deck. Then choose a card from your Stranger deck at random and put it into the field.	
+Mage Jack	PofA	PofA-004	PofA-004	Resonator	Fairy Tale	[L]	3	            400	400        	Light	N	[Quickcast] [Drain]	
+Return of the Soul	PofA	PofA-005	PofA-005	Chant	Sword Art, Mage Art	[L][L][L][1]	3			Light	R	Destroy all non-(Stranger) resonators.	
+Richesse, the Swordsman (Stranger)	PofA	PofA-006	PofA-006	Resonator (Stranger)	Swordsman	[L][1]	3	            700	1100        	Light	N	[Quickcast]	
+Schr?dinger's Cry	PofA	PofA-007	PofA-007	Chant	Mage Art	[L]	3			Light	N	[Quickcast]Remove target rested resonator from the game. If this card was awakened, draw a card.[Awakening] Banish a light crystal.	
+Summoning Art of Magna	PofA	PofA-008	PofA-008	Chant	Mage Art	[L]	3			Light	R	[Quickcast]Look at the top four cards of your deck. You may reveal a (Stranger) resonator from among them and put it into your hand. Then put the rest on the bottom of your deck in any order.	
+The Road to the Sacred Queen	PofA	PofA-009	PofA-009	Addition	-	[L]	3			Light	N		
+The Road to the Winged Lord	PofA	PofA-010	PofA-010	Addition	-	[L]	3			Light	N		
+Three of a Kind	PofA	PofA-011	PofA-011	Chant	Mage Art	[L]	3			Light	R	[Quickcast]Gain a light crystal. Draw a card. If this card was awakened, draw three cards instead.[Awakening] Reveal three cards that share a name from your hand, or banish three light crystals.	
+Tsukuyomi Noble	PofA	PofA-012	PofA-012	Resonator	Myth/Moon	[L][L]	3	            500	700        	Light	N	[Awakening][M]: When this card enters your field => Destroy target non-Moon addition. If you do, put two [+100/+100] counters on this card.	
+Valkyrie, the Weaver of Destiny (Stranger)	PofA	PofA-013	PofA-013	Resonator (Stranger)	Valkyrie	[L][L][L]	3	            1000	1400        	Light	N	[Flying]	
+White Wolf	PofA	PofA-014	PofA-014	Resonator	Fairy Tale, Beast	[L]	3	            400	600        	Light	N	[Drain]	
+Wizard of Vell-Savaria	PofA	PofA-015	PofA-015	Resonator	Wizard	[L]	3	            400	400        	Light	N	[Quickcast]	
+Workshop Assistant Researcher	PofA	PofA-016	PofA-016	Resonator	Human	[L][L][1]	3	            900	900        	Light	N	[Barrier]	
+Yggdrasil's Grace	PofA	PofA-017	PofA-017	Chant	-	[L]	3			Light	R	[Quickcast]Remove target resonator from the game. At the next end of turn >>> Put it into the field under its owner's control.	
+Agni, the Pyre War God (Stranger)	PofA	PofA-018	PofA-018	Resonator (Stranger)	Deity	[F]	3	            700	700        	Fire	N	[Flying] [Pierce] [Precision]	
+Alisaris, Minion of Lapis	PofA	PofA-019	PofA-019	Resonator	Minion	[F][F]	3	            600	600        	Fire	SR		
+Athena, Titan of Revenge	PofA	PofA-020	PofA-020	Resonator	Twelve Apostles	[F][F][1]	3	            700	700        	Fire	N	[Swiftness] (This card can attack and you can play its [rest] abilities the same turn it enters a field.)	
+Blaze Tornado	PofA	PofA-021	PofA-021	Chant	Mage Art	[F][F][1]	3			Fire	N	This card deals 1400 damage divided as you choose to any number of target J/resonators.	
+Hino Kagutsuchino Mikoto, the Flaming God of Fate (Stranger)	PofA	PofA-022	PofA-022	Resonator (Stranger)	Deity	[F][F][F][F][1]	3	            2000	2000        	Fire	N		
+Magical Arrow	PofA	PofA-023	PofA-023	Chant	Mage Art	[F]	3			Fire	N	[Quickcast]This card deals 100 damage to target player or J/resonator. Put this card into its owner's hand as it resolves.	
+Ouroboros, the Snake of Reincarnation	PofA	PofA-024	PofA-024	Resonator	Twelve Apostles, Snake	[F][F][F][F][F]	3	            2000	2000        	Fire	N		
+Phoenix, the Flame of the World	PofA	PofA-025	PofA-025	Resonator	Twelve Apostles/Phoenix	[F][F][F][1]	3	            900	900        	Fire	N	[Flying] (This card cannot be blocked by J/resonators without [Flying].)	
+Reflect's Rushing In	PofA	PofA-026	PofA-026	Chant	Mage Art	[F]	3			Fire	N	If you have [Passion], remove the top two cards of your deck from the game. You may play them until the end of your opponent's next turn. Invert your ruler.	
+Swordsmaster of Exploding Flame	PofA	PofA-027	PofA-027	Resonator	Human	[F]	3	            3000	3000        	Fire	N		
+Sylvia's Burning Flame	PofA	PofA-028	PofA-028	Chant	Moon Art	[F]	3			Fire	R	[Quickcast]Choose one, if you control [Limit Break] ("Sylvia, Minion of Lapis"), choose up to two instead;	
+The Road to the Flame King	PofA	PofA-029	PofA-029	Addition	-	[F]	3			Fire	N		
+Gentleman Lightning Caller	PofA	PofA-030	PofA-030	Resonator	Wizard	[Wa][1]	3	            500	500        	Water	N		
+Mariabella's Active Decoy	PofA	PofA-031	PofA-031	Addition	Machine	[Wa]	4			Water	N		
+Princess of Dragon Palace (Stranger)	PofA	PofA-032	PofA-032	Resonator (Stranger)	Deity	[Wa]	4	            600	600        	Water	N		
+Random Walk	PofA	PofA-033	PofA-033	Chant	Mage Art	[Wa]	4			Water	N	[Quickcast]Put target resonator with total cost 1 or less or target regalia on the bottom of its owner's deck.	
+Refrain's Getting Out	PofA	PofA-034	PofA-034	Chant	Mage Art	[Wa]	4			Water	N	[Quickcast]If you have [Calmness], rest two target non-magic stone entities. They don't recover during their controller's next recovery phase. Invert your ruler.	
+The Road to the Machine Lord	PofA	PofA-035	PofA-035	Addition	-	[Wa]	4			Water	N		
+The Road to the Princess of Love	PofA	PofA-036	PofA-036	Addition	-	[Wa]	4			Water	N		
+Amphisbaena, the Two-Headed Dragon (Stranger)	PofA	PofA-037	PofA-037	Resonator (Stranger)	Dragon	[Wi][Wi]	4	            600	1200        	Wind	N	[Flying] [Pierce]	
+Behemoth	PofA	PofA-038	PofA-038	Resonator	Twelve Protective Deities, Beast	[Wi][Wi][Wi][1]	3	            1500	1500        	Wind	SR	[Pierce]	
+The Road to the Beast Queen	PofA	PofA-039	PofA-039	Addition	-	[Wi]	4			Wind	N		
+A Meeting in the Darkest Night	PofA	PofA-040	PofA-040	Chant	Moon Art	[D]	3			Darkness	N	Remove target card in a graveyard from the game. Draw a card. If this card was awakened, you may play the card removed this way until end of turn.[Awakening][D][M]	
+Anubis, the Guardian of Throne (Stranger)	PofA	PofA-041	PofA-041	Resonator (Stranger)	Deity	[D][D]	3	            700	1000        	Darkness	N	[Bane]	
+Berserker of the Black Moon	PofA	PofA-042	PofA-042	Resonator	Minion	[D][D][2]	6	            1000	1000        	Darkness	N		
+Bizarre Zombie	PofA	PofA-043	PofA-043	Resonator	Zombie	[D]	3	            400	400        	Darkness	N	[Bane]	
+Black Moonlight	PofA	PofA-044	PofA-044	Chant	Moon Art	[D]	3			Darkness	N	[Quickcast]Target resonator gains [+800/+800] until end of turn. If you control [Limit Break] (Name of target resonator), it also gains [Eternal] and [Barrier] until end of turn.	
+Black Moon-Ray	PofA	PofA-045	PofA-045	Chant	Moon Art	[D]	3			Darkness	N	[Quickcast]Destroy target J-ruler or (Stranger) resonator.[Awakening][M]: Players cannot chase to this card.	
+Black Rabbit	PofA	PofA-046	PofA-046	Resonator	Minion, Rabbit	[D][1]	3	            400	400        	Darkness	N		
+Black Wolf	PofA	PofA-047	PofA-047	Resonator	Fairy Tale, Beast	[D]	3	            600	400        	Darkness	N	[Precision]	
+Blazer, Minion of Lapis	PofA	PofA-048	PofA-048	Resonator	Minion	[D]	3	            400	400        	Darkness	R	[Precision]	
+Blazer's Art of Slaughter	PofA	PofA-049	PofA-049	Chant	Moon Art	[D]	3			Darkness	N	[Quickcast]Each player banishes a resonator. If you control [Limit Break] ("Blazer, Minion of Lapis"), choose a resonator you control and a resonator your opponent controls instead. Each player banishes the chosen resonator they control.	
+Collapsing World	PofA	PofA-050	PofA-050	Addition: Field	-	[D][D][3]	9			Darkness	N		
+Curse of Caduceus	PofA	PofA-051	PofA-051	Addition	-	[D]	3			Darkness	N		
+Dark Alice's Smile	PofA	PofA-052	PofA-052	Chant	Mage Art	[D]	3			Darkness	N	Your opponent reveals their hand. Choose a chant, addition, regalia, or (Stranger) resonator from among them, and remove it from the game. If this card was awakened, instead choose a card from among them and remove it from the game.[Awakening] Banish a darkness crystal.	
+Dark Summoning	PofA	PofA-053	PofA-053	Chant	Moon Art	[D]	3			Darkness	SR	[Quickcast]Draw a card. If you control [Limit Break] ("Lenneth, the Dark Priestess"), you may search your deck for a card, and put it into your hand instead. Then shuffle your deck.	
+Demon of the Black Moon	PofA	PofA-054	PofA-054	Resonator	Minion, Demon	[D][D]	3	            600	600        	Darkness	N	[Flying]	
+Demon of the Black Moon, Lilith	PofA	PofA-055	PofA-055	Resonator	Demon	[D][D]	3	            500	700        	Darkness	N	[Awakening][X]: When this card enters your field => Destroy target resonator with total cost X or less. If you spent [M] to pay the [Awakening] cost, you gain life equal to that resonator's ATK.	
+Distortion of the Phenomenon	PofA	PofA-056	PofA-056	Chant	Moon Art	[D]	3			Darkness	R	Trigger an automatic ability of a ruler named "Gill Lapis" you control.	
+End of the World	PofA	PofA-057	PofA-057	Chant	Moon Art	[D][D]	3			Darkness	SR	Choose one, if you control [Limit Break] ("Gill Lapis"), choose four instead;	
+Izanami, the Sealed Terror	PofA	PofA-058	PofA-058	Resonator	Twelve Apostles/Myth	[D][1]	3	            600	600        	Darkness	N		
+Jeanne d'Arc, Heroine of Shadow	PofA	PofA-059	PofA-059	Resonator	Shadow	[D]	3	            200	200        	Darkness	R		
+Lapis' Dark Storm	PofA	PofA-060	PofA-060	Chant	-	[D][D]	3			Darkness	N	Your opponent discards a card at random, then discards a card.	
+Lenneth, the Dark Priestess	PofA	PofA-061	PofA-061	Resonator	Minion	[D][D]	3	            1000	1000        	Darkness	MR	[Drain] [Bane]	
+Magician of Outland	PofA	PofA-062	PofA-062	Resonator	Wizard	[D][D][1]	3	            900	900        	Darkness	N	[Barrier] (Chant)	
+Mimic	PofA	PofA-063	PofA-063	Resonator	Fairy Tale	[D][D]	3	            100	700        	Darkness	N	[Quickcast] [Bane]	
+Mind Break	PofA	PofA-064	PofA-064	Chant	Moon Art	[D][D]	3			Darkness	N	Name a card. Your opponent reveals their hand, and discards all cards that share a name with the named card. If this card was awakened, instead your opponent removes all cards that share a name with the named card in their hand and graveyard from the game.[Awakening][M]	
+Miria, the Fallen Vampire	PofA	PofA-065	PofA-065	Resonator	Minion, Vampire	[D]	3	            400	400        	Darkness	R	[Flying]	
+One Pair	PofA	PofA-066	PofA-066	Chant	Mage Art	[D]	3			Darkness	N	[Quickcast]Gain two light crystals and two darkness crystals. If this card was awakened, gain two additional light crystals and two additional darkness crystals.[Awakening] Reveal two cards that share a name from your hand.	
+Perceval, the Holy Grail of the Black Moon	PofA	PofA-067	PofA-067	Resonator	Minion, Knight of the Round Table 	[D]	3	            200	200        	Darkness	R		
+Pitch Black Moon	PofA	PofA-068	PofA-068	Addition: Field	Moon	[D][1]	3			Darkness	N		
+Pitch Black Minion	PofA	PofA-069	PofA-069	Resonator	Minion	[D][2]	6	            700	700        	Darkness	N		
+Save the Queen	PofA	PofA-070	PofA-070	Resonator	Fairy Tale	[D][D][2]	6	            1200	1200        	Darkness	R		
+Shadow Doppelganger	PofA	PofA-071	PofA-071	Resonator	Shadow	[D][3]	9	            0	0        	Darkness	N		
+Shadow Strike	PofA	PofA-072	PofA-072	Chant	Sword Art, Mage Art	[D][D]	3			Darkness	N	[Quickcast]Destroy target resonator. Then, if this card was awakened, your opponent banishes a resonator.[Awakening] Banish two darkness crystals.	
+Shadow X	PofA	PofA-073	PofA-073	Resonator	Fairy Tale	[D]	3	            400	400        	Darkness	N	[Quickcast] [Bane]	
+Summoning of a Minion	PofA	PofA-074	PofA-074	Chant	Moon Art	[D][X]	3			Darkness	N	Search your deck for a Minion with total cost X or less, and put it into the field. Then shuffle your deck.	
+The Road to the Undead Lord	PofA	PofA-075	PofA-075	Addition	-	[D]	3			Darkness	N		
+The Scorn of Dark Alice	PofA	PofA-076	PofA-076	Chant	-	[D]	3			Darkness	N		
+True Black Ribbon	PofA	PofA-077	PofA-077	Addition	-	[D]	3			Darkness	N		
+Vicious Scarecrow	PofA	PofA-078	PofA-078	Resonator	Fairy Tale	[D]	3	            900	900        	Darkness	N	[Bane]	
+World Ender	PofA	PofA-079	PofA-079	Regalia	-	[D][D]	3			Darkness	SR	[Mythic]	
+Adombrali	PofA	PofA-080	PofA-080	Resonator	Twelve Protective Deities, Cthulhu	[L][F][Wa][Wi][D]	17	            600	800        	Light	SR		
+Alice's World of Madness	PofA	PofA-081	PofA-081	Addition	-	[L][D]	6			Light	N		
+Attack Stance	PofA	PofA-082	PofA-082	Addition	Mage Art	[L][F]	6			Light	N	[Quickcast]	
+Avatar of Strangers	PofA	PofA-083	PofA-083	Chant	Mage Art	[L][Wa]	7			Light	SR	As an additional cost to play this card, remove a (Stranger) resonator in your graveyard from the game.Put a resonator token copy of the (Stranger) resonator removed by this card into the field.	
+Bounty Hunter of Leginus	PofA	PofA-084	PofA-084	Resonator	Human	[Wa][Wa][Wi]	8	            800	800        	Water	N		
+Cage of Mother Goose	PofA	PofA-085	PofA-085	Addition	Fairy Tale	[L][D]	6			Light	R		
+Dark Gaming Hall	PofA	PofA-086	PofA-086	Addition	Fairy Tale	[L][D]	6			Light	N		
+Defense Stance	PofA	PofA-087	PofA-087	Addition	Mage Art	[L][Wi]	7			Light	N	[Quickcast]	
+Disappearing Power	PofA	PofA-088	PofA-088	Chant	Mage Art	[L][F][X]	6			Light	R	Remove all non-J-ruler, non-magic stone entities with total cost X your opponent controls from the game.	
+Exorcist of Certo	PofA	PofA-089	PofA-089	Resonator	Wizard	[F][D][1]	3	            800	800        	Fire	N		
+Fafnir (Stranger)	PofA	PofA-090	PofA-090	Resonator (Stranger)	Dragon	[F][D][D][1]	3	            1200	1200        	Fire	N	[Flying]	
+Faithless Summoner	PofA	PofA-091	PofA-091	Resonator	Wizard	[Wa][D]	7	            100	700        	Water	N		
+Grand Cross Reincarnation	PofA	PofA-092	PofA-092	Chant	Sword Art, Mage Art	[L][Wa]	7			Light	MR	[Quickcast]As an additional cost to play this card, reveal a (Stranger) resonator from your hand. Choose two;	
+Hades	PofA	PofA-093	PofA-093	Resonator	Twelve Protective Deities	[Wa][Wa][D][D]	7	            1000	1000        	Water	R		
+Hoenir, the Bishop God (Stranger)	PofA	PofA-094	PofA-094	Resonator (Stranger)	Hero	[L][D]	6	            700	800        	Light	N		
+Leviathan	PofA	PofA-095	PofA-095	Resonator	Twelve Protective Deities	[L][L][Wa][Wa]	7	            1400	1400        	Light	R	[Quickcast]	
+Mad Pyromancer	PofA	PofA-096	PofA-096	Resonator	Minion	[F][D]	6	            600	400        	Fire	N	[Quickcast]	
+Magic Stance	PofA	PofA-097	PofA-097	Addition	Mage Art	[L][Wi]	7			Light	N	[Quickcast]	
+Magic Storing Golem	PofA	PofA-098	PofA-098	Resonator	Machine	[Wa][Wi]	8	            600	600        	Water	N		
+Magician of Vell-Savaria	PofA	PofA-099	PofA-099	Resonator	Wizard	[L][F]	6	            500	800        	Light	N		
+Necromancer	PofA	PofA-100	PofA-100	Resonator	Minion	[Wi][D][D]	7	            700	700        	Wind	N		
+Nidhogg	PofA	PofA-101	PofA-101	Resonator	Twelve Protective Deities	[L][L][D][D]	6	            1200	1200        	Light	R	[Flying]	
+Nightmare Knight	PofA	PofA-102	PofA-102	Resonator	Fairy Tale	[L][D]	6	            600	600        	Light	SR		
+Paratrooper of Leginus	PofA	PofA-103	PofA-103	Resonator	Machine, Human	[Wa][Wa][Wa][Wa][Wi]	8	            1200	1200        	Water	N	[Flying]	
+Royal Straight Flush	PofA	PofA-104	PofA-104	Chant	Mage Art	[L][D]	6			Light	SR	[Quickcast]Destroy target resonator. If this card was awakened, instead destroy all non-magic stone entities your opponent controls, and put all cards revealed by this card's [Awakening] cost from your hand into the field.[Awakening] Reveal a "Nightmare Knight", a "King of Kings", a "Save the Queen", a "Mage Jack" card, and a "Shadow X" from your hand.	
+Schr?dinger	PofA	PofA-105	PofA-105	Addition	Fairy Tale	[L][D]	6			Light	MR	[Quickcast]	
+Shadow Swordsmaster	PofA	PofA-106	PofA-106	Resonator	Shadow	[L][L][D][D][D]	6	            1500	1500        	Light	SR	[First Strike] [Precision] [Barrier] (Stranger)	
+Skycrusher	PofA	PofA-107	PofA-107	Resonator	Minion	[Wa][D]	7	            600	700        	Water	N		
+Soul Dealer	PofA	PofA-108	PofA-108	Resonator	Fairy Tale	[L][D]	6	            600	600        	Light	N		
+Swordsman of Otherworld	PofA	PofA-109	PofA-109	Resonator	Human	[L][Wa]	7	            700	700        	Light	N	[Quickcast] [First Strike]	
+Sylvia, Minion of Lapis	PofA	PofA-110	PofA-110	Resonator	Minion, Dragonoid	[F][Wi]	7	            700	700        	Fire	SR	[Swiftness]	
+The Final Stance	PofA	PofA-111	PofA-111	Addition	Mage Art	[L][F][Wa][Wi][D]	17			Light	SR	[Quickcast]	
+The Origin of the Seven Lands	PofA	PofA-112	PofA-112	Addition	-	[L][F][Wa][Wi][D]	17			Light	MR		
+The World of Dark Alice	PofA	PofA-113	PofA-113	Chant	Mage Art	[L][D][D]	6			Light	SR	[Quickcast]Choose one; 	
+Titania	PofA	PofA-114	PofA-114	Resonator	Twelve Protective Deities	[L][Wi][2]	6	            1000	1000        	Light	R	[Quickcast] [Flying]	
+Unknown Mother Goose	PofA	PofA-115	PofA-115	Regalia	-	[L][D]	6			Light	SR	[Mythic]	
+Vell-Savaria, Field of the Final Battle	PofA	PofA-116	PofA-116	Addition	-	[L][F]	6			Light	R		
+Veteran Warrior of Valhalla	PofA	PofA-117	PofA-117	Resonator	Human	[L][F][F]	6	            700	700        	Light	N		
+Zain, the Warrior of Condemnation (Stranger)	PofA	PofA-118	PofA-118	Resonator (Stranger)	Warrior	[Wi][D]	7	            800	800        	Wind	N	[Quickcast] [Bane]	
+Ziz	PofA	PofA-119	PofA-119	Resonator	Twelve Protective Deities	[Wa][Wi]	8	            700	700        	Water	R	[Flying]	
+Genesis	PofA	PofA-120	PofA-120	Regalia	-	[0]	0				SR	[Mythic]	
+Yggdrasil, Heroic Spirit of the World Tree	PofA	PofA-121	PofA-121	Resonator	Ethereal Tree	[1]	3	            0	400        		MR		
+Black Moon's Memoria	PofA	PofA-122	PofA-122	Special Magic Stone	-		0				N		
+Magic Stone of Heaven's Rift	PofA	PofA-123	PofA-123	Special Magic Stone	-		0				R		
+Ruler's Memoria	PofA	PofA-124	PofA-124	Special Magic Stone	-		0				N		

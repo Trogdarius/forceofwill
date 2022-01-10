@@ -1,0 +1,434 @@
+Name	Set	ImageFile	SetID	type	Race	Cost	TCost	ATK	DEF	Attribute	Rarity	Cardtext	Script
+Dispelling Stone	EDL	EDL-001	EDL-001	Chant	Treasure	[L]	3			Light	N	[Quickcast]Destroy target addition. Draw a card. Shuffle this card into its owner's deck as it resolves.	
+Endless Starlight, the Star Sword	EDL	EDL-002	EDL-002	Chant	-	[L]	3			Light	SR	[Quickcast]This card deals damage to target resonator equal to that resonator's ATK. Then put two [+100/+100] counters on a resonator you control.	
+Exorcist Mage at the Academy	EDL	EDL-003	EDL-003	Resonator	Human, Wizard	[L]	3	            400	400        	Light	R	[Quickcast]	
+Flute, Captive Dragonoid Child // Group of Comets	EDL	EDL-004	EDL-004	Resonator // Chant	Dragonoid	[L][L][L][L][1]	3	            100	400        	Light	SR	[Barrier][Rest]: Produce [L].Destroy all J/resonators with no [+100/+100] counters on them.	
+Grace of the Star	EDL	EDL-005	EDL-005	Chant	-	[L]	3			Light	N	[Quickcast] [Remnant]Target resonator gains [+400/+400] until end of turn. If there is a [+100/+100] counter on it, it also gains [Eternal] and [Barrier] until end of turn.	
+Light Servant of Ragnarok	EDL	EDL-006	EDL-006	Resonator	Deity	[L][1]	3	            500	700        	Light	N	[Quickcast]	
+Magic Bird	EDL	EDL-007	EDL-007	Resonator	Beast	[L][L][L]	3	            600	600        	Light	N	[Flying]	
+Magic Crest of Light	EDL	EDL-008	EDL-008	Addition	Magic Crest	[L]	3			Light	N		
+Oborozuki, Star Sword Visionary	EDL	EDL-009	EDL-009	Ruler	Human		0				RR	[Judgment][L][L]	
+Pilgrim of the Star	EDL	EDL-010	EDL-010	Resonator	Human	[L][L][L]	3	            600	600        	Light	N		
+Reiya, Spawn of the Star // Twinkle of the Star	EDL	EDL-011	EDL-011	Resonator // Chant	Human	[L][L][L]	3	            700	700        	Light	MR	[Quickcast]Double the number of [+100/+100] counters on each magic stone and light entity you control.	
+Silmeria, Summoner of Spirits // Dance of Spirits	EDL	EDL-012	EDL-012	Resonator // Chant	Human, Wizard	[L][L][L][L]	3	            500	1000        	Light	R	[Flying][Quickcast]Your opponent cannot play spells until end of turn.	
+Spirit of Light	EDL	EDL-013	EDL-013	Resonator	Spirit	[L][L]	3	            600	600        	Light	N		
+Spirit of the Star	EDL	EDL-014	EDL-014	Resonator	Spirit	[L]	3	            200	200        	Light	N	[Quickcast] [Flying]	
+Star Dragon	EDL	EDL-015	EDL-015	Resonator	Dragon	[L][L][L][L][L]	3	            1700	1700        	Light	SR	[Flying] [Precision] [Pierce]	
+Starlit Canopy	EDL	EDL-016	EDL-016	Addition	-	[L][L]	3			Light	R		
+The Hidden History - "Oborozuki"	EDL	EDL-017	EDL-017	Addition	-	[L]	3			Light	N		
+The Showdown with Ragnarok	EDL	EDL-018	EDL-018	Chant	-	[L][L]	3			Light	N	[Quickcast]You may pay [L][L] less to play this card if your opponent's ruler is "Ragnarok, Invading Dragon Lord".Entities you control cannot be removed from the game until end of turn.	
+Twinkling Dragon	EDL	EDL-019	EDL-019	Resonator	Dragon	[L][L][L]	3	            900	900        	Light	N	[Flying]	
+Arle, the Seven-Tailed Fox // Arle's Flame	EDL	EDL-020	EDL-020	Resonator // Chant	Beast	[F][F][F]	3	            600	800        	Fire	MR	[Quickcast]This card deals 1400 damage divided as you choose to target resonator you control and target resonator your opponent controls. You must assign a minimum of 200 damage to each target.	
+Burning Rabbit Dash	EDL	EDL-021	EDL-021	Chant	-	[F][F]	3			Fire	R	Put three [300/300] fire Beast resonator tokens with [Swiftness] and "When this card is put into a graveyard from the field >>> It deals 200 damage to target J/resonator." into the field.	
+Chasing Dragon	EDL	EDL-022	EDL-022	Resonator	Dragon	[F][F][F]	3	            900	900        	Fire	N	[Flying] [Precision]	
+Claw of the Dragonoid	EDL	EDL-023	EDL-023	Chant	Treasure	[F]	3			Fire	N	[Quickcast]Your J-ruler gains [Pierce] and [Swiftness] until end of turn. Draw a card. Shuffle this card into its owner's deck as it resolves.	
+Contract with the Fox God	EDL	EDL-024	EDL-024	Chant	-	[F][F]	3			Fire	N	Reveal the top card of your deck and count the number of fire will symbols in its attribute cost. Produce [F] for each will symbol you counted this way.	
+Cook at the Academy	EDL	EDL-025	EDL-025	Resonator	Human	[F][F]	3	            600	600        	Fire	N		
+Fire Servant of Ragnarok	EDL	EDL-026	EDL-026	Resonator	Deity	[F][2]	6	            800	600        	Fire	N		
+Groundsplitter Rabbit // Split Heaven and Earth	EDL	EDL-027	EDL-027	Resonator // Chant	Beast	[F][F][F]	3	            300	600        	Fire	SR	[Swiftness] [Pierce]This card deals 300 damage to each player for each special magic stone they control.	
+Hoelle Pig // Food Supply	EDL	EDL-028	EDL-028	Resonator // Chant	Beast	[F][F]	3	            400	300        	Fire	N	[Quickcast]Put five strength counters on your J/ruler. Draw a card.	
+Hunting Dragon	EDL	EDL-029	EDL-029	Resonator	Dragon	[F][F][F][F][F]	3	            1700	1700        	Fire	SR	[Flying]	
+Injured Fox	EDL	EDL-030	EDL-030	Resonator	Beast	[F]	3	            700	700        	Fire	N		
+Lilias, Last Descendant of Dragonoids	EDL	EDL-031	EDL-031	Ruler 	Dragonoid		0				RR	[Judgment][F][F][F]	
+Lilias's Mentor	EDL	EDL-032	EDL-032	Resonator	Human	[F][F]	3	            100	600        	Fire	R		
+Lilias's Strike	EDL	EDL-033	EDL-033	Chant	-	[F][F][F]	3			Fire	N	[Quickcast]Choose one;	
+Magic Crest of Fire	EDL	EDL-034	EDL-034	Addition	Magic Crest	[F][1]	3			Fire	N		
+Shrine of the Dragonoids	EDL	EDL-035	EDL-035	Addition	-	[F]	3			Fire	N		
+Spirit of Scorched Bales	EDL	EDL-036	EDL-036	Resonator	Spirit	[F][F][F]	3	            800	800        	Fire	SR		
+The Hidden History - "Lilias"	EDL	EDL-037	EDL-037	Addition	-	[F]	3			Fire	N		
+Thunder Wolf // Thunder	EDL	EDL-038	EDL-038	Resonator // Chant	Beast	[F][F][F][F]	3	            900	900        	Fire	R	[Swiftness][Quickcast]This card deals 500 damage to target player or J/resonator.	
+Academy Guard of Lykeion	EDL	EDL-039	EDL-039	Resonator	Wizard	[Wa]	4	            400	400        	Water	N	[Quickcast]	
+Appraisal of Treasures	EDL	EDL-040	EDL-040	Chant	-	[Wa][4]	12			Water	N	You may pay [1] less to play this card for each Treasure in your removed area that was removed by an [Exploration] ability you controlled.Reveal the top card of your deck and count the number of water will symbols in its attribute cost. Draw X cards, where X is the number of will symbols you counted this way.	
+Chelina, Sorceress of Sending Back // Send Back	EDL	EDL-041	EDL-041	Resonator // Chant	Human	[Wa][Wa]	4	            300	500        	Water	R	Return target addition, resonator, or regalia to its owner's hand.	
+Crown of the Ancient King	EDL	EDL-042	EDL-042	Chant	Treasure	[Wa][Wa]	4			Water	N	[Quickcast]J/resonators you control gain [Barrier] and "Prevent the next damage that would be dealt to this card." until end of turn. Shuffle this card into its owner's deck as it resolves.	
+Endless Purse	EDL	EDL-043	EDL-043	Chant	Treasure	[Wa]	4			Water	N	[Quickcast]You have no maximum hand size until end of game. Draw a card. Shuffle this card into its owner's deck as it resolves.	
+Insatiable Desire for Treasure	EDL	EDL-044	EDL-044	Chant	-	[Wa][Wa]	4			Water	N	[Quickcast]Your opponent reveals the top seven cards of their deck. If none of them share a name, you may play one from among them without paying its cost. Put the rest on the bottom of your opponent's deck in a random order.	
+Jewel of the Panda King	EDL	EDL-045	EDL-045	Chant	Treasure	[Wa][Wa]	4			Water	SR	[Quickcast]Return target non-magic stone, non-J-ruler entity to its owner's hand. Draw a card. Shuffle this card into its owner's deck as it resolves.	
+Kiki, Selesta's Partner // Kiki's Exploration	EDL	EDL-046	EDL-046	Resonator // Chant	Beast	[Wa][Wa]	4	            0	100        	Water	MR	[Quickcast]Shuffle this card into your deck. Then [Exploration] 4.	
+Magic Crest of Water	EDL	EDL-047	EDL-047	Addition	Magic Crest	[Wa]	4			Water	N		
+Mermaid's Thunder Parasol	EDL	EDL-048	EDL-048	Chant	Treasure	[Wa]	4			Water	R	[Quickcast]This card deals 400 damage for each card in your hand to target J/resonator. Shuffle this card into its owner's deck as it resolves.	
+Mirage, Fantasy Guide // Foresee	EDL	EDL-049	EDL-049	Resonator // Chant	Spirit // Mage Art	[Wa][Wa][Wa][Wa]	4	            500	700        	Water	SR	Draw two cards.	
+Selesta, Treasure Hunter	EDL	EDL-050	EDL-050	Ruler	Human, Rogue		0				RR	[Judgment][D][D][1]	
+Skycover Squirrel	EDL	EDL-051	EDL-051	Resonator	Beast	[Wa][Wa]	4	            0	800        	Water	N	[Flying]	
+The Hidden History - "Selesta"	EDL	EDL-052	EDL-052	Addition	-	[Wa]	4			Water	N		
+The Library of Lykeion	EDL	EDL-053	EDL-053	Addition	-	[Wa][Wa]	4			Water	N		
+Water Servant of Ragnarok	EDL	EDL-054	EDL-054	Resonator	Deity	[Wa]	4	            400	400        	Water	N		
+Water Spirit of the Lamp	EDL	EDL-055	EDL-055	Resonator	Spirit	[Wa][Wa][Wa]	4	            900	900        	Water	R	[Flying]	
+Waterfront Frog	EDL	EDL-056	EDL-056	Resonator	Beast	[Wa]	4	            100	900        	Water	N		
+Wise Dragon	EDL	EDL-057	EDL-057	Resonator	Dragon	[Wa][Wa][Wa][Wa][Wa]	4	            1600	1700        	Water	SR	[Flying]	
+Altesing, Mischievous Boy // A Glimpse of the Prodigy	EDL	EDL-058	EDL-058	Resonator // Chant	Elf, Wizard	[Wi][Wi][Wi][Wi][Wi]	4	            500	700        	Wind	MR	[Quickcast][Quickcast]Cancel target spell or automatic ability.	
+Altesing's Secret Hideout	EDL	EDL-059	EDL-059	Addition	-	[Wi]	4			Wind	N		
+Elixir, Crest Researcher // Research Results	EDL	EDL-060	EDL-060	Resonator // Chant	Human, Wizard	[Wi][Wi][Wi]	4	            400	400        	Wind	SR	Look at the top five cards of your deck. You may reveal up to two non-resonator cards from among them and put them into your hand. Put the rest on the bottom of your deck in any order.	
+Elixir's Love	EDL	EDL-061	EDL-061	Chant	-	[Wi][1]	3			Wind	N	[Remnant]Put target chant from your graveyard into your hand.	
+Lykeion, the Magic Academy	EDL	EDL-062	EDL-062	Addition	-	[Wi][Wi][Wi]	4			Wind	R		
+Magic Crest of Wind	EDL	EDL-063	EDL-063	Addition	Magic Crest	[Wi][2]	6			Wind	N		
+Magical Dragon	EDL	EDL-064	EDL-064	Resonator	Dragon	[Wi][Wi][Wi][Wi][Wi]	4	            1700	1700        	Wind	SR	[Flying]	
+Magical Wind Arrow	EDL	EDL-065	EDL-065	Chant	-	[Wi]	4			Wind	N	[Quickcast]Choose one; 	
+Monstrous Rush	EDL	EDL-066	EDL-066	Chant	-	[Wi][Wi]	4			Wind	SR	If this is the first chant you played this turn, put a [700/700] wind Beast resonator token with [Pierce] into the field. If this is the second chant you played this turn, put a [1000/1000] wind Beast resonator token with [Swiftness] into the field. If this is the third chant you played this turn, put a [1200/1200] wind Beast resonator token with [Pierce] into the field. If this is the fourth or subsequent chant you played this turn, put all three of those tokens into the field.	
+Perpetual Student at the Academy	EDL	EDL-067	EDL-067	Resonator	Elf, Wizard	[Wi][Wi]	4	            700	700        	Wind	N		
+Spirit of Magic	EDL	EDL-068	EDL-068	Resonator	Spirit	[Wi]	4	            400	400        	Wind	R	[Flying]	
+Spirit of the Soil // Loamy Soil	EDL	EDL-069	EDL-069	Resonator // Chant	Spirit	[Wi][Wi][Wi][2]	6	            500	700        	Wind	R	Put the top card of your magic stone deck into the field rested.	
+Stormy Sky	EDL	EDL-070	EDL-070	Chant	-	[Wi]	4			Wind	N	Choose one. If this card was awakened, choose both instead;[Awakening][2]	
+Student at the Academy	EDL	EDL-071	EDL-071	Resonator	Elf, Wizard	[Wi]	4	            200	200        	Wind	N		
+The Grimoire of the Seven Luminaries	EDL	EDL-072	EDL-072	Chant	Treasure	[Wi][1]	3			Wind	N	[Quickcast]You gain 200 life for each magic stone you control. Shuffle this card into its owner's deck as it resolves.	
+Unceasing Wind	EDL	EDL-073	EDL-073	Chant	-	[Wi]	4			Wind	N	[Quickcast]Draw a card. Then put this card on top of your deck.	
+Welser, the Progenitor of Magic	EDL	EDL-074	EDL-074	Ruler	Human, Wizard		0				RR	[Judgment][0]. Play this ability only if you control ten or more magic stones.	
+Wind of the Star	EDL	EDL-075	EDL-075	Chant	-	[Wi][Wi]	4			Wind	N	[Quickcast]Reveal the top card of your deck and count the number of will symbols in its attribute cost. Cancel target spell if its total cost is less than or equal to the number of will symbols you counted this way.	
+Wind Servant of Ragnarok	EDL	EDL-076	EDL-076	Resonator	Deity	[Wi]	4	            100	500        	Wind	N	[Quickcast]	
+Abhorrent Revival	EDL	EDL-077	EDL-077	Chant	-	[D][D][D]	3			Darkness	N	Put any number of resonators with a combined total cost of 4 or less from your graveyard into the field.	
+Arm of the Demon	EDL	EDL-078	EDL-078	Chant	Treasure	[D]	3			Darkness	N	[Quickcast]J/resonators you control gain [Drain] and [Bane] until end of turn. Shuffle this card into its owner's deck as it resolves.	
+Bone Dragon	EDL	EDL-079	EDL-079	Resonator	Dragon	[D][D][D][D][D]	3	            1700	1300        	Darkness	SR	[Flying]	
+Darkness Servant of Ragnarok	EDL	EDL-080	EDL-080	Resonator	Deity	[D][2]	6	            800	800        	Darkness	N	[Flying]	
+Frightened Villager	EDL	EDL-081	EDL-081	Resonator	Human	[D]	3	            200	200        	Darkness	N		
+Gravekeeper at the Academy	EDL	EDL-082	EDL-082	Resonator	Wizard	[D]	3	            400	400        	Darkness	N		
+Interdimensional Graveyard	EDL	EDL-083	EDL-083	Addition	-	[D]	3			Darkness	R		
+Isolated Demon of Revenge	EDL	EDL-084	EDL-084	Resonator	Demon	[D][D][2]	6	            1200	1200        	Darkness	R	You may pay [2] less to play this card if you don't control a J/resonator.	
+Lonely Vampire	EDL	EDL-085	EDL-085	Resonator	Vampire	[D]	3	            400	400        	Darkness	N	When this card leaves the field >>> Your opponent banishes a resonator.	
+Lord of the Undead // Deadly Dive	EDL	EDL-086	EDL-086	Resonator // Chant	Zombie	[D][D][D][D][D]	3	            600	700        	Darkness	R	Other Zombies you control gain [+400/+400].As an additional cost to play this card, banish all Zombie resonators you control.This card deals damage equal to the total ATK of the banished resonators to your opponent.	
+Magic Crest of Darkness	EDL	EDL-087	EDL-087	Addition	Magic Crest	[D]	3			Darkness	N		
+Mikage Seijuro, Interdimensional Messenger	EDL	EDL-088	EDL-088	Ruler	Wanderer, Vampire		0				RR	[Judgment][D][D]	
+Mikage Seijuro, Interdimensional Messenger	EDL	EDL-088J	EDL-088J	Ruler	Wanderer, Vampire		0				JR	[Judgment][D][D]	
+Ominous Moon, the Lunar Sword	EDL	EDL-089	EDL-089	Chant	-	[D]	3			Darkness	SR	[Quickcast]As an additional cost to play this card, remove two [+100/+100] counters from an entity you control.Destroy target J/resonator. Players cannot chase to this card.	
+Reaper Knight // Endless Night	EDL	EDL-090	EDL-090	Resonator // Chant	Knight	[D][D][D][D][1]	3	            700	500        	Darkness	N	[Bane][Quickcast]Destroy target resonator your opponent controls. Then resonators gain [-200/-200] until end of turn.	
+The Battle comes to an end, and then...	EDL	EDL-091	EDL-091	Chant	-	[D][D][1]	3			Darkness	N	Name a card. Search your opponent's deck, graveyard, and hand for all cards that share a name with the named card and remove them from the game. Then your opponent shuffles their deck.	
+The Elegant Mikage Sisters // Eternal Recurrence	EDL	EDL-092	EDL-092	Resonator // Chant	Vampire	[D][D][D][D][D][3]	9	            900	900        	Darkness	SR	[Flying] [Drain] [Bane]Destroy all resonators.	
+The Hidden History - "Mikage"	EDL	EDL-093	EDL-093	Addition	-	[D]	3			Darkness	N		
+Tsuiya, Cursed Spawn of the Star // Curse of Ragnarok	EDL	EDL-094	EDL-094	Resonator // Chant	Human	[D][D][D]	3	            400	400        	Darkness	MR	[Remnant]Look at your opponent's hand. Choose a card. They remove that card from the game.	
+Tsuiya's Darkness	EDL	EDL-095	EDL-095	Chant	-	[D][D][D]	3			Darkness	N	[Quickcast]You may pay [D] less to play this card for each darkness resonator you controlled put into a graveyard from the field this turn.J/resonators your opponent control gain [-200/-200] until end of turn for each entity you controlled put into a graveyard this turn. Draw a card.	
+Ragnarok, Invading Dragon Lord	EDL	EDL-096	EDL-096	Ruler	Dragon		0				RR		
+Epic Stone of the Blood	EDL	EDL-097	EDL-097	Special Magic Stone	-		0				R	[Rest]: Produce [D].	
+Epic Stone of the Dragon	EDL	EDL-098	EDL-098	Special Magic Stone	-		0				R	[Rest]: Produce [F].	
+Epic Stone of the Elements	EDL	EDL-099	EDL-099	Special Magic Stone	-		0				R	[Rest]: Produce [Wi].	
+Epic Stone of the Star	EDL	EDL-100	EDL-100	Special Magic Stone	-		0				R	[Rest]: Produce [L].	
+Epic Stone of the Treasure	EDL	EDL-101	EDL-101	Special Magic Stone	-		0				R	[Rest]: Produce [D].	
+A Duet of Light	MSW	MSW-001	MSW-001	Chant	-	[L][L]	3			Light	N	Choose one, you may choose an additional one for each recovered J/ruler you control;	
+Almerius	MSW	MSW-002	MSW-002	Ruler	Human, Six Sages		0				RR	[Judgment] [L][L][1][Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.	
+Almerius	MSW	MSW-002J	MSW-002J	Ruler	Human, Six Sages		0				JR	[Judgment] [L][L][1][Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.	
+Chiffon, Spirit of Guidance	MSW	MSW-003	MSW-003	Resonator	Spirit	[L][1]	3	            600	600        	Light	SR	[Flying][Awakening] Rest a recovered light J/ruler you control: [Enter] >>> Destroy target non-magic stone entity your opponent controls.	
+Gathering of the Six Sages	MSW	MSW-004	MSW-004	Chant	-	[L]	3			Light	N	[Quickcast]	
+Guardian Wizard	MSW	MSW-005	MSW-005	Resonator	Human, Wizard	[L][L]	3	            600	600        	Light	N		
+Gullwing, Dragon Spirit	MSW	MSW-006	MSW-006	Resonator	Spirit, Dragon	[L][L][3]	9	            1500	1500        	Light	SR	[Flying]	
+Messenger from the Spirit Village	MSW	MSW-007	MSW-007	Resonator	Spirit	[L][1]	3	            600	600        	Light	N	[Flying]	
+Princess Kaguya // Flying Bamboo	MSW	MSW-008	MSW-008	Resonator // Chant	Fairy Tale	[L][L][1]	3	            600	600        	Light	MR	[Quickcast]Choose a ruler with [Tag] (Six Sages) you control and a ruler with [Tag] (Six Sages) you own from outside the game. Swap those rulers. If you spent [M] to play this card, put its "Princess Kaguya" part into the field instead of putting this card into its owner's graveyard.	
+Rapunzel, the Long-Haired Princess	MSW	MSW-009	MSW-009	Resonator	Fairy Tale/Human	[L][L][1]	3	            600	600        	Light	N		
+Rush of Spirits	MSW	MSW-010	MSW-010	Chant	-	[L]	3			Light	N	[Quickcast]As an additional cost to play this card, reveal a Spirit from your hand.Destroy target resonator if its total cost is less than the total cost of the revealed card. 	
+Spirit of Hope	MSW	MSW-011	MSW-011	Resonator	Fairy Tale, Spirit	[L]	3	            0	400        	Light	N	[Pierce]	
+Spirit Ring	MSW	MSW-012	MSW-012	Addition	-	[L]	3			Light	N		
+Spirit Village	MSW	MSW-013	MSW-013	Addition	-	[L]	3			Light	R		
+The Awakening of Almerius	MSW	MSW-014	MSW-014	Chant	-	[L][L]	3			Light	SR	[Quickcast]Destroy target non-Spirit resonator. If this card was awakened, destroy all non-Spirit resonators instead.[Awakening] [L][1], rest a recovered card named "Almerius" you control.	
+The Awakening of Zero	MSW	MSW-015	MSW-015	Chant	-	[L]	3			Light	R	[Quickcast]J/resonators you control gain [Eternal] until end of turn. If this card was awakened, put ten [+100/+100] counters on a card named "Zero, Apprentice Sage" you control.[Awakening] Rest a recovered card named "Zero, Apprentice Sage" you control.	
+The Beginning of a Fairy Tale	MSW	MSW-016	MSW-016	Chant	Fairy Tale	[L]	3			Light	N	[Quickcast]Put two [200/200] light Spirit, Fairy Tale resonator tokens into the field. If this card was awakened, draw a card.[Awakening] Rest a recovered J/ruler you control.	
+Tinker Bell, the Spirit // Rain of Light	MSW	MSW-017	MSW-017	Resonator // Chant	Fairy Tale, Spirit	[L][L][Wa][X]	7	            0	0        	Light	R	[Quickcast]Target up to X resonators. Rest those your opponent controls and recover those you control.	
+Zero, Apprentice Sage	MSW	MSW-018	MSW-018	Ruler	Human, Six Sages		0				RR	[Judgment] [L][Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.	
+Zero, Apprentice Sage	MSW	MSW-018J	MSW-018J	Ruler	Human, Six Sages		0				JR	[Judgment] [L][Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.	
+A Duet of Fire	MSW	MSW-019	MSW-019	Chant	-	[F][F]	3			Fire	N	Choose one, you may choose an additional one for each recovered J/ruler you control;	
+Cane of the Salamander	MSW	MSW-020	MSW-020	Addition	-	[F]	3			Fire	N		
+Desperate Aid	MSW	MSW-021	MSW-021	Chant	-	[F]	3			Fire	N	[Quickcast]	
+Elfina, Spirit of Trials	MSW	MSW-022	MSW-022	Resonator	Spirit	[F][F]	3	            1000	200        	Fire	SR	[Quickcast]	
+Fairy Tale Resistance Force	MSW	MSW-023	MSW-023	Chant	Fairy Tale	[F]	3			Fire	N	[Quickcast]Target Fairy Tale resonator gains [+400/+400] until end of turn. If this card was awakened, it gains [+1000/+1000] until end of turn instead. [Awakening] Rest a recovered J/ruler you control.	
+Fountain of Trials	MSW	MSW-024	MSW-024	Addition	-	[F]	3			Fire	R		
+Infinite Matchsticks	MSW	MSW-025	MSW-025	Chant	Fairy Tale	[F]	3			Fire	N	You may have any number of copies of this card in your deck.[Quickcast]This card deals 200 damage plus an additional 200 damage for each card named "Infinite Matchsticks" in your graveyard to target player or J/resonator.	
+Milest	MSW	MSW-026	MSW-026	Ruler	Human, Six Sages		0				RR	[Judgment] [F][F][1][Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.	
+Milest	MSW	MSW-026J	MSW-026J	Ruler	Human, Six Sages		0				JR	[Judgment] [F][F][1][Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.	
+Salamander, the Spirit of Fire // Ghostflame	MSW	MSW-027	MSW-027	Resonator // Chant	Spirit	[F][F]	3	            300	100        	Fire	R	This card deals 300 damage to target player or resonator.	
+Shaman of the Spirit Village	MSW	MSW-028	MSW-028	Resonator	Human, Spirit	[F][1]	3	            0	700        	Fire	N		
+Snow White of the Red Apple // Apple Avenger	MSW	MSW-029	MSW-029	Resonator // Chant	Fairy Tale // Fairy Tale	[F][F][F]	3	            0	0        	Fire	MR	[Quickcast] [First Strike][Quickcast]This card deals X damage divided as you choose to any number of target J/resonators your opponent controls, where X is the total damage that was dealt to you this turn. If X is 1000 or more, put this card's "Snow White of the Red Apple" part into the field instead of putting this card into its owner's graveyard.	
+Snow White's Fire Dwarves	MSW	MSW-030	MSW-030	Resonator	Fairy Tale	[F][1]	3	            1000	1000        	Fire	N		
+Spirit of the Fiery Stone	MSW	MSW-031	MSW-031	Resonator	Spirit	[F][F][F]	3	            900	900        	Fire	N		
+The Awakening of Milest	MSW	MSW-032	MSW-032	Chant	-	[F][X]	3			Fire	SR	This card deals 400 damage multiplied by X to target player or J/resonator. If this card was awakened, it deals 400 damage multiplied by X to your opponent and each J/resonator your opponent controls instead.[Awakening] Rest a recovered card named "Milest" you control.	
+The Little Explosive Match Girl	MSW	MSW-033	MSW-033	Resonator	Fairy Tale	[F]	3	            300	300        	Fire	SR		
+A Duet of Water	MSW	MSW-034	MSW-034	Chant	-	[Wa][Wa][1]	3			Water	N	[Quickcast]Choose one, you may choose an additional one for each recovered J/ruler you control;	
+Cinderella, Freed from the Ashes // Rampaging Pumpkin Carriage	MSW	MSW-035	MSW-035	Resonator // Chant	Fairy Tale // Fairy Tale	[Wa][Wa][Wa][Wa][1]	3	            600	600        	Water	MR	[Quickcast][Quickcast]Put up to two target non-magic stone, non-J-ruler entities your opponent controls on top of their owner's deck in any order. If this card was awakened, put its "Cinderella, Freed from the Ashes" part into the field instead of putting this card into its owner's graveyard.[Awakening] [1]	
+Fairy Tale Rabbit	MSW	MSW-036	MSW-036	Resonator	Fairy Tale, Rabbit	[Wa]	4	            200	200        	Water	N		
+Fiola, Spirit of Oblivion	MSW	MSW-037	MSW-037	Resonator	Spirit	[Wa][Wa]	4	            500	600        	Water	SR	[Quickcast]	
+Fountain of the Oblivion Moon	MSW	MSW-038	MSW-038	Addition	Moon	[Wa][Wa][2]	6			Water	N	Rest a recovered J/ruler you control: Draw a card.	
+Illusionary Flower of Sorrow	MSW	MSW-039	MSW-039	Addition	-	[Wa]	4			Water	N	Rest a recovered J/ruler you control: Rest target J/resonator. It doesn't recover during its controller's next recovery phase.	
+Illusionary Mermaid	MSW	MSW-040	MSW-040	Resonator	Mermaid, Fantasy	[Wa]	4	            100	700        	Water	N		
+Illusionary Snow	MSW	MSW-041	MSW-041	Chant	-	[Wa]	4			Water	N	[Quickcast]Destroy target resonator that was the target of a successfully resolved ability of a J/ruler you controlled this turn.	
+Moojdart	MSW	MSW-042	MSW-042	Ruler	Human, Six Sages		0				RR	[Judgment] [D][D][1][Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.[Rest]: Draw a card. Then put a card from your hand on the bottom of your deck. 	
+Moojdart	MSW	MSW-042J	MSW-042J	Ruler	Human, Six Sages		0				JR	[Judgment] [D][D][1][Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.[Rest]: Draw a card. Then put a card from your hand on the bottom of your deck. 	
+Neverend, Fairy Tale Dragon	MSW	MSW-043	MSW-043	Resonator	Fairy Tale, Dragon	[Wa]	4	            100	100        	Water	SR	[Flying]	
+Neverend's Roar	MSW	MSW-044	MSW-044	Chant	-	[Wa][Wa][1]	3			Water	N	As you play this card, you may reveal any number of Fairy Tales from your hand.Rest X target entities your opponent controls, where X is the number of cards revealed to play this card. They don't recover during their controller's next recovery phase. 	
+Purplemist, the Fantasy Dragon // Moon Incarnation	MSW	MSW-045	MSW-045	Resonator // Chant	Fantasy, Dragon	[Wa][Wa][Wa][Wa][2]	6	            1000	1000        	Water	R	[Flying]Search your deck for a Moon addition, reveal it and put it into your hand. Then shuffle your deck.[Awakening] [2]: You may put a Moon addition from your hand into the field.	
+Spirit of Knowledge	MSW	MSW-046	MSW-046	Resonator	Fairy Tale, Spirit	[Wa]	4	            100	100        	Water	N		
+The Awakening of Moojdart	MSW	MSW-047	MSW-047	Chant	-	[Wa][Wa]	4			Water	SR	Draw two cards. If this card was awakened, draw three cards instead.[Awakening] Rest a recovered card named "Moojdart" you control.	
+Three-Eyed Fortune Teller	MSW	MSW-048	MSW-048	Resonator	Wizard	[Wa][Wa]	4	            600	600        	Water	R		
+A Blank Page	MSW	MSW-049	MSW-049	Addition	-	[Wi][Wi][1]	3			Wind	N	[Awakening] Rest a recovered J/ruler you control.	
+A Duet of Wind	MSW	MSW-050	MSW-050	Chant	-	[Wi][Wi][2]	6			Wind	N	[Quickcast]Choose one, you may choose an additional one for each recovered J/ruler you control;	
+An Ancestor's Portrait	MSW	MSW-051	MSW-051	Addition	-	[Wi][1]	3			Wind	N		
+Fairy Tale Moon	MSW	MSW-052	MSW-052	Addition	Fairy Tale, Moon	[Wi]	4			Wind	R		
+Fiethsing	MSW	MSW-053	MSW-053	Ruler	Elf, Six Sages		0				RR	[Judgment] [Wi][Wi][1][Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.	
+Fiethsing	MSW	MSW-053J	MSW-053J	Ruler	Elf, Six Sages		0				JR	[Judgment] [Wi][Wi][1][Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.	
+Glinda, the Fairy	MSW	MSW-054	MSW-054	Resonator	Fairy Tale	[Wi][Wi]	4	            500	500        	Wind	N		
+Little Red, Fairy Tale of Air // Wind of Gods	MSW	MSW-055	MSW-055	Resonator // Chant	Fairy Tale	[Wi][Wi]	4	            300	300        	Wind	R	Put target fire or darkness resonator on top of its owner's deck.	
+Magic Beanstalk	MSW	MSW-056	MSW-056	Resonator	Fairy Tale	[Wi][1]	3	            0	1000        	Wind	N		
+Magic Stone Bird	MSW	MSW-057	MSW-057	Resonator	Fairy Tale, Spirit	[Wi][2]	6	            700	800        	Wind	R	[Flying]	
+Magic Stone Devotee	MSW	MSW-058	MSW-058	Resonator	Elf	[Wi]	4	            300	500        	Wind	N		
+Scheherazade, Weaver of Fairy Tales	MSW	MSW-059	MSW-059	Resonator	Fairy Tale, Wanderer	[Wi][2]	6	            800	800        	Wind	SR	[Awakening] Rest a recovered J/ruler you control.	
+The Awakening of Fiethsing	MSW	MSW-060	MSW-060	Chant	-	[Wi][X]	4			Wind	SR	Search your deck for a resonator with total cost X or less and put it into the field. If this card was awakened, search for two resonators with total cost X or less instead. Then shuffle your deck. [Awakening] Rest a recovered card named "Fiethsing" you control.	
+The Hidden History - "The Magic Stone War"	MSW	MSW-061	MSW-061	Addition	-	[Wi]	4			Wind	N		
+The Release of the Fairy Tales	MSW	MSW-062	MSW-062	Chant	-	[Wi][1]	3			Wind	N	Look at the top four cards of your deck. Reveal a card from among them and put it into your hand. If the revealed card is a Fairy Tale with total cost 3 or less, you may put it into the field instead. Then shuffle your deck.	
+Trish, Spirit of Autumn Wind 	MSW	MSW-063	MSW-063	Resonator	Spirit	[Wi][Wi][1]	3	            800	800        	Wind	SR	[Quickcast] [Flying][Awakening] Rest a recovered wind J/ruler you control.	
+Welser, Master of the Six Sages // His Last Lecture	MSW	MSW-064	MSW-064	Resonator // Chant	Human, Wizard	[Wi][Wi][Wi]	4	            600	600        	Wind	MR	[Quickcast][Quickcast]Recover a ruler you control. If it is a Six Sages, put this card's "Welser, Master of the Six Sages" part into the field instead of putting this card into its owner's graveyard.	
+Wind Stone Shot	MSW	MSW-065	MSW-065	Chant	-	[Wi][1]	3			Wind	N	[Quickcast]Choose one, if this card was awakened, choose up to two instead;[Awakening] Rest a recovered J/ruler you control.	
+A Duet of Darkness	MSW	MSW-066	MSW-066	Chant	-	[D][D]	3			Darkness	N	Choose one, you may choose an additional one for each recovered J/ruler you control;	
+A World Invaded	MSW	MSW-067	MSW-067	Chant	-	[D][2]	6			Darkness	N	Destroy all non-Cthulhu resonators with total cost 3 or less.	
+Abdul Alhazred, Poet of Madness // Dark Pulse	MSW	MSW-068	MSW-068	Resonator // Chant	Wizard	[D][D][D][D][2]	6	            600	600        	Darkness	R	[Quickcast]Destroy all resonators with total cost 2 or less.	
+Assault from the Demonic World	MSW	MSW-069	MSW-069	Chant	-	[D]	3			Darkness	N	[Quickcast]Target J/resonator gains [-600/-600] until end of turn.[Revenge] - Destroy the chosen target instead.	
+Awakening of the Magic Stones	MSW	MSW-070	MSW-070	Chant	-	[D]	3			Darkness	N	[Quickcast]Remove any number of magic stones you control and/or in your graveyard from the game. Produce [D] for each magic stone removed this way.	
+Darksphere, Spirit of Dark Night	MSW	MSW-071	MSW-071	Resonator	Spirit	[D][2]	6	            500	1000        	Darkness	SR	[Flying] [Bane][Awakening] Rest a recovered darkness J/ruler you control.	
+Extraction Wizard	MSW	MSW-072	MSW-072	Resonator	Elf, Wizard	[D]	3	            400	400        	Darkness	R		
+Grusbalesta	MSW	MSW-073	MSW-073	Ruler	Human, Six Sages		0				RR	[Judgment] [D][D][1][Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.	
+Grusbalesta	MSW	MSW-073J	MSW-073J	Ruler	Human, Six Sages		0				JR	[Judgment] [D][D][1][Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.	
+Lilias Petal // Awakening of the Nine-Tailed Fox	MSW	MSW-074	MSW-074	Resonator // Chant	Human	[D][D][D][D]	3	            400	400        	Darkness	MR	[Quickcast][Quickcast]This card deals 900 damage to each J/resonator. If you control three or more magic stones with different names, put this card's "Lilias Petal" part into the field instead of putting this card into its owner's graveyard.	
+One-Tailed Fox	MSW	MSW-075	MSW-075	Resonator	Beast	[D]	3	            300	400        	Darkness	N	[Drain]	
+Secluded Fox Village	MSW	MSW-076	MSW-076	Addition	-	[D]	3			Darkness	R		
+Sparkling Boon of the Magic Stones	MSW	MSW-077	MSW-077	Chant	-	[D][2]	6			Darkness	N	Banish any number of magic stones. Draw X cards, then put the top X cards of your magic stone deck into the field rested, where X is the number of magic stones banished this way.	
+Spirit of Regret	MSW	MSW-078	MSW-078	Resonator	Spirit	[D][1]	3	            600	600        	Darkness	N		
+Student at the Institute	MSW	MSW-079	MSW-079	Resonator	Wizard	[D][4]	12	            800	800        	Darkness	N		
+The Awakening of Grusbalesta	MSW	MSW-080	MSW-080	Chant	-	[D][6]	3			Darkness	SR	[Quickcast]You may pay [2] less to play this card for each different name among all magic stones you control.Magic stones you control become [1000/1000] resonators until end of turn. They are still magic stones. If this card was awakened, they gain [Swiftness], [Eternal] and [Barrier] until end of turn.[Awakening] Rest a recovered card named "Grusbalesta" you control.	
+The Transformed	MSW	MSW-081	MSW-081	Resonator	Human, Cthulhu	[D]	3	            100	100        	Darkness	N		
+Ultra Magic Stone Golem	MSW	MSW-082	MSW-082	Resonator	Golem	[D][8]	3	            2000	2000        	Darkness	SR	[Precision] [Pierce]	
+A Sacrifice of Words and Memories	MSW	MSW-083	MSW-083	Chant	-	[F][Wa][1]	3			Fire	R	You may pay [F] less to play this card if you control a card named "Milest".You may pay [D] less to play this card if you control a card named "Moojdart".Search your deck for a fire Spirit and/or a water Spirit, reveal them and put the first into your hand and the second into your graveyard. Then shuffle your deck. Recover a ruler you control.	
+Azathoth, Manifestation of Death	MSW	MSW-084	MSW-084	Resonator	Cthulhu	[Wa][D]	7	            100	700        	Water	SR	[Bane][Awakening] [D][D]	
+Deeper Ones	MSW	MSW-085	MSW-085	Resonator	Cthulhu	[Wa][D]	7	            400	600        	Water	R	[Pierce]	
+Hastur, Messenger of Madness	MSW	MSW-086	MSW-086	Resonator	Cthulhu	[F][Wa]	7	            600	700        	Fire	R	[Quickcast][Awakening] [D][F]	
+Magic Stone Research Institute	MSW	MSW-087	MSW-087	Addition	-	[Wi][D]	7			Wind	R		
+Minphia, Storytelling Girl	MSW	MSW-088	MSW-088	Resonator	Spirit, Fairy Tale, Human	[L][Wa]	7	            400	700        	Light	R		
+Necronomicon, Book of Outer World	MSW	MSW-089	MSW-089	Addition	-	[F][Wa][D]	10			Fire	R		
+Nyarlathotep, Bringer of War	MSW	MSW-090	MSW-090	Resonator	Cthulhu	[F][D]	6	            800	400        	Fire	SR	[Precision][Awakening][F][D]: [Enter] >>> Destroy up to two target J/resonators your opponent controls. Players cannot chase to this ability.	
+Satan's Phantasmal Body // Flame of Outer World	MSW	MSW-091	MSW-091	Resonator // Chant	God, Illusion	[F][F][D][D]	6	            600	600        	Fire	R	[Quickcast]This card deals 800 damage to target J/resonator. Players cannot chase to this card.	
+Shub-Niggurath, Gatekeeper of Outer World	MSW	MSW-092	MSW-092	Resonator	Cthulhu	[F][D]	6	            400	400        	Fire	R	Darkness chants you control gain [Drain].[Awakening] [F]	
+Spirits of Fire and Water	MSW	MSW-093	MSW-093	Resonator	Spirit	[F][Wa]	7	            600	600        	Fire	N		
+Symphony of the Two Great Dragons	MSW	MSW-094	MSW-094	Chant	-	[L][L][Wa][Wa]	7			Light	R	Return all non-magic stone, non-J-ruler entities to their owners' hand. If this card was awakened, you may put a Spirit and/or a Fairy Tale from your hand into the field.[Awakening] Rest a recovered J/ruler you control.	
+The Magic of Trust and Love	MSW	MSW-095	MSW-095	Chant	-	[F][Wa]	7			Fire	N	[Quickcast]You may rest a recovered card named "Milest" or "Moojdart" you control rather than pay this card's cost.Choose one, if you control a card named "Milest" and a card named "Moojdart", choose both instead;	
+Umr at-Tawil, Keymaster of Outer World	MSW	MSW-096	MSW-096	Resonator	Cthulhu	[F][Wa][D]	10	            800	800        	Fire	R	[Awakening] [F][D][D]: [Enter] >>> Put target resonator from your opponent's graveyard into the field under your control.	
+Wolfgang, Exiled Demon Prince	MSW	MSW-097	MSW-097	Ruler	Demonic		0				RR		
+Wolfgang's Apocalypse	MSW	MSW-098	MSW-098	Chant	-	[Wa][D]	7			Water	R	[Quickcast]Your opponent banishes a resonator. Put the top X cards of your deck into your graveyard, where X is the total cost of the resonator banished this way.If this card was awakened, you may play up to two Cthulhu from your graveyard without paying their cost until end of turn. If you do, at the next end of turn >>> Their controller banishes them.[Awakening] [F][D]	
+Yog-Sothoth, True Hunger	MSW	MSW-099	MSW-099	Resonator	Cthulhu	[F][Wa]	7	            0	1000        	Fire	SR	[Awakening] [D][F]	
+Moonbreeze's Memoria	MSW	MSW-100	MSW-100	Special Magic Stone	-		0				N		
+The Magic Stone of the Demonic World	MSW	MSW-101	MSW-101	Special Magic Stone	-		0				R	[Rest]: Produce [D].[Rest]: Produce [F] or [D]. Spend this will only to play cards with multiple attributes and no other attributes than [F], [D] or [D].	
+The Magic Stone of the Six Sages	MSW	MSW-102	MSW-102	Special Magic Stone	-		0				R	[Rest]: Produce [1].[Rest]: Produce one will of any attribute. Play this ability only if you control a recovered J/ruler.	
+Abel, Top Two of the Light Palace	ROL	ROL-001	ROL-001	Resonator	Human	[L]	3	            400	400        	Light	R	[Eternal]	
+Eldorado Pearlshine	ROL	ROL-002	ROL-002	Resonator	Panda	[L][L][L][1]	3	            1300	1300        	Light	R		
+Grimm and Pandora	ROL	ROL-003	ROL-003	Resonator	Human	[L][L]	3	            600	600        	Light	SR		
+Lars, Sacred King	ROL	ROL-004	ROL-004	Resonator	Human	[L][1]	3	            500	1000        	Light	SR	[Quickcast]	
+Cain, Top Two of the Light Palace	ROL	ROL-006	ROL-006	Resonator	Human	[F]	3	            400	400        	Fire	R	[Swiftness]	
+Kirik's Training Grounds	ROL	ROL-007	ROL-007	Addition	-	[F]	3			Fire	R		
+Shakti, Mercenary Queen	ROL	ROL-009	ROL-009	Resonator	Human	[F][F][F]	3	            1000	1000        	Fire	SR	[Swiftness] [Precision] [First Strike]	
+Sylvia Lilias	ROL	ROL-010	ROL-010	Resonator	Dragonoid	[F][F]	3	            700	700        	Fire	SR	[Swiftness]	
+Flute, Shion's Attendant	ROL	ROL-011	ROL-011	Resonator	Dragonoid	[Wa]	4	            400	400        	Water	R	[Quickcast]	
+Lunya, Master Guide	ROL	ROL-012	ROL-012	Resonator	Human	[Wa]	4	            400	400        	Water	SR		
+Selesta's Tremendous Treasure Trove	ROL	ROL-014	ROL-014	Chant	Treasure	[Wa]	4			Water	R	[Quickcast]Draw a card. Shuffle this card into its owner's deck as it resolves.	
+Valentina, Owner of the Theater	ROL	ROL-015	ROL-015	Resonator	Human	[Wa][Wa][Wa]	4	            600	1000        	Water	SR		
+Faurecia, Lady in Attoractia	ROL	ROL-016	ROL-016	Resonator	Human	[Wi][Wi]	4	            600	700        	Wind	R	[Quickcast]	
+Melfee, Traveling Sorceress	ROL	ROL-017	ROL-017	Resonator	Elf	[Wi][1]	3	            200	200        	Wind	R	[Quickcast]	
+Rezzard, Attoractia's Leading Doctor	ROL	ROL-019	ROL-019	Resonator	Human	[Wi][2]	6	            900	900        	Wind	SR	[Quickcast]	
+Yggdrasil, Top Tourist Destination	ROL	ROL-020	ROL-020	Addition	-	[Wi]	4			Wind	SR		
+Abdul Alhazred, The Possessed	ROL	ROL-021	ROL-021	Resonator	Human, Cthulhu	[D]	3	            300	300        	Darkness	R		
+Alvarez, True Demon Castle	ROL	ROL-022	ROL-022	Addition	-	[D]	3			Darkness	R		
+Frayla, Dark Huntress	ROL	ROL-024	ROL-024	Resonator	Dark Elf	[D][D]	3	            700	700        	Darkness	SR	[Swiftness] [Bane]	
+Ragnarok's Fiery Stone	ROL	ROL-025	ROL-025	Special Magic Stone	-		0				SR	[Rest]: Produce one will of any attribute.	
+Lumia, Princess of Rebirth // Wings of Light and Darkness	ROL	ROL-005	ROL-005	Resonator	Human	[L]	3	            200	500        	Light	MR	[Quickcast][Quickcast]Remove target resonator with total cost 2 or less from the game.  If this card was awakened, put its "Lumia, Princess of Rebirth" part into the field instead of putting this card into its owner's graveyard.	
+Mariabella, Sincere Engineer // Heart-to-Heart Talk	ROL	ROL-013	ROL-013	Resonator	Human	[Wa][1]	3	            500	500        	Water	MR	Draw a card, then remove this card from the game. This card gains "Each turn, you may pay [1] less to play the first activate ability of a ruler you control." as long as it is removed from the game. (If you control two rulers, only the first ability is affected, not the first of both.)	
+Pricia, Seeker of Friends // Pricia's Big Show	ROL	ROL-018	ROL-018	Resonator	Wanderer	[Wi][1]	3	            700	700        	Wind	MR	[Quickcast] [Quickcast] Foresee 2. Put this card into its owner's hand as it resolves.	
+Dracula, Reborn Vampire // The Jewel of Darkness	ROL	ROL-023	ROL-023	Resonator	Vampire	[D]	3	            400	400        	Darkness	MR	[Flying] [Barrier][L][Remnant]You may pay [1] less to play this card from your graveyard for each [+100/+100] counter on it.	
+Magna // God's Breath	ROL	ROL-008	ROL-008	Resonator	Human, Hero	[F][F]	3	            700	700        	Fire	MR	[Quickcast]Put a counter with a name of your choice on a ruler or entity you control. Remove this card from the game.	
+Charlotte, Future of the Sacred Spirit	ADW	ADW-001	ADW-001	Resonator	Human, Hero	[L]	3	            400	400        	Light	SR		
+Charlotte's Light Transformation Magic	ADW	ADW-002	ADW-002	Chant	-	[L]	3			Light	R	[Quickcast] [Remnant]Target J/resonator loses all abilities and becomes a [600/600] until end of turn.	
+Excalibur Genesis	ADW	ADW-003	ADW-003	Ruler	(This is no race.)		0				RR		
+Excalibur Reincarnation	ADW	ADW-004	ADW-004	Chant	-	[L][1]	3			Light	N	[Quickcast]Remove target attacking resonator your opponent controls from the game. Put a guidance counter on target entity you control. 	
+Excalibur Revolution	ADW	ADW-005	ADW-005	Chant	-	[L][L][X]	3			Light	SR	Choose one;	
+Giant of the Sacred Spirit	ADW	ADW-006	ADW-006	Resonator	Hero	[L][L][L][L]	3	            2000	2000        	Light	N	[Barrier] [F] [Barrier] [D]	
+Glowing Tree of Valhalla	ADW	ADW-007	ADW-007	Addition	-	[L]	3			Light	R		
+Guidance	ADW	ADW-008	ADW-008	Chant	-	[L]	3			Light	N	[Quickcast]Put a guidance counter on target entity you control. Draw a card.	
+Hero of Compassion	ADW	ADW-009	ADW-009	Resonator	Hero	[L][1]	3	            600	600        	Light	N		
+Hero of Courage	ADW	ADW-010	ADW-010	Resonator	Hero	[L][L][1]	3	            800	800        	Light	N		
+Hero of Might	ADW	ADW-011	ADW-011	Resonator	Hero	[L]	3	            400	400        	Light	N	[Pierce]	
+Manifestation of the Sacred Spirit	ADW	ADW-012	ADW-012	Chant	-	[L]	3			Light	N	[Quickcast]Target J/resonator you control gains [+400/+400] and [Eternal] until end of turn. Put a guidance counter on it.	
+Schr?dinger, White Cat	ADW	ADW-013	ADW-013	Resonator	Beast	[L]	3	            300	400        	Light	MR	[Quickcast]	
+Schr?dinger's Call	ADW	ADW-014	ADW-014	Chant	-	[L]	3			Light	N	[Quickcast]Search your deck for a Hero, reveal it, and put it into your hand. Then shuffle your deck.	
+White Garden	ADW	ADW-015	ADW-015	Chant	Atom	[L]	3			Light	N	[Quickcast]You gain 1000 life.	
+Atomic Bahamut	ADW	ADW-016	ADW-016	Resonator	Dragon	[F][5]	15	            4000	4000        	Fire	MR		
+Atomic Fairy	ADW	ADW-017	ADW-017	Resonator	Fairy	[F]	3	            300	300        	Fire	N	[Flying]	
+Atomic Fusion	ADW	ADW-018	ADW-018	Chant	-	[F][F]	3			Fire	N	As an additional cost to play this card, discard X Atoms with different names.Draw two cards, then discard a card. If X is 1 or more, produce [F]. If X is 2 or more, put X [600/100] fire Spirit resonator tokens into the field. If X is 3 or more, J/resonators you control gain [+200/0] and [Swiftness] until end of turn.	
+Atomic Reactor	ADW	ADW-019	ADW-019	Addition	-	[F]	3			Fire	N		
+Atomic Turbulence	ADW	ADW-020	ADW-020	Chant	-	[F]	3			Fire	SR	[Quickcast]As an additional cost to play this card, discard X Atoms with different names.This card deals 500 damage to target player or J/resonator; if X is 1 or more, it deals 1000 damage instead. If X is 2 or more, this card deals 1000 damage to each J/resonator other than this card's target, and if the target isn't your opponent, this card deals 1000 damage to them. If X is 3 or more, your opponent cannot play spells until end of turn.	
+Firestorm	ADW	ADW-021	ADW-021	Chant	-	[F][5]	15			Fire	N	[Quickcast]As you play this card, you may remove any number of Atoms in your graveyard from the game. You may pay [1] less to play this card for each card removed this way.This card deals X00 damage to target player or J/resonator, where X is 4 multiplied by the number of Atoms with different names in your removed area. 	
+Gradius	ADW	ADW-022	ADW-022	Chant	Atom	[F]	3			Fire	N	[Quickcast]Target J/resonator loses all abilities until end of turn. Then this card deals 800 damage to it.When this card is discarded by the effect or as a cost of an ability of a card named "Violet, Atomic Automaton" you control >>> Target J/resonator loses all abilities until end of turn. Then this card deals 800 damage to it.	
+Improved Burning Robot	ADW	ADW-023	ADW-023	Resonator	Machine	[F][F]	3	            300	300        	Fire	R	[Swiftness]	
+Oil Demon	ADW	ADW-024	ADW-024	Resonator	Demon	[F][1]	3	            700	600        	Fire	N	[Swiftness]	
+Oil Pond	ADW	ADW-025	ADW-025	Addition	Demonic World	[F]	3			Fire	N		
+Shining Heart, Scorching Hero	ADW	ADW-026	ADW-026	Resonator	Hero	[F][1]	3	            700	600        	Fire	R		
+The Mysteries of Milest	ADW	ADW-027	ADW-027	Chant	-	[F]	3			Fire	N	[Quickcast]This card deals 500 damage to target player or J/resonator. Put a knowledge counter on a J/ruler you control.[Seal](10)	
+The Witch of Quenched Fire	ADW	ADW-028	ADW-028	Resonator	Witch	[F]	3	            400	400        	Fire	N	[Quickcast]	
+Tiny Violet	ADW	ADW-029	ADW-029	Resonator	Machine	[F]	3	            300	400        	Fire	SR	[Flying]	
+Violet, Atomic Automaton	ADW	ADW-030	ADW-030	Ruler	Machine		0				RR		
+Bogus Meditation	ADW	ADW-031	ADW-031	Chant	-	[Wa]	4			Water	N	Choose one at random;	
+Dolly, Olivia's Electric Dolphin	ADW	ADW-032	ADW-032	Resonator	Beast	[Wa]	4	            400	400        	Water	MR	[Barrier]	
+Everfrost	ADW	ADW-033	ADW-033	Chant	Atom	[Wa]	4			Water	N	[Quickcast]Draw a card.	
+Fish Drive	ADW	ADW-034	ADW-034	Chant	-	[Wa]	4			Water	R	Choose one at random;	
+Fish of the Demonic World	ADW	ADW-035	ADW-035	Resonator	Fish	[Wa][Wa]	4	            1000	1000        	Water	N		
+Hero of Water	ADW	ADW-036	ADW-036	Resonator	Hero	[Wa][1]	3	            600	700        	Water	N	[Quickcast]	
+Improved Healing Robot	ADW	ADW-037	ADW-037	Resonator	Machine	[Wa]	4	            400	400        	Water	N		
+Lightning Rod Mermaid	ADW	ADW-038	ADW-038	Resonator	Mermaid	[Wa]	4	            200	600        	Water	N		
+Olivia, Thunder Empress	ADW	ADW-039	ADW-039	Ruler	Mermaid		0				RR	 If you would choose or target randomly, you may choose or target non-randomly instead. You can only perform the effect of one  ability per turn and only once per turn.	
+Permafrost	ADW	ADW-040	ADW-040	Addition	Demonic World	[Wa]	4			Water	N		
+Surging Lightning	ADW	ADW-041	ADW-041	Chant	-	[Wa]	4			Water	N	[Quickcast]Destroy a non-magic stone entity chosen at random.	
+Tera Thunderfish	ADW	ADW-042	ADW-042	Resonator	Fish	[Wa][Wa][Wa]	4	            1000	1000        	Water	SR		
+The Mysteries of Moojdart	ADW	ADW-043	ADW-043	Chant	-	[Wa]	4			Water	N	[Quickcast]Draw a card. Put a knowledge counter on a J/ruler you control.[Seal](10)	
+The Thunder Empress's Strike	ADW	ADW-044	ADW-044	Chant	-	[Wa][Wa]	4			Water	SR	[Quickcast]Choose one at random;	
+The Witch of Melting Ice	ADW	ADW-045	ADW-045	Resonator	Witch	[Wa]	4	            400	400        	Water	R	[Quickcast]	
+Absorbing Knowledge	ADW	ADW-046	ADW-046	Chant	-	[Wi]	4			Wind	R	[Quickcast]Destroy target J-ruler you control. Draw two cards.	
+Avenger of Amadeus	ADW	ADW-047	ADW-047	Resonator	Avatar	[Wi][Wi][Wi][Wi][Wi][5]	15	            10000	10000        	Wind	SR	[Pierce] [Eternal]	
+Brad, Immortal Sage	ADW	ADW-048	ADW-048	Ruler	Human,Wizard		0				RR		
+Eternal Wind	ADW	ADW-049	ADW-049	Chant	Atom	[Wi]	4			Wind	N	[Quickcast]Recover a magic stone you control.	
+Eyes of the Avenger	ADW	ADW-050	ADW-050	Addition	-	[Wi]	4			Wind	N		
+Guardian Dragon of the Kingdom	ADW	ADW-051	ADW-051	Resonator	Dragon	[Wi][1]	3	            300	300        	Wind	R	[Flying]	
+Heart of the Avenger	ADW	ADW-052	ADW-052	Addition	-	[Wi]	4			Wind	N		
+Hero of Wind	ADW	ADW-053	ADW-053	Resonator	Hero	[Wi][1]	3	            600	700        	Wind	N		
+Limbs of the Avenger	ADW	ADW-054	ADW-054	Addition	-	[Wi]	4			Wind	N		
+Number Four, Anti-Magic	ADW	ADW-055	ADW-055	Chant	-	[Wi][Wi][1]	3			Wind	N	[Quickcast]You may play this card without paying its cost if it targets a spell that was played from a graveyard.Remove target spell from the game. 	
+Plains of Raging Winds	ADW	ADW-056	ADW-056	Addition	Demonic World	[Wi][1]	3			Wind	N		
+Spark of Life	ADW	ADW-057	ADW-057	Chant	-	[Wi]	4			Wind	SR	[Quickcast]Destroy target J-ruler you control and target non-magic stone entity your opponent controls.	
+Starving Beast	ADW	ADW-058	ADW-058	Resonator	Beast	[Wi]	4	            400	400        	Wind	N		
+The Witch of Unblowing Wind	ADW	ADW-059	ADW-059	Resonator	Witch	[Wi]	4	            400	400        	Wind	N	[Quickcast]	
+Witch with a Pointy Hat	ADW	ADW-060	ADW-060	Resonator	Witch	[Wi]	4	            400	400        	Wind	MR	[Quickcast]	
+Bloodlord	ADW	ADW-061	ADW-061	Resonator	Demon	[D][D]	3	            700	700        	Darkness	R	[Flying] [Drain]	
+Darklord	ADW	ADW-062	ADW-062	Resonator	Demon	[D][D]	3	            700	700        	Darkness	R	[Flying] [Bane]	
+Fallen Angel of Terminus	ADW	ADW-063	ADW-063	Resonator	Fallen Angel	[D][D][D]	3	            1000	1000        	Darkness	MR	[Flying] [Drain] [Bane] [Barrier][L]	
+Hero of Darkness	ADW	ADW-064	ADW-064	Resonator	Hero	[D]	3	            700	600        	Darkness	N		
+Mapmaker of the Demonic World	ADW	ADW-065	ADW-065	Resonator	Human	[D]	3	            400	400        	Darkness	N		
+Necronomicon Barrier	ADW	ADW-066	ADW-066	Chant	-	[D]	3			Darkness	SR	[Quickcast]Choose one;	
+Residents of the Demonic World	ADW	ADW-067	ADW-067	Resonator	Human	[D]	3	            100	400        	Darkness	N	[Bane]	
+Swamp of Sorrows	ADW	ADW-068	ADW-068	Addition	Demonic World	[D][2]	6			Darkness	N		
+Temple of the Dead	ADW	ADW-069	ADW-069	Addition	Demonic World	[D]	3			Darkness	N		
+The First Layer of the Demonic World	ADW	ADW-070	ADW-070	Addition	Demonic World	[D][D]	3			Darkness	N		
+The Mysteries of Grusbalesta	ADW	ADW-071	ADW-071	Chant	-	[D]	3			Darkness	N	[Quickcast]Your opponent banishes a resonator. Put a knowledge counter on a J/ruler you control.[Seal](10)	
+The Witch of the Fallen Kingdom	ADW	ADW-072	ADW-072	Resonator	Witch	[D]	3	            400	400        	Darkness	SR	[Quickcast]	
+Void	ADW	ADW-073	ADW-073	Chant	Atom	[D]	3			Darkness	N	[Quickcast]Remove all cards in your opponent's graveyard from the game. 	
+Wind of the Demonic World	ADW	ADW-074	ADW-074	Chant	-	[D][D][D]	3			Darkness	N	[Quickcast]You may pay [D] less to play this card for each Demonic World you control.Remove target resonator from the game. Draw a card.	
+Wolfgang, Guide of the Demonic World	ADW	ADW-075	ADW-075	Ruler	Demonic		0				RR		
+Aegis	ADW	ADW-076	ADW-076	Chant	Atom	[L][F]	6			Light	N	[Quickcast]Choose one;	
+Amadeus, Fallen Kingdom	ADW	ADW-077	ADW-077	Addition	Demonic World	[L][D][D]	6			Light	SR		
+Brave Force	ADW	ADW-078	ADW-078	Chant	Atom	[F][Wi]	7			Fire	R	[Quickcast]Target J/resonator gains [+600/0], [Swiftness] and [Barrier] until end of turn.	
+Call from the Depths	ADW	ADW-079	ADW-079	Chant	-	[Wa][D]	7			Water	N	[Quickcast]Choose one at random;	
+Dark Prominence	ADW	ADW-080	ADW-080	Chant	Atom	[F][D]	6			Fire	SR	[Quickcast]Destroy target J/resonator your opponent controls.	
+Fallen Angel of Hatred	ADW	ADW-081	ADW-081	Resonator	Fallen Angel	[F][D]	6	            700	700        	Fire	R	[Flying]	
+Fallen Angel of the Paradise	ADW	ADW-082	ADW-082	Resonator	Fallen Angel	[Wa][D]	7	            600	600        	Water	N	[Flying]	
+Hero of the Sacred Spirit	ADW	ADW-083	ADW-083	Resonator	Hero	[L][F]	6	            700	700        	Light	N		
+Lenneth, Heroic Goddess of Guidance	ADW	ADW-084	ADW-084	Resonator	Hero	[L][L][F]	6	            800	800        	Light	SR		
+Lightning Passion	ADW	ADW-085	ADW-085	Chant	-	[F][Wa]	7			Fire	R	[Quickcast]Choose one at random;	
+Magical Loveliness	ADW	ADW-086	ADW-086	Chant	Atom	[F][Wa]	7			Fire	N	[Quickcast]Rest target J/resonator. This card deals 400 damage to your opponent.	
+Number Seven, Anti-Magic	ADW	ADW-087	ADW-087	Chant	-	[F][Wi]	7			Fire	N	[Quickcast]You may pay [F] less to play this card if it targets a J-ruler you control.Cancel target chant spell. This card deals 1000 damage to target J/resonator.	
+Number Thirteen, Anti-Magic	ADW	ADW-088	ADW-088	Chant	-	[L][Wi]	7			Light	SR	[Quickcast]Cancel target spell.[Seal](4)[Seal](7)	
+Pulsing Thunder	ADW	ADW-089	ADW-089	Chant	-	[L][Wa]	7			Light	SR	[Quickcast]Choose one at random;	
+Scorching Mountain Trail	ADW	ADW-090	ADW-090	Addition	Demonic World	[F][D]	6			Fire	R		
+Sparkle Fish	ADW	ADW-091	ADW-091	Resonator	Beast	[Wa][Wi]	8	            700	700        	Water	N	[Quickcast]	
+The Forest of Darkness	ADW	ADW-092	ADW-092	Addition	Demonic World	[Wi][D]	7			Wind	N		
+The Mysteries of Almerius	ADW	ADW-093	ADW-093	Chant	-	[L][Wa]	7			Light	N	[Quickcast]Put target non-magic stone card from your graveyard into your hand. Put a knowledge counter on a J/ruler you control.[Seal](10)	
+The Mysteries of Zero	ADW	ADW-094	ADW-094	Chant	-	[L][Wi]	7			Light	R	[Quickcast]Destroy target non-magic stone entity with total cost 3 or less. Put a knowledge counter on a J/ruler you control.[Seal](10)	
+The Paradise of Fallen Angels	ADW	ADW-095	ADW-095	Addition	Demonic World	[Wa][D]	7			Water	N		
+Magic Stone of Atoms	ADW	ADW-096	ADW-096	Special Magic Stone	Atom		0				N	[Rest]: Produce [F].	
+Magic Stone of Guidance	ADW	ADW-097	ADW-097	Special Magic Stone	-		0				N	[Rest]: Produce [L].	
+Magic Stone of Knowledge	ADW	ADW-098	ADW-098	Special Magic Stone	-		0				N	[Rest]: Produce [Wi].	
+Magic Stone of the Kingdom	ADW	ADW-099	ADW-099	Special Magic Stone	-		0				N	[Rest]: Produce [D].	
+Magic Stone of Tides	ADW	ADW-100	ADW-100	Special Magic Stone	-		0				N	[Rest]: Produce [D].	
+Avatar of the Will of Amadeus	TST	TST-001	TST-001	Resonator	Avatar	[L][L][1]	3	            900	900        	Light	R	[Flying] [Barrier][D]	
+Belial's Hymn	TST	TST-002	TST-002	Chant	-	[L][1]	3			Light	N	[Quickcast]Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field. Then resonator tokens you control gain [+400/+400] until end of turn. Draw a card.	
+Belial's Messenger	TST	TST-003	TST-003	Resonator	Beast	[L]	3	            300	500        	Light	N	[Flying][Fallen] (This card gains the following text until end of turn if a God's Art you controlled was resolved this turn.)	
+Charlotte, Inheritor of the Seventh Power	TST	TST-004	TST-004	Resonator	Human, Angel, Hero	[L][L]	3	            600	700        	Light	MR	[Quickcast] [Flying] [Barrier][D]	
+Choir of Fallen Angels	TST	TST-005	TST-005	Chant	-	[L]	3			Light	R	[Quickcast] [Remnant]You pay [D] more to play this card from a graveyard.Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field. If this card was played from a graveyard, put two into the field instead.	
+Cradle of Fleeting Hope	TST	TST-006	TST-006	Addition	-	[L]	3			Light	N		
+Hand of the Void	TST	TST-007	TST-007	Chant	-	[L]	3			Light	N	[Quickcast]Recover target resonator. If this card was played from a graveyard, rest the chosen target and draw a card instead.[Null] - [Remnant]	
+Hunting Angel	TST	TST-008	TST-008	Resonator	Angel	[L][L][2]	6	            1200	1200        	Light	R	[Flying][Fallen]	
+Prideful Rule	TST	TST-009	TST-009	Chant	-	[L][2]	6			Light	R	[Quickcast]You may pay [2] less to play this card if your life is 2000 or less.Destroy target non-magic stone entity. Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field.	
+Revealing the Power of Salvation	TST	TST-010	TST-010	Chant	-	[L]	3			Light	N	[Quickcast]Choose one; 	
+The Graveyard of Amadeus	TST	TST-011	TST-011	Addition	Demonic World	[L]	3			Light	N		
+The Seventh Boon: Amadeus, Holy Spear	TST	TST-012	TST-012	Chant	-	[L]	3			Light	SR	[Quickcast]Choose one;	
+Cradle of Scorching Heat	TST	TST-013	TST-013	Addition	-	[F]	3			Fire	N		
+Demon of Explosions	TST	TST-014	TST-014	Resonator	Demon	[F][F][F][1]	3	            1200	1200        	Fire	N		
+Envious Dragon	TST	TST-015	TST-015	Resonator	Dragon	[F]	3	            0	0        	Fire	R		
+Fallen Angel of the Chasm	TST	TST-016	TST-016	Resonator	Fallen Angel	[F]	3	            400	400        	Fire	R	[Flying]	
+Flame of Oblivion	TST	TST-017	TST-017	Chant	-	[F]	3			Fire	N	Put the top three cards of your deck into your graveyard. If this card was played from a graveyard, instead put the top three cards of target player's deck into their graveyard, then draw a card.[Null] - [Remnant]	
+Prideful Fire	TST	TST-018	TST-018	Chant	-	[F]	3			Fire	N	[Quickcast] [Remnant]This card deals X damage to target J/resonator, where X is 3000 minus your life.	
+Raging Ogre	TST	TST-019	TST-019	Resonator	Ogre	[F][2]	6	            800	800        	Fire	N		
+Swarming Cthulhu	TST	TST-020	TST-020	Chant	-	[F][1]	3			Fire	N	Put four [100/100] fire/darkness Cthulhu resonator tokens into the field. If you spent [D] to play this card, they gain [Swiftness] and [Precision] until end of turn.	
+The Second Boon: Tachyon, Holy Atom	TST	TST-021	TST-021	Chant	Atom	[F][F]	3			Fire	R	[Quickcast]You may copy target chant spell your opponent controls. You may choose new targets for the copy.	
+Violet, Flame of Providence Distortion	TST	TST-022	TST-022	Resonator	Machine	[F][F][1]	3	            800	900        	Fire	SR	[Quickcast] [First Strike]	
+A Voice from the Void	TST	TST-023	TST-023	Chant	-	[Wa]	4			Water	N	[Quickcast] [Remnant]Draw a card.[Null] - You may play this card without paying its cost.	
+Alecto, Unstoppable Fury	TST	TST-024	TST-024	Resonator	Cthulhu	[Wa]	4	            400	400        	Water	SR	[Bane][Null] - Whenever you draw a card >>> Your opponent banishes a non-magic stone, non-J-ruler entity. If they don't, they discard a card.	
+Cradle of Biting Frost	TST	TST-025	TST-025	Addition	-	[Wa]	4			Water	N		
+Guide to the Center of the Demonic World	TST	TST-026	TST-026	Resonator	Cthulhu	[Wa][Wa]	4	            1000	1000        	Water	N		
+Mermaid of the Despairing Voice	TST	TST-027	TST-027	Resonator	Mermaid	[Wa][Wa][Wa][1]	3	            1000	1000        	Water	R	[Null] - [Enter] >>> Put all non-magic stone, non-J-ruler entities your opponent controls with total cost 3 or less on the bottom of their owners' decks in any order.	
+Phantasmal Friend	TST	TST-028	TST-028	Chant	-	[Wa][Wa]	4			Water	N	You pay [2] more to play this card for each card in your hand.Search your deck for a Cthulhu with total cost 3 or less and put it into the field. Then shuffle your deck.	
+Prideful Mermaid	TST	TST-029	TST-029	Resonator	Mermaid	[Wa]	4	            200	200        	Water	N		
+Sky Ruler of the Demonic World	TST	TST-030	TST-030	Resonator	Cthulhu	[Wa][Wa][1]	3	            2000	2000        	Water	R	[Flying][Null] - You may play this card from your graveyard.	
+Tears of Corruption	TST	TST-031	TST-031	Chant	-	[Wa]	4			Water	R	[Quickcast]Target J/resonator's ATK becomes 0 until end of turn. Draw a card.[Fallen] (As you play this card, it gains the following text if a God's Art you controlled was resolved this turn.)	
+The Fifth Boon: Lightning Bolt, Bow	TST	TST-032	TST-032	Chant	-	[Wa][X]	4			Water	R	Choose one at random; 	
+Wall of Terror	TST	TST-033	TST-033	Resonator	Wall	[Wa]	4	            0	800        	Water	N	[Null] - This card gains [+400/+400], [Barrier] and [Bane].	
+Agrade, Giant Pig	TST	TST-034	TST-034	Resonator	Beast	[Wi][Wi][2]	6	            1200	1200        	Wind	R		
+Attendant of Asmodeus	TST	TST-035	TST-035	Resonator	Demon	[Wi][1]	3	            500	700        	Wind	N		
+Brad, Masked Mage	TST	TST-036	TST-036	Resonator	Human, Wizard	[Wi][Wi]	4	            600	600        	Wind	SR		
+Carlina's Storm	TST	TST-037	TST-037	Chant	-	[Wi][Wi][Wi][1]	3			Wind	R	[Quickcast]Cancel target spell. Draw a card.[Fallen]	
+Cradle of Silent Earth	TST	TST-038	TST-038	Addition	-	[Wi]	4			Wind	N		
+Pointy Hat's Camouflage	TST	TST-039	TST-039	Chant	-	[Wi][Wi]	4			Wind	N	[Quickcast]Prevent all damage that would be dealt by up to two target entities this turn. Draw a card.	
+Prideful Mage	TST	TST-040	TST-040	Resonator	Human, Wizard	[Wi]	4	            400	400        	Wind	N	[Quickcast]	
+Starving Dragon	TST	TST-041	TST-041	Resonator	Dragon	[Wi][Wi][3]	9	            1500	1500        	Wind	N	[Flying]	
+Table Manners	TST	TST-042	TST-042	Chant	-	[Wi][Wi][1]	3			Wind	N	Destroy a J/resonator that has or shares the highest total cost from among all J/resonators your opponent controls. You gain life equal to the total of its ATK and DEF. Then you draw cards equal to its total cost.	
+The Third Boon: Persona, Magic Mask	TST	TST-043	TST-043	Chant	-	[Wi]	4			Wind	R	[Quickcast]Cancel target spell with total cost 3 or more.[Seal](10)	
+Asmodeus	TST	TST-044	TST-044	Ruler	Fallen Angel		0				RR	[Judgment] [D][D][Tag] (Fallen Angel)	
+Asmodeus	TST	TST-044J	TST-044J	Ruler	Fallen Angel		0				JR	[Judgment] [D][D][Tag] (Fallen Angel)	
+Asmodeus' Demon	TST	TST-045	TST-045	Resonator	Demon	[D]	3	            200	200        	Darkness	R		
+Asmodeus' Enchantment	TST	TST-046	TST-046	Chant	-	[D][1]	3			Darkness	SR	Put target resonator from your opponent's graveyard into the field under your control. If this card was awakened, the chosen target gains [Swiftness] until end of turn.[Awakening] Rest a recovered J/ruler you control.	
+Astema's Wrath	TST	TST-047	TST-047	Chant	-	[D][D][D]	3			Darkness	N	[Quickcast]You may search your deck for a darkness card, reveal it and put it into your hand. Then shuffle your deck.[Fallen]	
+Banquet Demon	TST	TST-048	TST-048	Resonator	Demon	[D][D][1][0]	3	            0	0        	Darkness	R		
+Belial's Favor	TST	TST-049	TST-049	Chant	-	[D]	3			Darkness	N	[Quickcast]As an additional cost to play this card, banish a resonator token. Draw two cards.	
+Black Rain	TST	TST-050	TST-050	Chant	-	[D][1]	3			Darkness	N	As an additional cost to play this card, discard X cards.Your opponent banishes X resonators.	
+Castle of Asmodeus	TST	TST-051	TST-051	Addition	-	[D][D]	3			Darkness	N		
+Corpse Eater Dragon	TST	TST-052	TST-052	Resonator	Dragon	[D][D][2]	6	            1000	1000        	Darkness	R	[Flying]	
+Cradle of Crippling Despair	TST	TST-053	TST-053	Addition	-	[D]	3			Darkness	N		
+Dante, Fallen Angel	TST	TST-054	TST-054	Ruler	Fallen Angel		0				JR	[Judgment] [D][Tag] (Fallen Angel)	
+Fallen Angel of Black Tears	TST	TST-055	TST-055	Resonator	Fallen Angel	[D][D][D][2]	6	            1200	1200        	Darkness	R	[Flying]	
+Fallen Angel of Dusk	TST	TST-056	TST-056	Resonator	Fallen Angel	[D][D]	3	            600	600        	Darkness	N	[Flying]	
+Graveyard Keeper of the Demonic World	TST	TST-057	TST-057	Resonator	Demon	[D]	3	            100	500        	Darkness	N	[Bane]	
+Invisible Terror	TST	TST-058	TST-058	Resonator	Cthulhu	[D][D][1]	3	            700	700        	Darkness	N	[Null] - At end of turn >>> If this card is in your graveyard, put it into the field rested.	
+Marching of the Dead	TST	TST-059	TST-059	Chant	-	[D][1]	3			Darkness	R	[Quickcast]Put X [400/400] darkness Zombie resonator tokens into the field, where X is the number of resonators in your graveyard.[Fallen]	
+Selective Decapitation	TST	TST-060	TST-060	Addition	-	[D]	3			Darkness	N		
+The Fourth Boon: Last Regrets, Black Tears	TST	TST-061	TST-061	Chant	-	[D]	3			Darkness	SR	Choose one; 	
+Tisiphone, Avenging Fury	TST	TST-062	TST-062	Resonator	Cthulhu	[D][D]	3	            0	0        	Darkness	SR	[Pierce]	
+Vergilius, Rebel against Satan	TST	TST-063	TST-063	Resonator	Human	[D][D][D]	3	            1000	1000        	Darkness	MR	[Swiftness][Fallen]	
+Acheron, River of the Dead	TST	TST-064	TST-064	Addition	Demonic World	[Wa][D]	7			Water	R		
+Angel of False Glory	TST	TST-065	TST-065	Resonator	Angel	[L][D]	6	            1000	1000        	Light	MR	[Flying][Awakening] Rest two recovered J/rulers you control.	
+Angel of False Life	TST	TST-066	TST-066	Resonator	Angel	[L][D][2]	6	            1000	1000        	Light	R	[Flying][Fallen]	
+Astema	TST	TST-067	TST-067	Ruler	Fallen Angel, Wanderer		0				JR	[Judgment] [F][D][Tag] (Fallen Angel)	
+Astema's Cerberus	TST	TST-068	TST-068	Resonator	Beast	[F][D][X]	6	            700	700        	Fire	R		
+Astema's Fury	TST	TST-069	TST-069	Chant	-	[F][D]	6			Fire	SR	Your opponent discards two cards.[Fallen]	
+Beatrice	TST	TST-070	TST-070	Ruler	Fallen Angel		0				JR	[Judgment] [D][D][Tag] (Fallen Angel)[Null] - At the end of your turn >>> Draw a card.	
+Beatrice's Curse	TST	TST-071	TST-071	Chant	-	[Wa][D]	7			Water	N	Your opponent banishes a resonator. If this card was played from a graveyard, draw a card.[Null] - [Remnant]	
+Beatrice's Imagination	TST	TST-072	TST-072	Chant	-	[Wa][D]	7			Water	SR	You may play cards from your graveyard this turn. If a card would be put into your graveyard from anywhere this turn, remove it from the game instead.[Null] - Produce [D][D].	
+Belial	TST	TST-073	TST-073	Ruler	Fallen Angel		0				JR	[Judgment] [L][D][Tag] (Fallen Angel)[Fallen]	
+Belial's Rule	TST	TST-074	TST-074	Chant	-	[L][D][2]	6			Light	SR	You may pay [2] less to play this card if your life is 2000 or less.Remove all non-token resonators from the game. Remove this card from the game as it resolves. This card gains "Players cannot chase God's Art abilities you control." as long as it is in your removed area.	
+Carlina	TST	TST-075	TST-075	Ruler	Fallen Angel		0				JR	[Judgment] [Wi][D][Tag] (Fallen Angel)	
+Carlina's Hunting	TST	TST-076	TST-076	Chant	-	[Wi][Wi][D][D]	7			Wind	SR	Destroy all J/resonators other than J-rulers you control. Recover a J/ruler you control. If this card was awakened, destroy all additions.[Awakening] Rest a recovered J/ruler you control.You may play this card as though it had [Quickcast] if you rest a recovered J/ruler you control as an additional cost to play this card.	
+Castle of Astema	TST	TST-077	TST-077	Addition	-	[F][D]	6			Fire	N	[Fallen]	
+Castle of Beatrice	TST	TST-078	TST-078	Addition	-	[Wa][D]	7			Water	N		
+Castle of Belial	TST	TST-079	TST-079	Addition	-	[L][D]	6			Light	N		
+Castle of Carlina	TST	TST-080	TST-080	Addition	-	[Wi][D][2]	6			Wind	N		
+Demon of Pride and Greed	TST	TST-081	TST-081	Resonator	Demon	[Wi][Wi][D][3]	9	            1600	1600        	Wind	R		
+Fallen Angel of the Mark	TST	TST-082	TST-082	Resonator	Fallen Angel	[L][D]	6	            200	200        	Light	N	[Flying]	
+Faria, Igniter of Holy Fire	TST	TST-083	TST-083	Resonator	Human, Hero	[L][L][F][F]	6	            1200	1200        	Light	SR	[Swiftness]	
+Geryon	TST	TST-084	TST-084	Resonator	Beast	[Wi][Wi][D][D][1]	3	            1500	1500        	Wind	MR	[Swiftness] [Precision] [Flying]	
+Imaginary Dagon	TST	TST-085	TST-085	Resonator	Cthulhu	[Wa][D]	7	            600	600        	Water	N	[Null] - This card gains [Flying] and "When this card deals damage to your opponent >>> They discard a card.".	
+Inferno	TST	TST-086	TST-086	Chant	-	[F][D]	6			Fire	MR	Choose one;[Fallen]	
+Megaera, Jealous Fury	TST	TST-087	TST-087	Resonator	Cthulhu	[F][D]	6	            700	700        	Fire	SR	[Flying]	
+Olivia, Skysplitting Thunderbolt	TST	TST-088	TST-088	Resonator	Mermaid	[L][Wa][1]	3	            700	800        	Light	SR	[Quickcast]	
+The First Boon: Excalibur Cassius, Sword	TST	TST-089	TST-089	Chant	-	[L][F]	6			Light	R	[Quickcast]Choose one;	
+The Gate in the Center of the Demonic World	TST	TST-090	TST-090	Addition	Demonic World	[F][F][D]	6			Fire	R		
+The Mimicking Beast	TST	TST-091	TST-091	Resonator	Beast	[Wi][D]	7	            100	100        	Wind	N	[Pierce]	
+The Sixth Boon: Requiem, Jewel	TST	TST-092	TST-092	Addition	Demonic World	[L][D]	6			Light	R	[Eternal]	
+Wolfgang, Prince of Amadeus	TST	TST-093	TST-093	Resonator	Human	[L][Wa]	7	            700	700        	Light	SR	[Barrier][L] [Barrier][D]	
+Satan	TST	TST-094	TST-094	Ruler	High God		0				RR		
+Amadeus, Holy Crystal	TST	TST-095	TST-095	Special Magic Stone	-		0				R		
+Erythropia, Blood Stone	TST	TST-096	TST-096	Special Magic Stone	-		0				R		
+Imaginary Satan, Magic Crystal	TST	TST-097	TST-097	Special Magic Stone	-		0				R		
