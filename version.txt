@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>220109</lastupdateYYMMDD>
-<versionurl>https://raw.githubusercontent.com/Trogdarius/forceofwill/main//version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/Trogdarius/forceofwill/main//updatelist.txt</updateurl>
-<message>Temporary upload before corrections<message>
+<lastupdateYYMMDD>190203</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/Trogdarius/forceofwill/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/Trogdarius/forceofwill/main/updatelist.txt</updateurl>
+<message>SNV Missing Attributes<message>
 </version>
