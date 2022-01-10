@@ -94,9 +94,9 @@ plugins/ForceOfWill/sets/CardDataReiya.txt	https://raw.githubusercontent.com/FoW
 plugins/ForceOfWill/sets/CardDataStones.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Stones.txt	2527012
 plugins/ForceOfWill/sets/CardDataVahalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Vahalla.txt	10563963
 
-plugins/ForceOfWill/sets/CardImageURLsAliceOrigin.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/sets/CardImageURLsAliceOrigin.txt	11461678
-plugins/ForceOfWill/sets/CardImageURLsDuel.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/sets/CardImageURLsDuel.txt	11461678
-plugins/ForceOfWill/sets/CardImageURLsAliceOrigin.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/sets/CardImageURLsAliceOrigin.txt	11461678
+plugins/ForceOfWill/CardImageURLsAliceOrigin.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsAliceOrigin.txt	11461678
+plugins/ForceOfWill/CardImageURLsDuel.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsDuel.txt	11461678
+plugins/ForceOfWill/CardImageURLsAliceOrigin.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/CardImageURLsAliceOrigin.txt	11461678
 plugins/ForceOfWill/CardImageURLsAlice.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsAlice.txt	4733039
 plugins/ForceOfWill/CardImageURLsExtras.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsExtras.txt	186893
 plugins/ForceOfWill/CardImageURLsGrimm.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsGrimm.txt	3875181
@@ -106,7 +106,7 @@ plugins/ForceOfWill/CardImageURLsPromo.txt	https://raw.githubusercontent.com/FoW
 plugins/ForceOfWill/CardImageURLsReiya.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsReiya.txt	5744765
 plugins/ForceOfWill/CardImageURLsValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsValhalla.txt	3888479
 
-plugins/ForceOfWill/README.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/README.txt	318440
+plugins/ForceOfWill/README.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/README.txt	318440
 plugins/ForceOfWill/public-sync.bat	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/public-sync.txt	16496
 
 CardURLFiles:
