@@ -3,8 +3,12 @@
 | |__   ___   _ _ _  ___  ____    ___    _ | | _   _ | |  ____   ____   
 |  __) / _ \ | | | |(___)|    \  / _ \  / || || | | || | / _  | / ___)  
 | |   | |_| || | | |     | | | || |_| |( (_| || |_| || |( ( | || |      
-|_|    \___/  \____|     |_|_|_| \___/  \____| \____||_| \_||_||_|      
--- 01-09-17
+|_|    \___/  \____|     |_|_|_| \___/  \____| \____||_| \_||_||_| 
+-- 01-17-22
+Updates:
+    - Images hosted on lackeyfow.com.  Auto-updating script still being fleshed out.
+             
+-- 01-09-22
 Updates:
     - Temporary update fork to include new set designations
         - Plugin in process of being redisigned and images rehosted for access.                                                                      

@@ -1,0 +1,21 @@
+CardImageURLs:
+T/T-009.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-009.png
+T/T-009I.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-009I.png
+T/T-010.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-010.png
+T/T-010I.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-010I.png
+T/T-011.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-011.png
+T/T-011I.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-011I.png
+T/T-007.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-007.png
+T/T-007I.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-007I.png
+T/T-008.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-008.png
+T/T-008I.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-008I.png
+T/T-001.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-001.png
+T/T-001I.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-001I.png
+T/T-002.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-002.png
+T/T-002I.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-002I.png
+T/T-003.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-003.png
+T/T-003I.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-003I.png
+T/T-004.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-004.png
+T/T-004I.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-004I.png
+T/T-005.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-005.png
+T/T-005I.png	https://www.lackeyfow.com/FoWUpdate/setimages/T/T-005I.png

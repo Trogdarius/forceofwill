@@ -1,0 +1,76 @@
+CardImageURLs:
+PR2014/PR2014-01.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-01.png
+PR2014/PR2014-02.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-02.png
+PR2014/PR2014-03J.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-03J.png
+PR2014/PR2014-04.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-04.png
+PR2014/PR2014-05.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-05.png
+PR2014/PR2014-06.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-06.png
+PR2014/PR2014-07.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-07.png
+PR2014/PR2014-08.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-08.png
+PR2014/PR2014-09.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-09.png
+PR2014/PR2014-10.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-10.png
+PR2014/PR2014-11.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-11.png
+PR2014/PR2014-12.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-12.png
+PR2014/PR2014-13.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-13.png
+PR2014/PR2014-14.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-14.png
+PR2014/PR2014-15.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-15.png
+PR2014/PR2014-16.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-16.png
+PR2014/PR2014-17.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-17.png
+PR2014/PR2014-18.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-18.png
+PR2014/PR2014-19.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-19.png
+PR2014/PR2014-20.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2014/PR2014-20.png
+PR2015/PR2015-001.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-001.png
+PR2015/PR2015-002.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-002.png
+PR2015/PR2015-003.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-003.png
+PR2015/PR2015-004.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-004.png
+PR2015/PR2015-005.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-005.png
+PR2015/PR2015-006.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-006.png
+PR2015/PR2015-007.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-007.png
+PR2015/PR2015-008.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-008.png
+PR2015/PR2015-009.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-009.png
+PR2015/PR2015-010.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-010.png
+PR2015/PR2015-011.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-011.png
+PR2015/PR2015-012.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-012.png
+PR2015/PR2015-013.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-013.png
+PR2015/PR2015-014.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-014.png
+PR2015/PR2015-015.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-015.png
+PR2015/PR2015-016.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-016.png
+PR2015/PR2015-017.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-017.png
+PR2015/PR2015-018.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-018.png
+PR2015/PR2015-019.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-019.png
+PR2015/PR2015-020.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-020.png
+PR2015/PR2015-021.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-021.png
+PR2015/PR2015-022.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-022.png
+PR2015/PR2015-023.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-023.png
+PR2015/PR2015-024.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-024.png
+PR2015/PR2015-025.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-025.png
+PR2015/PR2015-026.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-026.png
+PR2015/PR2015-029.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-029.png
+PR2015/PR2015-030.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-030.png
+PR2015/PR2015-031.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-031.png
+PR2015/PR2015-032.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-032.png
+PR2015/PR2015-033.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-033.png
+PR2015/PR2015-034.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-034.png
+PR2015/PR2015-035.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR2015/PR2015-035.png
+PR/L1 Buy a Box.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/L1 Buy a Box.png
+PR/L1 Pre-release Party.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/L1 Pre-release Party.png
+PR/L2 Buy a Box.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/L2 Buy a Box.png
+PR/L2 Pre-release Party.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/L2 Pre-release Party.png
+PR/L4 Buy a Box.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/L4 Buy a Box.png
+PR/L4 Pre-release Party.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/L4 Pre-release Party.png
+PR/WL004.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/WL004.png
+PR/R1 Buy a Box.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/R1 Buy a Box.png
+PR/R1 Pre-release Party.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/R1 Pre-release Party.png
+PR/WL005.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/WL005.png
+PR/WL006.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/WL006.png
+PR/R2 Buy a Box.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/R2 Buy a Box.png
+PR/R2 Pre-release Party.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/R2 Pre-release Party.png
+PR/R3 Buy a Box.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/R3 Buy a Box.png
+PR/R3 Pre-release Party.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/R3 Pre-release Party.png
+PR/WL007.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/WL007.png
+PR/R4 Pre-release Party.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/R4 Pre-release Party.png
+PR/AO4 Buy a Box-1.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/AO4 Buy a Box-1.png
+PR/AO4 Buy a Box-2.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/AO4 Buy a Box-2.png
+PR/AO4 Buy a Box-3.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/AO4 Buy a Box-3.png
+PR/WL002.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/WL002.png
+PR/Buy a Box.png	https://www.lackeyfow.com/FoWUpdate/setimages/PR/Buy a Box.png

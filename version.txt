@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>190203</lastupdateYYMMDD>
+<lastupdateYYMMDD>220117</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/Trogdarius/forceofwill/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/Trogdarius/forceofwill/main/updatelist.txt</updateurl>
-<message>SNV Missing Attributes<message>
+<message>In Development<message>
 </version>
