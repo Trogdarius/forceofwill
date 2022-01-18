@@ -99,7 +99,7 @@ plugins/ForceOfWill/CardImageURLsReiya.txt	https://raw.githubusercontent.com/Tro
 plugins/ForceOfWill/CardImageURLsValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsValhalla.txt	3888479
 plugins/ForceOfWill/README.txt	https://raw.githubusercontent.com/Trogdarius/forceofwill/main/README.txt	331968
 plugins/ForceOfWill/public-sync.bat	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/public-sync.txt	16496
-CardImageURLs:
+CardURLFiles:
 CardImageURLsAlice.txt
 CardImageURLsAliceOrigin.txt
 CardImageURLsDuel.txt
