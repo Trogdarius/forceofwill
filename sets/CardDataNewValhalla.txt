@@ -1,463 +1,473 @@
 Name	Set	ImageFile	SetID	type	Race	Cost	TCost	ATK	DEF	Attribute	Rarity	Cardtext	Script
-Aratron, Angel of Knowledge	NDR	NDR-001	NDR-001	Resonator	Angel	[L]		200	200	Light	U		
-Ayu, the Mysterious Wanderer	NDR	NDR-002	NDR-002	Resonator	Wererabbit	[L][L]		600	600	Light	R		
-Balmung	NDR	NDR-003	NDR-003	Chant		[L][L][2]				Light	R		
-Blessing of the Sun	NDR	NDR-004	NDR-004	Chant/Rune(Divinity 2)		[L][L]				Light	C		
-Child of the Hero	NDR	NDR-005	NDR-005	Resonator	Human	[L][2]		700	800	Light	C		
-Commander of Minerva	NDR	NDR-006	NDR-006	Resonator	Human	[L][L]		600	500	Light	C		
-Country of the Sun, Minerva	NDR	NDR-007	NDR-007	Addition		[L][1]				Light	U		
-Eir, Bringer of Destruction	NDR	NDR-008	NDR-008	Resonator	Valkyrie	[L][L][1]		800	800	Light	U		
-Haggith, Angel of Alchemy	NDR	NDR-009	NDR-009	Resonator	Angel	[L][L][2]		700	900	Light	C		
-Light of the Moon	NDR	NDR-010	NDR-010	Chant/Rune(Divinity 1)		[L]				Light	U		
-Moonlit Paradise, Lunar Heaven	NDR	NDR-011	NDR-011	Addition		[L][1]				Light	U		
-Och, Angel of Clairvoyance	NDR	NDR-012	NDR-012	Resonator	Angel	[L][1]		500	600	Light	C		
-One Who Gazes at the Soul	NDR	NDR-013	NDR-013	Resonator	Valkyrie	[L][4]		700	1200	Light	C		
-Ophiel, Angel of Guidance	NDR	NDR-014	NDR-014	Resonator	Angel	[L][L][3]		1200	1200	Light	SR		
-Protection of the Angels	NDR	NDR-015	NDR-015	Chant		[L]				Light	R		
-Siegfried, the Hundred Years Hero	NDR	NDR-016	NDR-016	Resonator	Human	[L][L][1]		800	800	Light	SR		
-Skuld, Valkyrie of the Future	NDR	NDR-017	NDR-017	Resonator	Valkyrie	[L][L]		600	500	Light	R		
-Spear of the Valkyries	NDR	NDR-018	NDR-018	Chant/Rune(Divinity 2)		[L][1]				Light	U		
-Tiny Trader	NDR	NDR-019	NDR-019	Resonator	Wererabbit	[L]		0	800	Light	C		
-Whispers of an Angel	NDR	NDR-020	NDR-020	Chant/Rune(Divinity 2)		[L][2]				Light	C		
-Anubis, Administrator of the Hounds	NDR	NDR-021	NDR-021	Resonator	Ascendant	[F][F][F][F][F][3]		1500	1500	Fire	SR		
-Bird of Fire	NDR	NDR-022	NDR-022	Resonator	Beast	[F][3]		800	700	Fire	C		
-Black Spot Tiger	NDR	NDR-023	NDR-023	Resonator	Beast	[F]		400	400	Fire	R		
-Burial Rites	NDR	NDR-024	NDR-024	Chant		[F]				Fire	R		
-Carrier Camel	NDR	NDR-025	NDR-025	Resonator	Beast	[F][1]		600	600	Fire	C		
-Carrier Dragon	NDR	NDR-026	NDR-026	Resonator	Dragon	[F][1]		200	700	Fire	C		
-Chain Bind	NDR	NDR-027	NDR-027	Chant/Rune(Divinity 3)		[F][2]				Fire	U		
-City of Mirage, Sandora	NDR	NDR-028	NDR-028	Addition		[F][1]				Fire	U		
-Desert Fennec	NDR	NDR-029	NDR-029	Resonator	Beast	[F][F][1]		1000	600	Fire	U		
-Explosion Wizard	NDR	NDR-030	NDR-030	Resonator	Human	[F][4]		500	600	Fire	U		
-Heaven Thundering Strike	NDR	NDR-031	NDR-031	Chant		[F][1]				Fire	R		
-Land of Fiery Ambition, Kunlun	NDR	NDR-032	NDR-032	Addition		[F][F][F]				Fire	U		
-Osiris, Lord of the Afterlife	NDR	NDR-033	NDR-033	Resonator	Ascendant	[F][F][1]		900	500	Fire	R		
-Sandstorm	NDR	NDR-034	NDR-034	Chant/Rune(Divinity 1)		[F]				Fire	U		
-Scalding Breath	NDR	NDR-035	NDR-035	Chant/Rune(Divinity 2)		[F][1]				Fire	C		
-Scorching Winds	NDR	NDR-036	NDR-036	Chant/Rune(Divinity2)		[F]				Fire	C		
-Shen Gongbao, Taoist of Kunlun	NDR	NDR-037	NDR-037	Resonator	Taoist	[F][F]		600	600	Fire	SR		
-Trader of Sandora	NDR	NDR-038	NDR-038	Resonator	Human	[F][F][1]		600	700	Fire	C		
-Venomous Scorpion	NDR	NDR-039	NDR-039	Resonator	Insect	[F]		300	100	Fire	C		
-Wooden Ox	NDR	NDR-040	NDR-040	Resonator	Invention	[F][2]		0	1200	Fire	C		
-Arondight, the Nitrogen Blade	NDR	NDR-041	NDR-041	Chant		[Wa]				Water	R		
-Forest of the Lost, Misty Woods	NDR	NDR-042	NDR-042	Addition		[Wa]				Water	U		
-Giant of Mist	NDR	NDR-043	NDR-043	Resonator	Giant	[Wa][2]		900	900	Water	C		
-Hamelin, the Sound of Temptation	NDR	NDR-044	NDR-044	Resonator	Fairy Tale	[Wa][Wa][Wa][2]		400	400	Water	R		
-Invitation	NDR	NDR-045	NDR-045	Chant/Rune(Divinity 2)		[Wa][Wa][1]				Water	U		
-Iron Cauldron Witch	NDR	NDR-046	NDR-046	Resonator	Fairy Tale/Witch	[Wa][Wa][4]		700	900	Water	C		
-J?rmungandr, Little Eater of Worlds	NDR	NDR-047	NDR-047	Resonator	Beast	[Wa]		400	400	Water	SR		
-Lancelot, the Glass Knight	NDR	NDR-048	NDR-048	Resonator	Machine	[Wa][2]		600	600	Water	SR		
-Mad Hatter of Misty Woods	NDR	NDR-049	NDR-049	Resonator	Fairy Tale	[Wa][Wa][3]		1000	1200	Water	U		
-Massive Growth	NDR	NDR-050	NDR-050	Chant/Rune(Divinity 3)		[Wa][1]				Water	R		
-Mechanized Knight	NDR	NDR-051	NDR-051	Resonator	Machine	[Wa]		500	500	Water	C		
-Merlin, the Control Unit of Sky Round	NDR	NDR-052	NDR-052	Resonator	Machine	[Wa][Wa][2]		600	800	Water	R		
-Messenger of Death	NDR	NDR-053	NDR-053	Resonator	Beast	[Wa][Wa]		600	400	Water	C		
-Scrap and Build	NDR	NDR-054	NDR-054	Chant/Rune(Divinity 3)		[Wa][2]				Water	U		
-Sky Round Guardian	NDR	NDR-055	NDR-055	Resonator	Machine	[Wa][3]		500	1100	Water	C		
-Sky Round Technician	NDR	NDR-056	NDR-056	Resonator	Machine	[Wa][1]		600	600	Water	C		
-The Knights' Castle in the Sky, Sky Round	NDR	NDR-057	NDR-057	Addition	Machine	[Wa][1]				Water	U		
-Thick Fog	NDR	NDR-058	NDR-058	Chant/Rune(Divinity 1)		[Wa][2]				Water	C		
-Torrent of Energy	NDR	NDR-059	NDR-059	Chant/Rune(Divinity 2)		[Wa][2]				Water	C		
-Viviane, the Mechanical Fairy	NDR	NDR-060	NDR-060	Resonator	Machine/Fairy	[Wa]		300	300	Water	U		
-Atlantis, the Wielder of Knowledge	NDR	NDR-061	NDR-061	Resonator	Mimi Tribe	[Wi][Wi][1]		400	1200	Wind	R		
-Cat Ninja Scout	NDR	NDR-062	NDR-062	Resonator	Cat/Ninja	[Wi]		300	300	Wind	C		
-Eccentric Oni	NDR	NDR-063	NDR-063	Resonator	Oni	[Wi][1]		700	600	Wind	C		
-Explore the Unknown	NDR	NDR-064	NDR-064	Chant/Rune(Divinity3)		[Wi]				Wind	U		
-Grand Bird of the Lost Isles	NDR	NDR-065	NDR-065	Resonator	Beast	[Wi][4]		800	900	Wind	C		
-In a Single Stroke	NDR	NDR-066	NDR-066	Chant/Rune(Divinity 2)		[Wi][2]				Wind	C		
-Ittan-Momen	NDR	NDR-067	NDR-067	Resonator	Youkai	[Wi][2]		600	700	Wind	C		
-Jubei, the One-Eyed Swordsmaster	NDR	NDR-068	NDR-068	Resonator	Cat/Bushido	[Wi][Wi][3]		1200	1000	Wind	R		
-Karura, the Crow Tengu	NDR	NDR-069	NDR-069	Resonator	Youkai	[Wi][Wi][3]		1200	1200	Wind	SR		
-Kotaro, Ninja of the Wind	NDR	NDR-070	NDR-070	Resonator	Cat/Ninja	[Wi][Wi]		600	600	Wind	U		
-Lemuria of the Magic Boomerang	NDR	NDR-071	NDR-071	Resonator	Mimi Tribe	[Wi][2]		0	800	Wind	SR		
-Magic Boomerang	NDR	NDR-072	NDR-072	Chant		[Wi]				Wind	R		
-Mimi Tribe Explorer	NDR	NDR-073	NDR-073	Resonator	Mimi Tribe	[Wi][1]		400	600	Wind	U		
-River Snake	NDR	NDR-074	NDR-074	Resonator	Beast	[Wi][3]		1200	600	Wind	C		
-Song of the Fairies	NDR	NDR-075	NDR-075	Chant/Rune(Divinity 1)		[Wi][Wi][1]				Wind	C		
-Squall of the Tengu	NDR	NDR-076	NDR-076	Chant		[Wi][Wi][1]				Wind	R		
-The Forgotten Sanctuary, Lost Isles	NDR	NDR-077	NDR-077	Addition		[Wi][1]				Wind	U		
-The Mimi Tribe's Cook	NDR	NDR-078	NDR-078	Resonator	Mimi Tribe	[Wi][2]		800	800	Wind	C		
-The Village of the Spirited Away, Kouga	NDR	NDR-079	NDR-079	Addition		[Wi]				Wind	U		
-Youkai Festival	NDR	NDR-080	NDR-080	Chant/Rune(Divinity 3)		[Wi][Wi][X]				Wind	U		
-Apostle of the Devil	NDR	NDR-081	NDR-081	Resonator	Human	[D][3]		1000	600	Darkness	C		
-Azazel, the Fallen Angel of Gloom	NDR	NDR-082	NDR-082	Resonator	Fallen Angel	[D][D][2]		900	1000	Darkness	R		
-Belial, the Evil from the Scriptures	NDR	NDR-083	NDR-083	Resonator	Fallen Angel	[D][D][D][3]		1200	1200	Darkness	SR		
-Bottomless Chasm of Death, the Abyss	NDR	NDR-084	NDR-084	Addition		[D][D][D]				Darkness	U		
-Corpse Demon	NDR	NDR-085	NDR-085	Resonator	Zombie	[D][D]		600	600	Darkness	C		
-Corpse Sorcerer	NDR	NDR-086	NDR-086	Resonator	Zombie/Wizard	[D][D][1]		600	600	Darkness	U		
-Craving	NDR	NDR-087	NDR-087	Chant/Rune(Divinity 3)		[D][D][3]				Darkness	U		
-Diseased Rat	NDR	NDR-088	NDR-088	Resonator	Beast/Zombie	[D][1]		200	400	Darkness	C		
-Disgraced Knight	NDR	NDR-089	NDR-089	Resonator	Zombie	[D][D][D]		800	700	Darkness	R		
-Fresh Blood Vampire	NDR	NDR-090	NDR-090	Resonator	Vampire	[D][2]		500	600	Darkness	C		
-Gatherer of Despair	NDR	NDR-091	NDR-091	Resonator	Demon	[D][1]		600	500	Darkness	C		
-Life Severing Blade	NDR	NDR-092	NDR-092	Chant		[D][2]				Darkness	R		
-Look of Corruption	NDR	NDR-093	NDR-093	Chant		[D]				Darkness	R		
-Miasma of the Abyss	NDR	NDR-094	NDR-094	Chant/Rune(Divinity 3)		[D][D][2]				Darkness	C		
-Minister of Grief	NDR	NDR-095	NDR-095	Resonator	Human/Wizard	[D][D][2]		500	500	Darkness	U		
-Oborozuki	NDR	NDR-096	NDR-096	Resonator	Vampire	[D][D]		600	600	Darkness	SR		
-Rain of Tears	NDR	NDR-097	NDR-097	Chant/Rune(Divinity 2)		[D]				Darkness	C		
-Ruins of Neverending Rain, Rainruins	NDR	NDR-098	NDR-098	Addition		[D][D][2]				Darkness	U		
-Skeleton Knight	NDR	NDR-099	NDR-099	Resonator	Skeleton	[D][D][2]		800	800	Darkness	C		
-Whispers of the Devil	NDR	NDR-100	NDR-100	Chant/Rune(Divinity 2)		[D][1]				Darkness	U		
-Magic Stone of Adventure	NDR	NDR-101	NDR-101	Special Magic Stone							U		
-Magic Stone of Chaos	NDR	NDR-102	NDR-102	Special Magic Stone							R		
-Magic Stone of Corruption	NDR	NDR-103	NDR-103	Special Magic Stone							U		
-Magic Stone of Dramaturgy	NDR	NDR-104	NDR-104	Special Magic Stone							U		
-Magic Stone of Dueling	NDR	NDR-105	NDR-105	Special Magic Stone							R		
-Magic Stone of Faith	NDR	NDR-106	NDR-106	Special Magic Stone							R		
-Magic Stone of Omniscience	NDR	NDR-107	NDR-107	Special Magic Stone							U		
-Magic Stone of the Hermit	NDR	NDR-108	NDR-108	Special Magic Stone							U		
-Magic Stone of the Undead	NDR	NDR-109	NDR-109	Special Magic Stone							R		
-Magic Stone of Tranquility	NDR	NDR-110	NDR-110	Special Magic Stone							R		
-Acolyte of the Sun	SDV1	SDV1-001	SDV1-001	Resonator	Human	[L]		200	200	Light	C		
-Bethor, the Angel of Treasure	SDV1	SDV1-003	SDV1-003	Resonator	Angel	[L][1]		500	500	Light	C		
-Bewilder	SDV1	SDV1-004	SDV1-004	Rune(Divinity 2)		[L]				Light	C		
-Brunhild's Wrath	SDV1	SDV1-006	SDV1-006	Rune(Divinity 3)		[L][1]				Light	C		
-Dispel	SDV1	SDV1-007	SDV1-007	Rune(Divinity2)		[L]				Light	C		
-Einherjar's Summons	SDV1	SDV1-008	SDV1-008	Rune(Divinity2)							U		
-Eir, Valkyrie of Mercy	SDV1	SDV1-009	SDV1-009	Resonator	Valkyrie	[L][L][1]		600	700	Light	U		
-Karmic Reversal	SDV1	SDV1-010	SDV1-010	Rune(Divinity 3)		[L][1]				Light	C		
-Mini Meteor	SDV1	SDV1-011	SDV1-011	Rune(Divinity 3)		[L][L][1]				Light	U		
-Odin's Judgment	SDV1	SDV1-012	SDV1-012	Master Rune(Divinity 2)		[L][L][1]				Light	R		
-Phaleg, the Angel of War	SDV1	SDV1-013	SDV1-013	Resonator	Angel	[L][L][L]		800	800	Light	U		
-Phul, the Administrator of the Moon	SDV1	SDV1-014	SDV1-014	Resonator	Angel	[L][L][2]		1000	1000	Light	SR		
-Ring of Legend	SDV1	SDV1-015	SDV1-015	Rune(Divinity 3)		[L]				Light	C		
-Sigrun, Valkyrie of Victory	SDV1	SDV1-016	SDV1-016	Resonator	Valkyrie	[L][L][2]		1000	1000	Light	SR		
-Sorceress of the Moon	SDV1	SDV1-017	SDV1-017	Resonator	Wererabbit	[L]		400	400	Light	C		
-The Valkyrie's Chosen	SDV1	SDV1-018	SDV1-018	Resonator	Human	[L][1]		600	600	Light	C		
-Turn Tail	SDV1	SDV1-019	SDV1-019	Rune(Divinity 2)		[L]				Light	C		
-Warrior of the Sun	SDV1	SDV1-020	SDV1-020	Resonator	Human	[L]		400	400	Light	C		
-Wererabbit Warrior	SDV1	SDV1-021	SDV1-021	Resonator	Wererabbit	[L]		400	400	Light	C		
-Zeus' Grand Lightning	SDV1	SDV1-022	SDV1-022	Master Rune(Divinity 2)		[L][L]				Light	R		
-Light Magic Stone	SDV1	SDV1-023	SDV1-023	Basic Magic Stone							C	[rest]: Produce [L].	
-Chu-Ko-Nu Soldier	SDV2	SDV2-001	SDV2-001	Resonator	Human	[F]		300	300	Fire	C		
-Concealed Khopesh	SDV2	SDV2-002	SDV2-002	Rune(Divinity 3)		[F][F][1]				Fire	C		
-Dragon Dance	SDV2	SDV2-003	SDV2-003	Rune(Divinity 3)		[F]				Fire	C		
-Dragon of Kunlun	SDV2	SDV2-004	SDV2-004	Resonator	Dragon	[F][F][2]		1200	1200	Fire	SR		
-Dragon's Flight	SDV2	SDV2-005	SDV2-005	Rune(Divinity 2)		[F]				Fire	U		
-Explosion	SDV2	SDV2-006	SDV2-006	Rune(Divinity 2)		[F]				Fire	C		
-Flame Enchant	SDV2	SDV2-007	SDV2-007	Rune(Divinity 2)							C		
-Flame Soldier Formation	SDV2	SDV2-008	SDV2-008	Master Rune(Divinity 2)		[F][X]				Fire	R		
-Giant Sandstorm	SDV2	SDV2-010	SDV2-010	Rune(Divinity 3)		[F][F][F][F]				Fire	U		
-Magician of Molding	SDV2	SDV2-012	SDV2-012	Resonator	Human	[F][1]		600	600	Fire	C		
-Pang Tong	SDV2	SDV2-013	SDV2-013	Resonator	Human	[F][F][1]		400	800	Fire	U		
-Poison Stinger	SDV2	SDV2-014	SDV2-014	Rune(Divinity 2)		[F]				Fire	C		
-Reckless Flame Soldier	SDV2	SDV2-015	SDV2-015	Resonator	Human	[F]		800	800	Fire	C		
-Sand Dragon	SDV2	SDV2-016	SDV2-016	Resonator	Sand/Dragon	[F][F][1]		1000	1000	Fire	U		
-Sandora Blacksmith	SDV2	SDV2-017	SDV2-017	Resonator	Human	[F]		200	400	Fire	C		
-Sandworm	SDV2	SDV2-018	SDV2-018	Resonator	Insect	[F]		300	400	Fire	C		
-Set, the Commander of Destruction	SDV2	SDV2-019	SDV2-019	Resonator	Ascendant	[F][F][F][F]		1200	1000	Fire	SR		
-Soldier Ambush	SDV2	SDV2-020	SDV2-020	Rune(Divinity 3)		[F][F]				Fire	C		
-Tiger of Kunlun	SDV2	SDV2-021	SDV2-021	Resonator	Beast	[F][1]		600	600	Fire	C		
-Whirlwind Conflagration	SDV2	SDV2-022	SDV2-022	Master Rune(Divinity 2)		[F][F][3]				Fire	R		
-Fire Magic Stone	SDV2	SDV2-023	SDV2-023	Basic Magic Stone							C	[rest]: Produce [F].	
-Anti-Matter Cannon, Excalibur	SDV3	SDV3-001	SDV3-001	Master Rune(Divinity 2)		[Wa][Wa][1]				Water	R		
-Caliburn, the Sword of Judgment	SDV3	SDV3-003	SDV3-003	Rune(Divinity 3)		[Wa][Wa][2]				Water	U		
-Charm	SDV3	SDV3-004	SDV3-004	Rune(Divinity 2)		[Wa][1]				Water	C		
-Checkmate	SDV3	SDV3-005	SDV3-005	Rune(Divinity 3)		[Wa][Wa]				Water	C		
-Consume	SDV3	SDV3-006	SDV3-006	Master Rune(Divinity 2)		[Wa][Wa][1]				Water	R		
-Donut Drone	SDV3	SDV3-007	SDV3-007	Resonator	Machine	[Wa]		200	200	Water	C		
-Gawain, the Swift Knight	SDV3	SDV3-008	SDV3-008	Resonator	Machine	[Wa][Wa][1]		800	800	Water	U		
-Gretel of Misty Woods	SDV3	SDV3-009	SDV3-009	Resonator	Fairy Tale	[Wa]		200	600	Water	C		
-Hansel of Misty Woods	SDV3	SDV3-010	SDV3-010	Resonator	Fairy Tale	[Wa][1]		600	600	Water	C		
-Loki's Watchdog, Fenrir	SDV3	SDV3-012	SDV3-012	Resonator	Beast	[Wa][Wa][2]		1000	1000	Water	SR		
-Maintenance	SDV3	SDV3-013	SDV3-013	Rune(Divinity 2)							C		
-Mechanical Bishop	SDV3	SDV3-014	SDV3-014	Resonator	Machine	[Wa][1]		600	600	Water	C		
-Mechanical Soldier	SDV3	SDV3-015	SDV3-015	Resonator	Machine	[Wa]		400	400	Water	C		
-Monstrosify	SDV3	SDV3-016	SDV3-016	Rune(Divinity 2)		[Wa]				Water	U		
-Overflowing Knowledge	SDV3	SDV3-017	SDV3-017	Rune(Divinity 3)		[Wa][Wa]				Water	C		
-Perceval, the Shining Knight	SDV3	SDV3-018	SDV3-018	Resonator	Machine	[Wa][Wa][2]		900	900	Water	SR		
-Petrification	SDV3	SDV3-019	SDV3-019	Rune(Divinity 3)		[Wa][Wa]				Water	C		
-Reconnaissance	SDV3	SDV3-020	SDV3-020	Rune(Divinity 2)		[Wa]				Water	C		
-Scarecrow Guide	SDV3	SDV3-021	SDV3-021	Resonator	Fairy Tale	[Wa]		400	400	Water	C		
-Witch's House	SDV3	SDV3-022	SDV3-022	Resonator	Fairy Tale	[Wa][Wa][1]		400	700	Water	U		
-Water Magic Stone	SDV3	SDV3-023	SDV3-023	Basic Magic Stone							C	[rest]: Produce [Wa].	
-Chiyome, the Captivating Kunoichi	SDV4	SDV4-002	SDV4-002	Resonator	Cat/Ninja	[Wi][Wi][2]		800	800	Wind	SR		
-Elephant Rush!!	SDV4	SDV4-003	SDV4-003	Master Rune(Divinity 2)		[Wi][Wi][3]				Wind	R		
-Fairy of the Lost Isles	SDV4	SDV4-004	SDV4-004	Resonator	Fairy	[Wi]		400	400	Wind	C		
-Forest Meditation	SDV4	SDV4-005	SDV4-005	Rune(Divinity 3)		[Wi][1]				Wind	C		
-Fuhma Shuriken	SDV4	SDV4-006	SDV4-006	Rune(Divinity 2)		[Wi]				Wind	C		
-Grand Mallet Warrior	SDV4	SDV4-007	SDV4-007	Resonator	Mimi Tribe	[Wi][Wi][2]		800	800	Wind	SR		
-Huge Toad	SDV4	SDV4-009	SDV4-009	Resonator	Beast	[Wi]		400	400	Wind	C		
-Jiraiya, the Toad User	SDV4	SDV4-010	SDV4-010	Resonator	Cat/Ninja	[Wi][Wi][1]		700	700	Wind	U		
-Mu, the Hero of the Greatshield	SDV4	SDV4-011	SDV4-011	Resonator	Mimi Tribe	[Wi][1]		600	600	Wind	C		
-Pygmy Hippo	SDV4	SDV4-012	SDV4-012	Resonator	Beast	[Wi]		600	500	Wind	C		
-Raft Downstream	SDV4	SDV4-013	SDV4-013	Rune(Divinity 2)		[Wi][Wi][2]				Wind	U		
-Rapid Fire Mi-!!	SDV4	SDV4-014	SDV4-014	Rune(Divinity 2)		[Wi]				Wind	C		
-Sanctuary Elephant	SDV4	SDV4-015	SDV4-015	Resonator	Beast	[Wi][Wi][1]		1000	1000	Wind	U		
-Sealing Scroll	SDV4	SDV4-016	SDV4-016	Master Rune(Divinity 2)							R		
-Shadow Step	SDV4	SDV4-017	SDV4-017	Rune(Divinity 3)		[Wi][1]				Wind	C		
-Snipe Away Mi-!!	SDV4	SDV4-018	SDV4-018	Rune(Divinity 3)		[Wi]				Wind	C		
-Soot Sprite	SDV4	SDV4-019	SDV4-019	Resonator	Youkai	[Wi]		200	200	Wind	C		
-Spirited Away	SDV4	SDV4-020	SDV4-020	Rune(Divinity 3)		[Wi][Wi][2]				Wind	U		
-The Hundred Eyed One	SDV4	SDV4-021	SDV4-021	Resonator	Youkai	[Wi][1]		600	600	Wind	C		
-Whirlwind Technique	SDV4	SDV4-022	SDV4-022	Rune(Divinity 2)		[Wi]				Wind	C		
-Wind Magic Stone	SDV4	SDV4-023	SDV4-023	Basic Magic Stone							C	[rest]: Produce [Wi].	
-Armaros, the Fallen Angel of Nullification	SDV5	SDV5-001	SDV5-001	Resonator	Fallen Angel	[D][D][1]		800	800	Darkness	U		
-Black Rosario	SDV5	SDV5-002	SDV5-002	Master Rune(Divinity 2)		[D][D]				Darkness	R		
-Cycle of Death	SDV5	SDV5-003	SDV5-003	Master Rune(Divinity 2)		[D][D]				Darkness	R		
-Demon Division	SDV5	SDV5-004	SDV5-004	Rune(Divinity 2)		[D][D]				Darkness	C		
-Fanatic of Grief	SDV5	SDV5-005	SDV5-005	Resonator	Human	[D]		400	400	Darkness	C		
-Fleurety	SDV5	SDV5-006	SDV5-006	Resonator	Demon	[D][D]		500	500	Darkness	C		
-Immortal Commander	SDV5	SDV5-007	SDV5-007	Resonator	Vampire	[D][D][1]		700	700	Darkness	U		
-Jet-Black Wings	SDV5	SDV5-008	SDV5-008	Rune(Divinity 3)		[D][D][1]				Darkness	U		
-Lower Fallen Angel	SDV5	SDV5-010	SDV5-010	Resonator	Fallen Angel	[D]		300	400	Darkness	C		
-Patchwork Frankenstein	SDV5	SDV5-012	SDV5-012	Resonator	Zombie	[D][D]		1000	1000	Darkness	C		
-Putrefy	SDV5	SDV5-013	SDV5-013	Rune(Divinity 2)		[D]				Darkness	C		
-Scythe of the Reaper	SDV5	SDV5-014	SDV5-014	Rune(Divinity 3)		[D][1]				Darkness	C		
-Shemhaza, the Fallen Angel of Sadism	SDV5	SDV5-015	SDV5-015	Resonator	Fallen Angel	[D][D][2]		1000	1000	Darkness	SR		
-Skeleton Horde	SDV5	SDV5-016	SDV5-016	Resonator	Skeleton	[D]		400	400	Darkness	C		
-Specter Rush	SDV5	SDV5-017	SDV5-017	Rune(Divinity 3)		[D][D]				Darkness	U		
-Sword of Lament	SDV5	SDV5-018	SDV5-018	Rune(Divinity 3)		[D][D][1]				Darkness	C		
-Tears of the Fallen	SDV5	SDV5-019	SDV5-019	Rune(Divinity 2)							C		
-Undeath	SDV5	SDV5-020	SDV5-020	Rune(Divinity 2)		[D]				Darkness	C		
-Vlad, the Insatiable	SDV5	SDV5-021	SDV5-021	Resonator	Vampire	[D][D][2]		1000	1000	Darkness	SR		
-Wanderer of the Abyss	SDV5	SDV5-022	SDV5-022	Resonator	Zombie	[D]		100	100	Darkness	C		
-Darkness Magic Stone	SDV5	SDV5-023	SDV5-023	Basic Magic Stone							C	[rest]: Produce [D].	
-Alice, Otherworldly Visitor	SNV	SNV-001	SNV-001	Resonator	Fairy Tale/Wanderer	[L][L][1]		800	800	Light	SR		
-Barrier of Faith	SNV	SNV-002	SNV-002	Chant/Rune(Divinity 1)		[L]				Light	U		
-Blade of Faith	SNV	SNV-003	SNV-003	Chant/Master Rune(Divinity 2)		[L][3]				Light	R		
-Card Conscript	SNV	SNV-004	SNV-004	Resonator	Fairy Tale	[L][4]		900	1400	Light	C		
-Dark Alice Doll	SNV	SNV-005	SNV-005	Resonator	Fairy Tale/Doll	[L][L][1]		400	1000	Light	R		
-God's Choice	SNV	SNV-006	SNV-006	Chant		[L][L]				Light	C		
-March Hare of Valhalla	SNV	SNV-007	SNV-007	Resonator	Fairy Tale/Wererabbit	[L][L]		600	600	Light	U		
-Messenger of the Sun	SNV	SNV-008	SNV-008	Resonator	Human	[L][1]		200	400	Light	C		
-Misteltein, the Pious Sword Saint	SNV	SNV-009	SNV-009	Resonator	Human/Wanderer	[L][L][3]		1200	1200	Light	SR		
-Monk Heroic Spirit	SNV	SNV-010	SNV-010	Resonator	Heroic Spirit	[L][L][1]		800	800	Light	U		
-Musician of the Moon	SNV	SNV-011	SNV-011	Resonator	Wererabbit	[L]		300	300	Light	U		
-Mysterious Welcome Party	SNV	SNV-012	SNV-012	Chant		[L]				Light	C		
-Palace Chef	SNV	SNV-013	SNV-013	Resonator	Wererabbit	[L][2]		700	800	Light	C		
-Reginleif, Inheritor of God's Will	SNV	SNV-014	SNV-014	Resonator	Valkyrie	[L][L][3]		800	1500	Light	R		
-Spirit of Moonlit Nights	SNV	SNV-015	SNV-015	Resonator	Spirit	[L]		200	200	Light	C		
-Swordsman Heroic Spirit	SNV	SNV-016	SNV-016	Resonator	Heroic Spirit	[L][L]		600	600	Light	C		
-The Battle of Sun and Moon	SNV	SNV-017	SNV-017	Chant/Rune(Divinity 2)		[L][L][3]				Light	U		
-The Stranger from Re-Earth	SNV	SNV-018	SNV-018	Chant/Rune(Divinity 3)		[L][L][2]				Light	R		
-Valkyrie of the Dawn	SNV	SNV-019	SNV-019	Resonator	Valkyrie	[L][L][2]		800	800	Light	C		
-Wizard Heroic Spirit	SNV	SNV-020	SNV-020	Resonator	Heroic Spirit	[L][L][2]		500	1000	Light	U		
-All Under Heaven Shall Perish	SNV	SNV-021	SNV-021	Chant/Rune(Divinity 2)		[F][F][2]				Fire	U		
-Annihilation Dragon	SNV	SNV-022	SNV-022	Resonator	Dragon	[F][F][3]		1000	800	Fire	C		
-Frontline Warrior	SNV	SNV-023	SNV-023	Resonator	Human	[F][1]		600	500	Fire	C		
-Gaze of the Fire Emperor	SNV	SNV-024	SNV-024	Chant		[F][F][2]				Fire	C		
-Ladies of the Three Stars	SNV	SNV-025	SNV-025	Resonator	Taoist	[F][1]		600	500	Fire	U		
-Lady Huang's Karakuri Soldier	SNV	SNV-026	SNV-026	Resonator	Karakuri	[F][3]		900	900	Fire	C		
-Ma'at, Arbiter of Judgment	SNV	SNV-027	SNV-027	Resonator	Ascendant	[F]		100	600	Fire	R		
-Neo-Berserk Dragon	SNV	SNV-028	SNV-028	Resonator	Dragon	[F][F][2]		1000	800	Fire	R		
-Numbing Hedgehog	SNV	SNV-029	SNV-029	Resonator	Beast	[F]		400	400	Fire	C		
-Ruins Beneath the Sands	SNV	SNV-030	SNV-030	Addition	Ancient Ruins	[F][F]				Fire	U		
-Sand Awakening	SNV	SNV-031	SNV-031	Chant/Rune(Divinity 1)		[F][1]				Fire	R		
-Sand Soldier	SNV	SNV-032	SNV-032	Resonator	Sand	[F][1]		800	600	Fire	C		
-Sandora's Invasion	SNV	SNV-033	SNV-033	Chant/Rune(Divinity 3)		[F][F][3]				Fire	U		
-Scales of the Ascendant	SNV	SNV-034	SNV-034	Chant		[F][F][1]				Fire	C		
-Searing Wall of Sand	SNV	SNV-035	SNV-035	Resonator	Sand/Wall	[F][2]		0	1500	Fire	U		
-Sima Hui, the Crafty Tactician	SNV	SNV-036	SNV-036	Resonator	Human	[F][3]		800	900	Fire	U		
-Surtr, the Sand Giant	SNV	SNV-037	SNV-037	Resonator	Sand/Giant	[F][F][F][F][F]		1500	1500	Fire	SR		
-The Three Kingdoms Partition Plan	SNV	SNV-038	SNV-038	Chant/Master Rune(Divinity 2)		[F][F][3]				Fire	R		
-Underhanded Assassin	SNV	SNV-039	SNV-039	Resonator	Human	[F][2]		600	900	Fire	C		
-Zhuge Liang	SNV	SNV-040	SNV-040	Resonator	Human/Wanderer	[F][F][2]		900	900	Fire	SR		
-Antorite, Sealed God of the Riverbed	SNV	SNV-041	SNV-041	Resonator	Mermaid	[Wa][Wa][Wa]		900	700	Water	R		
-Bloodberry	SNV	SNV-042	SNV-042	Resonator	Vegetation	[Wa][2]		800	700	Water	C		
-Diverse Evolution	SNV	SNV-043	SNV-043	Chant/Rune(Divinity 2)		[Wa][Wa][1]				Water	U		
-Guinevere, the Mobility Queen	SNV	SNV-044	SNV-044	Resonator	Human/Machine/Wanderer	[Wa]		0	200	Water	SR		
-Guinevere's Imperial Guard	SNV	SNV-045	SNV-045	Resonator	Machine	[Wa][2]		600	600	Water	C		
-Mermaid of the Misty Spring	SNV	SNV-046	SNV-046	Resonator	Mermaid	[Wa][1]		200	800	Water	C		
-Mordred, the Operator	SNV	SNV-047	SNV-047	Resonator	Machine	[Wa][Wa][2]		600	600	Water	U		
-Mutation Slime	SNV	SNV-048	SNV-048	Resonator	Ooze	[Wa][Wa][2]		900	1000	Water	U		
-Mystery Box	SNV	SNV-049	SNV-049	Chant/Rune(Divinity 3)		[Wa][Wa][Wa][4]				Water	R		
-Parallel World Schrödinger	SNV	SNV-050	SNV-050	Resonator	Fairy Tale/Cat	[Wa]		300	300	Water	C		
-Precision-Guided Munition, Sky Beat	SNV	SNV-051	SNV-051	Resonator	Machine	[Wa][Wa][1]		800	800	Water	U		
-Ruins Submerged Beneath the Misty Spring	SNV	SNV-052	SNV-052	Addition	Ancient Ruins	[Wa]				Water	U		
-Schrödinger, the Harlequin of Phenomena	SNV	SNV-053	SNV-053	Resonator	Fairy Tale/Wanderer	[Wa][3]		0	100	Water	SR		
-Shackles of Mist	SNV	SNV-054	SNV-054	Chant		[Wa][1]				Water	C		
-Sky Round Musketeer	SNV	SNV-055	SNV-055	Resonator	Machine	[Wa][1]		600	400	Water	C		
-Skyfall	SNV	SNV-056	SNV-056	Chant		[Wa]				Water	C		
-Skynet	SNV	SNV-057	SNV-057	Chant/Master Rune(Divinity 2)		[Wa][Wa][3]				Water	R		
-Super Mobile Fortress Camelot	SNV	SNV-058	SNV-058	Resonator	Machine	[Wa][Wa][4]		1200	1200	Water	R		
-Teleport	SNV	SNV-059	SNV-059	Chant/Rune(Divinity 2)		[Wa][Wa][2]				Water	U		
-Wheel Drone	SNV	SNV-060	SNV-060	Resonator	Machine	[Wa][4]		1200	900	Water	C		
-Ancient Ruins Researcher	SNV	SNV-061	SNV-061	Resonator	Mimi Tribe	[Wi][Wi][3]		900	1100	Wind	C		
-Bullet Ball Thunder Clap	SNV	SNV-062	SNV-062	Chant/Rune(Divinity 2)		[Wi]				Wind	R		
-Bunbuku, the Legendary Tea Kettle	SNV	SNV-063	SNV-063	Resonator	Beast	[Wi][2]		300	1200	Wind	R		
-Chamimi's Contemplation	SNV	SNV-064	SNV-064	Chant		[Wi][1]				Wind	C		
-Flying Squirrel	SNV	SNV-065	SNV-065	Resonator	Beast	[Wi][2]		800	800	Wind	C		
-Fox Shikigami	SNV	SNV-066	SNV-066	Resonator	Shikigami	[Wi][2]		700	900	Wind	C		
-Friend Calling Whistle	SNV	SNV-067	SNV-067	Chant/Rune(Divinity 1)		[Wi]				Wind	U		
-Guardian Beast of Nature	SNV	SNV-068	SNV-068	Resonator	Beast	[Wi][Wi]		600	600	Wind	C		
-Liz, Sealed God of the Island	SNV	SNV-069	SNV-069	Resonator	Elf	[Wi][Wi][6]		1000	1500	Wind	R		
-Magellanica, the Ball Warrior	SNV	SNV-070	SNV-070	Resonator	Mimi Tribe	[Wi][Wi][Wi][1]		1200	1200	Wind	SR		
-Molmol, King of Rare Beasts	SNV	SNV-071	SNV-071	Resonator	Beast	[Wi][Wi][5]		2000	2000	Wind	U		
-Ninja Students	SNV	SNV-072	SNV-072	Resonator	Cat/Ninja	[Wi]		400	300	Wind	C		
-Rikyu, Cat Tongued Tea Master	SNV	SNV-073	SNV-073	Resonator	Cat/Wanderer	[Wi][Wi][3]		1100	1200	Wind	SR		
-Ruins Beneath the Flora	SNV	SNV-074	SNV-074	Addition	Ancient Ruins	[Wi][Wi][2]				Wind	U		
-Seimei's Disciple	SNV	SNV-075	SNV-075	Resonator	Cat/Yin-Yang Master	[Wi][1]		500	600	Wind	C		
-Storm Cat	SNV	SNV-076	SNV-076	Chant		[Wi][Wi][4]				Wind	C		
-Table Flip	SNV	SNV-077	SNV-077	Chant/Master Rune(Divinity 2)		[Wi][3]				Wind	R		
-The Six Jizo Statues	SNV	SNV-078	SNV-078	Resonator	Youkai	[Wi]		600	600	Wind	U		
-The Unsealing of God	SNV	SNV-079	SNV-079	Chant/Rune(Divinity 1)		[Wi]				Wind	U		
-Tsunade, Brawny Cat Ninja	SNV	SNV-080	SNV-080	Resonator	Cat/Ninja	[Wi][Wi]		800	500	Wind	U		
-Amon, Conspirer of Atrocities	SNV	SNV-081	SNV-081	Resonator	Demon	[D][D][3]		1200	1200	Darkness	R		
-Astema, the Returnee of Hatred	SNV	SNV-082	SNV-082	Resonator	Fallen Angel/Wanderer	[D][D][1]		700	600	Darkness	SR		
-Athenia, Sealed God of the Ruins	SNV	SNV-083	SNV-083	Resonator	Human	[D][D][3]		1200	1000	Darkness	SR		
-Black-Eyed Angel	SNV	SNV-084	SNV-084	Resonator	Fallen Angel	[D][D][3]		1300	700	Darkness	C		
-Caspiel, the Fallen Angel of Rebellion	SNV	SNV-085	SNV-085	Resonator	Fallen Angel	[D][D][4]		1200	1000	Darkness	U		
-Chaining Hatred	SNV	SNV-086	SNV-086	Chant/Rune(Divinity 2)		[D][D][3]				Darkness	U		
-Contract Demon	SNV	SNV-087	SNV-087	Resonator	Demon	[D][D]		600	600	Darkness	U		
-Corrupt Teachings	SNV	SNV-088	SNV-088	Chant		[D][D][2]				Darkness	C		
-Dark Soldier of the Fallen	SNV	SNV-089	SNV-089	Resonator	Human	[D][1]		600	400	Darkness	C		
-Dragon Zombie	SNV	SNV-090	SNV-090	Resonator	Dragon/Zombie	[D][D][2]		600	600	Darkness	U		
-Graveyard Vampire	SNV	SNV-091	SNV-091	Resonator	Vampire	[D][D][2]		600	700	Darkness	C		
-March of the Dead	SNV	SNV-092	SNV-092	Chant		[D]				Darkness	C		
-Orchard of the Immortals	SNV	SNV-093	SNV-093	Addition	Ancient Ruins	[D][D][D]				Darkness	U		
-Orpheus, the Immortal Player	SNV	SNV-094	SNV-094	Resonator	Zombie	[D][D]		600	500	Darkness	R		
-Power of Immortality	SNV	SNV-095	SNV-095	Chant/Rune(Divinity 1)		[D][1]				Darkness	U		
-Ruined Earth	SNV	SNV-096	SNV-096	Chant/Rune(Divinity 2)		[D][D][3]				Darkness	R		
-Ruins Devil	SNV	SNV-097	SNV-097	Resonator	Demon	[D][3]		1000	600	Darkness	C		
-Sewing Zombie	SNV	SNV-098	SNV-098	Resonator	Zombie	[D][D][1]		400	400	Darkness	C		
-Soul Prison	SNV	SNV-099	SNV-099	Chant/Master Rune(Divinity 3)		[D][D][4]				Darkness	R		
-Specter of the Abyss	SNV	SNV-100	SNV-100	Resonator	Specter	[D][D][1]		700	600	Darkness	C		
-Ancient Moon Dragon	AOA	AOA-001	AOA-001	Resonator	Dragon	[L][L][2]		800	800	Light	C	This card gains [+400/+400] as long as you control a Moon.	
-Arcana Collector	AOA	AOA-002	AOA-002	Resonator	Wererabbit	[L]		300	300	Light	C	This card gains [+400/+400] and [Barrier] as long as you control four or more light magic stones.	
-Ares, Knight God Emperor of the Burial Grounds	AOA	AOA-003	AOA-003	Resonator	Deity	[L][L][2]		1000	800	Light	SR	[Enter] => Produce [L][L]. Other light resonators you control gain [+200/+200]. As long as there are four or more runes revealed from your rune area, they gain [+400/+400] instead.	
-Ballista Warrior	AOA	AOA-004	AOA-004	Resonator	Human	[L][L][4]		700	1700	Light	C	At the end of your turn => Recover this card.	
-Brunhild's Shield	AOA	AOA-005	AOA-005	Resonator	Valkyrie	[L]		0	700	Light	C	Banish this card: Target resonator gains [Eternal] until end of turn.	
-Delphinius, Flying Giant Beast in the Sky	AOA	AOA-006	AOA-006	Resonator	Beast	[L][L][L][3]		1300	1500	Light	R	[Enter] => Destroy all resonators with [Flying] your opponent controls.	
-Holy Knight Burial Grounds	AOA	AOA-007	AOA-007	Addition	Ancient Ruins	[L]				Light	U	Whenever a resonator you control is put into a graveyard from the field => Put a grave-post counter on this card. Resonators you control gain [+200/+200] as long as there are three or more grave-post counters on this card. As long as there are seven or more grave-post counters on this card, they gain [+400/+400] instead.	
-Holy Steed of Faith	AOA	AOA-008	AOA-008	Resonator	Heroic Spirit	[L][L][3]		1000	1000	Light	U	Whenever a resonator you control attacks => You gain 400 life.	
-Kara, Valkyrie of the Red Lance	AOA	AOA-009	AOA-009	Resonator	Valkyrie	[L]		400	400	Light	R	[L]: This card gains [Flying] and [First Strike] until end of turn. [F]: This card gains [+200/+200] until end of turn.	
-Linorsphairia, Vast Land Above the Clouds	AOA	AOA-010	AOA-010	Addition	Ancient Ruins	[L][L]				Light	U	At the beginning of you main phase => Produce [L]. If there are four or more runes revealed from your rune area, produce [L][L] instead.	
-Moonlight Nocturne	AOA	AOA-011	AOA-011	Chant/Rune(Divinity 2)		[L][1]		0	0	Light	U		
-Priest of Minerva	AOA	AOA-012	AOA-012	Resonator	Human	[L][1]		500	700	Light	C		
-Sapling of the Treasure Tree	AOA	AOA-013	AOA-013	Resonator	Treasury Item	[L]		0	100	Light	SR	[Rest], discard a card, remove this card from the game: Produce [L][L][L].	
-Shower of Light Blades	AOA	AOA-014	AOA-014	Chant/Rune(Divinity 2)		[L][L][1]				Light	R		
-Snow of Linorsphairia	AOA	AOA-015	AOA-015	Chant		[L][1]				Light	C		
-Soul Resonance	AOA	AOA-016	AOA-016	Chant/Rune(Divinity 1)		[L][1]		0	0	Light	U		
-Spirit of Cloud	AOA	AOA-017	AOA-017	Resonator	Spirit	[L][2]		400	600	Light	C	Prevent all damage that would be dealt to this card by resonators during your opponent's turn.	
-Traveler in the Sea of Clouds	AOA	AOA-018	AOA-018	Chant/Master Rune(Divinity 2)		[L][3]				Light	R		
-Volley	AOA	AOA-019	AOA-019	Chant		[L]		0	0	Light	C		
-Yggnitsvay, Spirit of Laurel	AOA	AOA-020	AOA-020	Resonator	Spirit	[L][L][2]		800	800	Light	U	Whenever you play a resonator spell => This card gains [+400/+400] until end of turn. This ability triggers only once per turn. This card gains [Drain] as long as you control seven or more light magic stones.	
-Asakna Training Grounds	AOA	AOA-021	AOA-021	Addition	Ancient Ruins	[F][1]		0	0	Fire	U	[Rest]: Put a [+100/+100] counter on target fire resonator.	
-Bird of Scorching Sand	AOA	AOA-022	AOA-022	Resonator	Sand/Beast	[F][3]		1000	900	Fire	C	[Enter] => Banish a fire magic stone.	
-Contract Forged in Sand	AOA	AOA-023	AOA-023	Chant/Rune(Divinity 2)		[F][F][1]				Fire	U		
-Flame Dragon Summoning	AOA	AOA-024	AOA-024	Chant/Rune(Divinity 2)		[F][F][3]		0	0	Fire	R		
-Ghost of Asakna	AOA	AOA-025	AOA-025	Resonator	Heroic Spirit	[F][2]		1200	1000	Fire	C	When this card is targeted by a spell => Banish it.	
-Isis' Elite Guard	AOA	AOA-026	AOA-026	Resonator	Human	[F][F]		600	500	Fire	U	This card gains [0/+300] and [Swiftness] as long as you control two or more other resonators.	
-Kanna, Descendent of the Oracle	AOA	AOA-027	AOA-027	Resonator	Human	[F][F][F]		500	800	Fire	R	You may pay [F][F] less to play this card as long as you control five or more fire magic stones. [Enter] => Target resonator gains [+400/0] until end of turn.	
-Kanna's Attendant	AOA	AOA-028	AOA-028	Resonator	Human	[F]		300	300	Fire	C	[Rest]: Target fire resonator gains [+200/+200] until end of turn. If it's "Kanna, Descendent of the Oracle", it also gains [Swiftness] and [Precision].	
-Mind Like Still Water	AOA	AOA-029	AOA-029	Chant/Rune(Divinity 1)		[F]		0	0	Fire	U		
-Moon of Crimson Sand	AOA	AOA-030	AOA-030	Resonator	Sand/Moon	[F][3]		100	1500	Fire	U	[F]: This card gains [Flying] until end of turn. When this card leaves the field => It deals 300 damage multiplied by the number of fire magic stones you control to each resonator.	
-Mountain Dragon	AOA	AOA-031	AOA-031	Resonator	Dragon	[F][F][4]		2000	1500	Fire	C	[Enter] => This card deals 200 damage multiplied by the number of fire magic stones you control to target resonator.	
-Nyarlathotep, the Return of Chaos	AOA	AOA-032	AOA-032	Resonator	Cthulhu/Wanderer	[F][F]		500	500	Fire	SR	You may play this card from your removed area. You pay [1] more to play this card from your removed area. [Rest], remove this card from the game: Draw a card. [F][F], remove this card in your graveyard from the game, banish a fire magic stone: Destroy target resonator.	
-Sand Upheaval	AOA	AOA-033	AOA-033	Chant		[F][F][3]		0	0	Fire	C		
-Shadow of Chaos	AOA	AOA-034	AOA-034	Resonator	Cthulhu	[F]		300	300	Fire	C	This card gains [+300/+300] and [Swiftness] as long as you control four or more fire magic stones.	
-Shu, Ruler of Air	AOA	AOA-035	AOA-035	Resonator	Ascendant	[F]		100	300	Fire	R	[Rest], remove a fire card in your graveyard from the game: Produce [F]. [Rest], [F], discard a fire card: This card deals 600 damage to target resonator.	
-Spiral of Chaos	AOA	AOA-036	AOA-036	Chant/Master Rune(Divinity 2)		[F][F][3]				Fire	R	This card deals 1000 damage to target resonator. If this card would deal more damage to that resonator than its DEF, this card deals the rest to that resonator's controller.	
-The Sage's Afternoon Nap	AOA	AOA-037	AOA-037	Chant		[F][1]		0	0	Fire	C		
-Thunder Dragon	AOA	AOA-038	AOA-038	Resonator	Dragon	[F][F][F][1]		900	800	Fire	U	[Enter] => You may discard a card at random. If you do, this card deals 800 damage to target resonator.	
-Ushuah, the Swordsman of Eternal Flame	AOA	AOA-039	AOA-039	Resonator	Human	[F][F][F][3]		1700	100	Fire	SR	Fire resonators you control gain [Swiftness]. [Enter] => Look at the top five cards of your deck. You may put a resonator with total cost 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.	
-Warrior Lurking Beneath the Sands	AOA	AOA-040	AOA-040	Resonator	Human	[F][1]		600	400	Fire	C		
-Butterfly Gimmick	AOA	AOA-041	AOA-041	Resonator	Machine	[Wa][1]		300	300	Water	C	[Enter] => Look at the top five cards of your deck. You may put a card named "Butterfly Gimmick" from among them into the field. Put the rest on the bottom of your deck in a random order.	
-Chronos' Envoy	AOA	AOA-042	AOA-042	Resonator	Wizard	[Wa][1]		400	400	Water	U	[Enter] => Search your deck for a card and put it into your graveyard. Then shuffle your deck.	
-Commanding Gaze	AOA	AOA-043	AOA-043	Chant		[Wa][1]		0	0	Water	C		
-Fenrir, Second Form	AOA	AOA-044	AOA-044	Resonator	Beast	[Wa][4]		1000	1100	Water	R	This card gains [Quickcast] as long as it's in your hand and there are four or more runes revealed from your rune area. [Enter] => Put target resonator on top of its owner's deck. Draw two cards.	
-Fiendish Mirror	AOA	AOA-045	AOA-045	Resonator	Fairy Tale	[Wa][3]		0	400	Water	C	When this card is put into a graveyard from the field => Reveal the top card of your deck. If it's a resonator, put it into the field.	
-Freya, Royal Palace Contraption Mage	AOA	AOA-046	AOA-046	Resonator	Wizard/Machine	[Wa]		0	200	Water	SR	This card gains [0/+400] as long as you control another Machine. If you would draw a card during your draw phase, you may instead look at the top two cards of your deck, put a card from among them into your hand and the rest into your graveyard.	
-Freya's Transforming Cane	AOA	AOA-047	AOA-047	Resonator	Machine	[Wa]		300	300	Water	C	This card gains [+300/+300] and "This card cannot be blocked." as long as you control four or more water magic stones.	
-Garmheld, Half of God	AOA	AOA-048	AOA-048	Resonator	God/Wanderer	[Wa][Wa][1]		500	800	Water	SR	Whenever another resonator enters the field under your control => Produce [Wa]. This ability triggers only once per turn. [Rest], banish this card: Produce [Wa] for each resonator you control. Play this ability only during your turn.	
-Garmheld's Phantasmal Warrior	AOA	AOA-049	AOA-049	Resonator	Illusion	[Wa][1]		500	500	Water	C		
-Guinevere's Investigation	AOA	AOA-050	AOA-050	Chant		[Wa]				Water	C		
-Loki's Insight	AOA	AOA-051	AOA-051	Chant/Rune(Divinity 2)		[Wa][1]		0	0	Water	U		
-Mecha Leviathan	AOA	AOA-052	AOA-052	Resonator	Machine	[Wa][Wa][Wa][2]		1200	1300	Water	R	Banish another Machine resonator: Return target resonator to its owner's hand.	
-Mini Leviathan	AOA	AOA-053	AOA-053	Resonator	Machine	[Wa][2]		700	700	Water	U	[Enter] => Return target resonator to its owner's hand. Banish two "Mini Leviathan": Search your deck for a card with "Leviathan" in its name and put it into the field. Then shuffle your deck.	
-Ocean Beam	AOA	AOA-054	AOA-054	Chant/Rune(Divinity 3)		[Wa][Wa][2]		0	0	Water	R		
-Repair Bug	AOA	AOA-055	AOA-055	Resonator	Machine	[Wa][1]		0	800	Water	C	[Wa], banish this card: Recover target Machine.	
-Ruined Capital	AOA	AOA-056	AOA-056	Addition	Ancient Ruins	[Wa]				Water	U	At the end of your turn => Put a ruin counter on this card. Then, if there are five or more ruin counters on it, banish it. If you do, shuffle all resonators into their owner's deck. [Wa][Wa][1]: Remove a ruin counter from this card.	
-Soldiers of the New Round Table	AOA	AOA-057	AOA-057	Chant/Rune(Divinity 2)		[Wa][Wa]		0	0	Water	U		
-Strolling House	AOA	AOA-058	AOA-058	Resonator	House	[Wa][Wa][3]		800	1200	Water	C	Rest another recovered resonator you control: This card gains [+200/+200] until end of turn.	
-The Return of God	AOA	AOA-059	AOA-059	Chant/Master Rune(Divinity 2)		[Wa][3]		0	0	Water	R		
-The Returnee from Twilight	AOA	AOA-060	AOA-060	Resonator	Cthulhu	[Wa][Wa][1]		800	800	Water	U	[Wa], remove three resonators in your graveyard from the game: Put this card from your graveyard into the field. Play this ability only during your turn.	
-200 IQ	AOA	AOA-061	AOA-061	Chant		[Wi][1]				Wind	C		
-Algernon, Mouse of Intellect	AOA	AOA-062	AOA-062	Resonator	Mouse/Wanderer	[Wi]		200	200	Wind	SR	[Enter] => Put a intellect counter on this card. If you control five or more magic stones, put three intellect counters on this card instead. Remove a intellect counter from this card: This card gains [+400/+200] until end of turn. [Rest], remove two intellect counters from this card: Search your deck for a chant, reveal it and put it into your hand. Then shuffle your deck.	
-Barrier Castle	AOA	AOA-063	AOA-063	Addition	Ancient Ruins	[Wi][1]				Wind	U	Whenever a wind resonator you control is targeted by a spell or ability your opponent controls => Counter that spell or ability unless its controller pays [1].	
-Dog Shikigami	AOA	AOA-064	AOA-064	Resonator	Shikigami	[Wi][Wi]		600	600	Wind	C	[Enter] => Recover two target magic stones if you control a Yin-Yang Master.	
-Gunpowder Barrel	AOA	AOA-065	AOA-065	Chant		[Wi]				Wind	C		
-Hunting Party	AOA	AOA-066	AOA-066	Resonator	Mimi Tribe	[Wi][Wi][2]		800	700	Wind	C	[Enter] => Draw a card. Discard a card: This card gains [+400/0] until end of turn. Play this ability only once per turn.	
-Kukunochi, the Shikigami	AOA	AOA-067	AOA-067	Resonator	Cat/Shikigami	[Wi][3]		700	1200	Wind	R	When this card is put into a graveyard from your hand by a spell or ability your opponent controls => Put this card into the field. [Enter] => Recover target Cat.	
-Kukunochi's Dance	AOA	AOA-068	AOA-068	Chant/Rune(Divinity 3)		[Wi][Wi]				Wind	U		
-Marine Beast of the Lost Isles	AOA	AOA-069	AOA-069	Resonator	Beast	[Wi][Wi][1]		800	800	Wind	C	This card gains [+200/+200] as long as you control a water magic stone.	
-Mimi Tribe Logger	AOA	AOA-070	AOA-070	Resonator	Mimi Tribe	[Wi][1]		600	600	Wind	C		
-Monkey Shikigami	AOA	AOA-071	AOA-071	Resonator	Shikigami	[Wi]		400	400	Wind	C	This card gains [+100/+100] and [Swiftness] as long as you control a Yin-Yang Master.	
-Nature's Beauty	AOA	AOA-072	AOA-072	Chant/Master Rune(Divinity 2)		[Wi][2]				Wind	R		
-Rikugou, Tree Shikigami	AOA	AOA-073	AOA-073	Resonator	Shikigami	[Wi][2]		300	1000	Wind	U	If damage would be dealt to you, it's dealt to this card instead. This card gains [+200/+200] as long as you control a Yin-Yang Master.	
-Scroll Transporter	AOA	AOA-074	AOA-074	Resonator	Cat/Ninja	[Wi]		300	300	Wind	C	This card gains [+400/+400] and "This card cannot be attacked." as long as you control four or more wind magic stones.	
-Seimei, the Shikigami User	AOA	AOA-075	AOA-075	Resonator	Cat/Yin-Yang Master	[Wi][Wi][1]		700	800	Wind	SR	[Enter] => Look at the top four cards of your deck. You may reveal a Shikigami from among them and put it into your hand. Put the rest on the bottom of your deck in a random order. [Rest], [Wi]: You may put a Shikigami with total cost 4 or less from your hand into the field. Banish a Shikigami: This card gains [Barrier] until end of turn.	
-Shikigami Summoning	AOA	AOA-076	AOA-076	Chant/Rune(Divinity 1)		[Wi][1]				Wind	R		
-Three Beast Conference	AOA	AOA-077	AOA-077	Chant/Rune(Divinity 1)		[Wi][Wi]				Wind	U		
-Three Beast Warrior, Eaglemi	AOA	AOA-078	AOA-078	Resonator	Mimi Tribe/Beast	[Wi]		300	300	Wind	U	Banish this card: Target resonator gains [+400/+400] until end of turn.	
-Three Beast Warrior, Molemi	AOA	AOA-079	AOA-079	Resonator	Mimi Tribe/Beast	[Wi][Wi]		700	500	Wind	U	Whenever this card attacks => You gain 500 life.	
-Three Beast Warrior, Tigermi	AOA	AOA-080	AOA-080	Resonator	Mimi Tribe/Beast	[Wi][Wi][Wi]		800	800	Wind	R	[Enter] => Draw a card if you control another Mimi Tribe.	
-Alseid, the Harvester	AOA	AOA-081	AOA-081	Resonator	Spirit	[D][D][1]		400	800	Darkness	U	[Enter] => Put target darkness resonator with total cost 1 or less from your graveyard into the field. [Rest], banish two other resonators: Destroy target resonator.	
-Believer Blinded by Faith	AOA	AOA-082	AOA-082	Resonator	Human	[D]		0	400	Darkness	C	[Rest], [D], banish this card: Put target darkness resonator from your graveyard into your hand.	
-Crawler Zombie	AOA	AOA-083	AOA-083	Resonator	Zombie	[D][D]		400	400	Darkness	C	[D][D][D][1]: Put this card from your graveyard into the field. Play this ability only during your turn.	
-Diabolos, Sealed God of Madness	AOA	AOA-084	AOA-084	Resonator	Demon	[D][D][3]		1200	1000	Darkness	SR	[Enter] => Choose a resonator at random, then destroy all other resonators. Pay 600 life: This card gains [Eternal] until end of turn.	
-Graveyard Scavenger	AOA	AOA-090	AOA-090	Resonator	Beast	[D][D][2]		900	700	Darkness	C	[Enter] => Remove up to two target cards in your opponent's graveyard from the game. Then put [+100/+100] counters on this card equal to the number of cards removed this way.	
-Harvesting Season	AOA	AOA-091	AOA-091	Chant/Rune(Divinity 3)		[D][1]				Darkness	U		
-Lailah, Maiden of the Swamps	AOA	AOA-092	AOA-092	Resonator	Wizard	[D]		0	200	Darkness	R	When this card is put into a graveyard from the field => Search your magic stone deck for a card named "Darkness Magic Stone" and put it into the field. Then shuffle your magic stone deck.	
-Laurier, Dark Corpse Sorceress	AOA	AOA-093	AOA-093	Resonator	Wizard	[D][D][1]		400	400	Darkness	R	[Enter] => Put two [100/100] darkness Skeleton resonator tokens into the field.	
-Laurier's Experiment	AOA	AOA-094	AOA-094	Resonator	Zombie	[D][D]		600	600	Darkness	U	[Enter] => Remove two target resonators in your graveyard from the game. If you do, put two [+100/+100] counters on this card. Whenever this card attacks => You may remove target card in your opponent's graveyard from the game.	
-Mana Transmuter	AOA	AOA-095	AOA-095	Resonator	Vampire	[Wa][2]		600	700	Water	C	Pay 300 life: Produce [L],[F],[Wa],[Wi], or [D]. Play this ability only once per turn.	
-Oborozuki, Caller of Gods	AOA	AOA-096	AOA-096	Resonator	Vampire/Wanderer	[Wa][Wa][Wa][Wa]		1000	1000	Water	SR	[Enter] => Put two fresh blood counters on this card. If there are four or more runes revealed from your rune area, put four fresh blood counters on this card instead. Remove a fresh blood counter from this card: This card gains [Flying] and [Drain] until end of turn. [Rest], remove two fresh blood counters from this card: Destroy target J/resonator. This card gains [+1000/+1000] as long as you control ten or more magic stones.	
-Perfect Matrix	AOA	AOA-097	AOA-097	Chant/Master Rune(Divinity 2)		[Wa][Wa][4]				Water	R		
-Puppeteer	AOA	AOA-098	AOA-098	Chant		[Wa][Wa][3]				Water	C		
-Roar of Diabolos	AOA	AOA-099	AOA-099	Chant/Rune(Divinity 2)		[Wa][Wa][1]				Water	R		
-Sacrificial Altar	AOA	AOA-100	AOA-100	Addition	Ancient Ruins	[Wa][1]				Water	U	Banish a resonator: Put an offering counter on this card. Banish this card: Search your deck for a resonator with total cost X or less and put it into the field, where X is the number of offering counters that were on this card. Then shuffle your deck.	
-Acolyte of the Sun	DBV	DBV-001	DBV-001	Resonator	Human	[L]		200	200	Light	C		
-Bethor, the Angel of Treasure	DBV	DBV-005	DBV-005	Resonator	Angel	[L][1]		500	500	Light	C		
-Bewilder	DBV	DBV-006	DBV-006	Rune(Divinity 2)		[L]				Light	C		
-Brunhild's Wrath	DBV	DBV-008	DBV-008	Rune(Divinity 3)		[L][1]				Light	C		
-Dispel	DBV	DBV-010	DBV-010	Rune(Divinity2)		[L]				Light	C		
-Einherjar's Summons	DBV	DBV-011	DBV-011	Rune(Divinity2)							C		
-Eir, Valkyrie of Mercy	DBV	DBV-012	DBV-012	Resonator	Valkyrie	[L][L][1]		600	700	Light	U		
-Phaleg, the Angel of War	DBV	DBV-016	DBV-016	Resonator	Angel	[L][L][L]		800	800	Light	U		
-Sigrun, Valkyrie of Victory	DBV	DBV-017	DBV-017	Resonator	Valkyrie	[L][L][2]		1000	1000	Light	U		
-Sorceress of the Moon	DBV	DBV-018	DBV-018	Resonator	Wererabbit	[L]		400	400	Light	C		
-Concealed Khopesh	DBV	DBV-019	DBV-019	Rune(Divinity 3)		[F][F][1]				Fire	C		
-Dragon's Flight	DBV	DBV-021	DBV-021	Rune(Divinity 2)		[F]				Fire	C		
-Explosion	DBV	DBV-022	DBV-022	Rune(Divinity 2)		[F]				Fire	C		
-Pang Tong	DBV	DBV-027	DBV-027	Resonator	Human	[F][F][1]		400	800	Fire	U		
-Reckless Flame Soldier	DBV	DBV-028	DBV-028	Resonator	Human	[F]		800	800	Fire	C		
-Sand Dragon	DBV	DBV-029	DBV-029	Resonator	Sand/Dragon	[F][F][1]		1000	1000	Fire	U		
-Sandora Blacksmith	DBV	DBV-030	DBV-030	Resonator	Human	[F]		200	400	Fire	C		
-Set, the Commander of Destruction	DBV	DBV-031	DBV-031	Resonator	Ascendant	[F][F][F][F]		1200	1000	Fire	U		
-Soldier Ambush	DBV	DBV-032	DBV-032	Rune(Divinity 3)		[F][F]				Fire	C		
-Tiger of Kunlun	DBV	DBV-034	DBV-034	Resonator	Beast	[F][1]		600	600	Fire	C		
-Donut Drone	DBV	DBV-040	DBV-040	Resonator	Machine	[Wa]		200	200	Water	C		
-Gawain, the Swift Knight	DBV	DBV-042	DBV-042	Resonator	Machine	[Wa][Wa][1]		800	800	Water	U		
-Gretel of Misty Woods	DBV	DBV-043	DBV-043	Resonator	Fairy Tale	[Wa]		200	600	Water	C		
-Loki's Watchdog, Fenrir	DBV	DBV-044	DBV-044	Resonator	Beast	[Wa][Wa][2]		1000	1000	Water	U		
-Maintenance	DBV	DBV-046	DBV-046	Rune(Divinity 2)							C		
-Mechanical Bishop	DBV	DBV-047	DBV-047	Resonator	Machine	[Wa][1]		600	600	Water	C		
-Monstrosify	DBV	DBV-048	DBV-048	Rune(Divinity 2)		[Wa]				Water	C		
-Overflowing Knowledge	DBV	DBV-050	DBV-050	Rune(Divinity 3)		[Wa][Wa]				Water	C		
-Perceval, the Shining Knight	DBV	DBV-051	DBV-051	Resonator	Machine	[Wa][Wa][2]		900	900	Water	U		
-Reconnaissance	DBV	DBV-052	DBV-052	Rune(Divinity 2)		[Wa]				Water	C		
-Chiyome, the Captivating Kunoichi	DBV	DBV-061	DBV-061	Resonator	Cat/Ninja	[Wi][Wi][2]		800	800	Wind	U		
-Forest Meditation	DBV	DBV-062	DBV-062	Rune(Divinity 3)		[Wi][1]				Wind	C		
-Fuhma Shuriken	DBV	DBV-063	DBV-063	Rune(Divinity 2)		[Wi]				Wind	C		
-Huge Toad	DBV	DBV-064	DBV-064	Resonator	Beast	[Wi]		400	400	Wind	C		
-Jiraiya, the Toad User	DBV	DBV-065	DBV-065	Resonator	Cat/Ninja	[Wi][Wi][1]		700	700	Wind	U		
-Pygmy Hippo	DBV	DBV-066	DBV-066	Resonator	Beast	[Wi]		600	500	Wind	C		
-Snipe Away Mi-!!	DBV	DBV-068	DBV-068	Rune(Divinity 3)		[Wi]				Wind	C		
-Soot Sprite	DBV	DBV-069	DBV-069	Resonator	Youkai	[Wi]		200	200	Wind	C		
-The Hundred Eyed One	DBV	DBV-070	DBV-070	Resonator	Youkai	[Wi][1]		600	600	Wind	U		
-Whirlwind Technique	DBV	DBV-072	DBV-072	Rune(Divinity 2)		[Wi]				Wind	C		
-Demon Division	DBV	DBV-074	DBV-074	Rune(Divinity 2)		[D][D]				Darkness	C		
-Fanatic of Grief	DBV	DBV-076	DBV-076	Resonator	Human	[D]		400	400	Darkness	C		
-Immortal Commander	DBV	DBV-078	DBV-078	Resonator	Vampire	[D][D][1]		700	700	Darkness	U		
-Shemhaza, the Fallen Angel of Sadism	DBV	DBV-084	DBV-084	Resonator	Fallen Angel	[D][D][2]		1000	1000	Darkness	U		
-Skeleton Horde	DBV	DBV-085	DBV-085	Resonator	Skeleton	[D]		400	400	Darkness	C		
-Sword of Lament	DBV	DBV-086	DBV-086	Rune(Divinity 3)		[D][D][1]				Darkness	C		
-Tears of the Fallen	DBV	DBV-087	DBV-087	Rune(Divinity 2)							C		
-Undeath	DBV	DBV-088	DBV-088	Rune(Divinity 2)		[D]				Darkness	C		
-Vlad, the Insatiable	DBV	DBV-090	DBV-090	Resonator	Vampire	[D][D][2]		1000	1000	Darkness	U		
-Dark Alice, Rabbit Princess	DBV	DBV-009	DBV-009	Resonator	Fairy Tale/Wererabbit	[L]		200	500	Light	SR	Cards in your graveyard cannot be the target of chant spells and abilities your opponent controls or be removed from the game. [Enter] => Draw a card, then discard a card or banish an entity. Repeat this process once. As long as there is a resonator, chant, addition, and magic stone in your graveyard, magic stones you control gain "[Rest]: Produce [L], [F], [D], [Wi], or [D].".	
-Utgarda Loki, Giant of Darkness	DBV	DBV-089	DBV-089	Resonator	Giant	[D][D][D][4]		1200	1800	Darkness	R	[Enter] => Destroy target J/resonator. Your opponent discards a card. You lose 400 life. [d][d][1], discard this card: Your opponent discards a card. You lose 400 life.	
-Angrboda, Giant of the Setting Sun	DBV	DBV-003	DBV-003	Resonator	Giant	[L][L][L][4]		1400	1700	Light	R	[Enter] => Destroy target rested J/resonator or addition. You gain 1000 life. [L][L][1], discard this card: Destroy target rested J/resonator or addition. You gain 1000 life.	
+Aratron, Angel of Knowledge	NDR	NDR-001.png	NDR-001	Resonator	Angel	[L]		200	200	Light	U		
+Ayu, the Mysterious Wanderer	NDR	NDR-002.png	NDR-002	Resonator	Wererabbit	[L][L]		600	600	Light	R		
+Balmung	NDR	NDR-003.png	NDR-003	Chant		[L][L][2]				Light	R		
+Blessing of the Sun	NDR	NDR-004.png	NDR-004	Chant/Rune(Divinity 2)		[L][L]				Light	C		
+Child of the Hero	NDR	NDR-005.png	NDR-005	Resonator	Human	[L][2]		700	800	Light	C		
+Commander of Minerva	NDR	NDR-006.png	NDR-006	Resonator	Human	[L][L]		600	500	Light	C		
+Country of the Sun, Minerva	NDR	NDR-007.png	NDR-007	Addition		[L][1]				Light	U		
+Eir, Bringer of Destruction	NDR	NDR-008.png	NDR-008	Resonator	Valkyrie	[L][L][1]		800	800	Light	U		
+Haggith, Angel of Alchemy	NDR	NDR-009.png	NDR-009	Resonator	Angel	[L][L][2]		700	900	Light	C		
+Light of the Moon	NDR	NDR-010.png	NDR-010	Chant/Rune(Divinity 1)		[L]				Light	U		
+Moonlit Paradise, Lunar Heaven	NDR	NDR-011.png	NDR-011	Addition		[L][1]				Light	U		
+Och, Angel of Clairvoyance	NDR	NDR-012.png	NDR-012	Resonator	Angel	[L][1]		500	600	Light	C		
+One Who Gazes at the Soul	NDR	NDR-013.png	NDR-013	Resonator	Valkyrie	[L][4]		700	1200	Light	C		
+Ophiel, Angel of Guidance	NDR	NDR-014.png	NDR-014	Resonator	Angel	[L][L][3]		1200	1200	Light	SR		
+Protection of the Angels	NDR	NDR-015.png	NDR-015	Chant		[L]				Light	R		
+Siegfried, the Hundred Years Hero	NDR	NDR-016.png	NDR-016	Resonator	Human	[L][L][1]		800	800	Light	SR		
+Skuld, Valkyrie of the Future	NDR	NDR-017.png	NDR-017	Resonator	Valkyrie	[L][L]		600	500	Light	R		
+Spear of the Valkyries	NDR	NDR-018.png	NDR-018	Chant/Rune(Divinity 2)		[L][1]				Light	U		
+Tiny Trader	NDR	NDR-019.png	NDR-019	Resonator	Wererabbit	[L]		0	800	Light	C		
+Whispers of an Angel	NDR	NDR-020.png	NDR-020	Chant/Rune(Divinity 2)		[L][2]				Light	C		
+Anubis, Administrator of the Hounds	NDR	NDR-021.png	NDR-021	Resonator	Ascendant	[F][F][F][F][F][3]		1500	1500	Fire	SR		
+Bird of Fire	NDR	NDR-022.png	NDR-022	Resonator	Beast	[F][3]		800	700	Fire	C		
+Black Spot Tiger	NDR	NDR-023.png	NDR-023	Resonator	Beast	[F]		400	400	Fire	R		
+Burial Rites	NDR	NDR-024.png	NDR-024	Chant		[F]				Fire	R		
+Carrier Camel	NDR	NDR-025.png	NDR-025	Resonator	Beast	[F][1]		600	600	Fire	C		
+Carrier Dragon	NDR	NDR-026.png	NDR-026	Resonator	Dragon	[F][1]		200	700	Fire	C		
+Chain Bind	NDR	NDR-027.png	NDR-027	Chant/Rune(Divinity 3)		[F][2]				Fire	U		
+City of Mirage, Sandora	NDR	NDR-028.png	NDR-028	Addition		[F][1]				Fire	U		
+Desert Fennec	NDR	NDR-029.png	NDR-029	Resonator	Beast	[F][F][1]		1000	600	Fire	U		
+Explosion Wizard	NDR	NDR-030.png	NDR-030	Resonator	Human	[F][4]		500	600	Fire	U		
+Heaven Thundering Strike	NDR	NDR-031.png	NDR-031	Chant		[F][1]				Fire	R		
+Land of Fiery Ambition, Kunlun	NDR	NDR-032.png	NDR-032	Addition		[F][F][F]				Fire	U		
+Osiris, Lord of the Afterlife	NDR	NDR-033.png	NDR-033	Resonator	Ascendant	[F][F][1]		900	500	Fire	R		
+Sandstorm	NDR	NDR-034.png	NDR-034	Chant/Rune(Divinity 1)		[F]				Fire	U		
+Scalding Breath	NDR	NDR-035.png	NDR-035	Chant/Rune(Divinity 2)		[F][1]				Fire	C		
+Scorching Winds	NDR	NDR-036.png	NDR-036	Chant/Rune(Divinity2)		[F]				Fire	C		
+Shen Gongbao, Taoist of Kunlun	NDR	NDR-037.png	NDR-037	Resonator	Taoist	[F][F]		600	600	Fire	SR		
+Trader of Sandora	NDR	NDR-038.png	NDR-038	Resonator	Human	[F][F][1]		600	700	Fire	C		
+Venomous Scorpion	NDR	NDR-039.png	NDR-039	Resonator	Insect	[F]		300	100	Fire	C		
+Wooden Ox	NDR	NDR-040.png	NDR-040	Resonator	Invention	[F][2]		0	1200	Fire	C		
+Arondight, the Nitrogen Blade	NDR	NDR-041.png	NDR-041	Chant		[Wa]				Water	R		
+Forest of the Lost, Misty Woods	NDR	NDR-042.png	NDR-042	Addition		[Wa]				Water	U		
+Giant of Mist	NDR	NDR-043.png	NDR-043	Resonator	Giant	[Wa][2]		900	900	Water	C		
+Hamelin, the Sound of Temptation	NDR	NDR-044.png	NDR-044	Resonator	Fairy Tale	[Wa][Wa][Wa][2]		400	400	Water	R		
+Invitation	NDR	NDR-045.png	NDR-045	Chant/Rune(Divinity 2)		[Wa][Wa][1]				Water	U		
+Iron Cauldron Witch	NDR	NDR-046.png	NDR-046	Resonator	Fairy Tale/Witch	[Wa][Wa][4]		700	900	Water	C		
+J?rmungandr, Little Eater of Worlds	NDR	NDR-047.png	NDR-047	Resonator	Beast	[Wa]		400	400	Water	SR		
+Lancelot, the Glass Knight	NDR	NDR-048.png	NDR-048	Resonator	Machine	[Wa][2]		600	600	Water	SR		
+Mad Hatter of Misty Woods	NDR	NDR-049.png	NDR-049	Resonator	Fairy Tale	[Wa][Wa][3]		1000	1200	Water	U		
+Massive Growth	NDR	NDR-050.png	NDR-050	Chant/Rune(Divinity 3)		[Wa][1]				Water	R		
+Mechanized Knight	NDR	NDR-051.png	NDR-051	Resonator	Machine	[Wa]		500	500	Water	C		
+Merlin, the Control Unit of Sky Round	NDR	NDR-052.png	NDR-052	Resonator	Machine	[Wa][Wa][2]		600	800	Water	R		
+Messenger of Death	NDR	NDR-053.png	NDR-053	Resonator	Beast	[Wa][Wa]		600	400	Water	C		
+Scrap and Build	NDR	NDR-054.png	NDR-054	Chant/Rune(Divinity 3)		[Wa][2]				Water	U		
+Sky Round Guardian	NDR	NDR-055.png	NDR-055	Resonator	Machine	[Wa][3]		500	1100	Water	C		
+Sky Round Technician	NDR	NDR-056.png	NDR-056	Resonator	Machine	[Wa][1]		600	600	Water	C		
+The Knights' Castle in the Sky, Sky Round	NDR	NDR-057.png	NDR-057	Addition	Machine	[Wa][1]				Water	U		
+Thick Fog	NDR	NDR-058.png	NDR-058	Chant/Rune(Divinity 1)		[Wa][2]				Water	C		
+Torrent of Energy	NDR	NDR-059.png	NDR-059	Chant/Rune(Divinity 2)		[Wa][2]				Water	C		
+Viviane, the Mechanical Fairy	NDR	NDR-060.png	NDR-060	Resonator	Machine/Fairy	[Wa]		300	300	Water	U		
+Atlantis, the Wielder of Knowledge	NDR	NDR-061.png	NDR-061	Resonator	Mimi Tribe	[Wi][Wi][1]		400	1200	Wind	R		
+Cat Ninja Scout	NDR	NDR-062.png	NDR-062	Resonator	Cat/Ninja	[Wi]		300	300	Wind	C		
+Eccentric Oni	NDR	NDR-063.png	NDR-063	Resonator	Oni	[Wi][1]		700	600	Wind	C		
+Explore the Unknown	NDR	NDR-064.png	NDR-064	Chant/Rune(Divinity3)		[Wi]				Wind	U		
+Grand Bird of the Lost Isles	NDR	NDR-065.png	NDR-065	Resonator	Beast	[Wi][4]		800	900	Wind	C		
+In a Single Stroke	NDR	NDR-066.png	NDR-066	Chant/Rune(Divinity 2)		[Wi][2]				Wind	C		
+Ittan-Momen	NDR	NDR-067.png	NDR-067	Resonator	Youkai	[Wi][2]		600	700	Wind	C		
+Jubei, the One-Eyed Swordsmaster	NDR	NDR-068.png	NDR-068	Resonator	Cat/Bushido	[Wi][Wi][3]		1200	1000	Wind	R		
+Karura, the Crow Tengu	NDR	NDR-069.png	NDR-069	Resonator	Youkai	[Wi][Wi][3]		1200	1200	Wind	SR		
+Kotaro, Ninja of the Wind	NDR	NDR-070.png	NDR-070	Resonator	Cat/Ninja	[Wi][Wi]		600	600	Wind	U		
+Lemuria of the Magic Boomerang	NDR	NDR-071.png	NDR-071	Resonator	Mimi Tribe	[Wi][2]		0	800	Wind	SR		
+Magic Boomerang	NDR	NDR-072.png	NDR-072	Chant		[Wi]				Wind	R		
+Mimi Tribe Explorer	NDR	NDR-073.png	NDR-073	Resonator	Mimi Tribe	[Wi][1]		400	600	Wind	U		
+River Snake	NDR	NDR-074.png	NDR-074	Resonator	Beast	[Wi][3]		1200	600	Wind	C		
+Song of the Fairies	NDR	NDR-075.png	NDR-075	Chant/Rune(Divinity 1)		[Wi][Wi][1]				Wind	C		
+Squall of the Tengu	NDR	NDR-076.png	NDR-076	Chant		[Wi][Wi][1]				Wind	R		
+The Forgotten Sanctuary, Lost Isles	NDR	NDR-077.png	NDR-077	Addition		[Wi][1]				Wind	U		
+The Mimi Tribe's Cook	NDR	NDR-078.png	NDR-078	Resonator	Mimi Tribe	[Wi][2]		800	800	Wind	C		
+The Village of the Spirited Away, Kouga	NDR	NDR-079.png	NDR-079	Addition		[Wi]				Wind	U		
+Youkai Festival	NDR	NDR-080.png	NDR-080	Chant/Rune(Divinity 3)		[Wi][Wi][X]				Wind	U		
+Apostle of the Devil	NDR	NDR-081.png	NDR-081	Resonator	Human	[D][3]		1000	600	Darkness	C		
+Azazel, the Fallen Angel of Gloom	NDR	NDR-082.png	NDR-082	Resonator	Fallen Angel	[D][D][2]		900	1000	Darkness	R		
+Belial, the Evil from the Scriptures	NDR	NDR-083.png	NDR-083	Resonator	Fallen Angel	[D][D][D][3]		1200	1200	Darkness	SR		
+Bottomless Chasm of Death, the Abyss	NDR	NDR-084.png	NDR-084	Addition		[D][D][D]				Darkness	U		
+Corpse Demon	NDR	NDR-085.png	NDR-085	Resonator	Zombie	[D][D]		600	600	Darkness	C		
+Corpse Sorcerer	NDR	NDR-086.png	NDR-086	Resonator	Zombie/Wizard	[D][D][1]		600	600	Darkness	U		
+Craving	NDR	NDR-087.png	NDR-087	Chant/Rune(Divinity 3)		[D][D][3]				Darkness	U		
+Diseased Rat	NDR	NDR-088.png	NDR-088	Resonator	Beast/Zombie	[D][1]		200	400	Darkness	C		
+Disgraced Knight	NDR	NDR-089.png	NDR-089	Resonator	Zombie	[D][D][D]		800	700	Darkness	R		
+Fresh Blood Vampire	NDR	NDR-090.png	NDR-090	Resonator	Vampire	[D][2]		500	600	Darkness	C		
+Gatherer of Despair	NDR	NDR-091.png	NDR-091	Resonator	Demon	[D][1]		600	500	Darkness	C		
+Life Severing Blade	NDR	NDR-092.png	NDR-092	Chant		[D][2]				Darkness	R		
+Look of Corruption	NDR	NDR-093.png	NDR-093	Chant		[D]				Darkness	R		
+Miasma of the Abyss	NDR	NDR-094.png	NDR-094	Chant/Rune(Divinity 3)		[D][D][2]				Darkness	C		
+Minister of Grief	NDR	NDR-095.png	NDR-095	Resonator	Human/Wizard	[D][D][2]		500	500	Darkness	U		
+Oborozuki	NDR	NDR-096.png	NDR-096	Resonator	Vampire	[D][D]		600	600	Darkness	SR		
+Rain of Tears	NDR	NDR-097.png	NDR-097	Chant/Rune(Divinity 2)		[D]				Darkness	C		
+Ruins of Neverending Rain, Rainruins	NDR	NDR-098.png	NDR-098	Addition		[D][D][2]				Darkness	U		
+Skeleton Knight	NDR	NDR-099.png	NDR-099	Resonator	Skeleton	[D][D][2]		800	800	Darkness	C		
+Whispers of the Devil	NDR	NDR-100.png	NDR-100	Chant/Rune(Divinity 2)		[D][1]				Darkness	U		
+Magic Stone of Adventure	NDR	NDR-101.png	NDR-101	Special Magic Stone							U		
+Magic Stone of Chaos	NDR	NDR-102.png	NDR-102	Special Magic Stone							R		
+Magic Stone of Corruption	NDR	NDR-103.png	NDR-103	Special Magic Stone							U		
+Magic Stone of Dramaturgy	NDR	NDR-104.png	NDR-104	Special Magic Stone							U		
+Magic Stone of Dueling	NDR	NDR-105.png	NDR-105	Special Magic Stone							R		
+Magic Stone of Faith	NDR	NDR-106.png	NDR-106	Special Magic Stone							R		
+Magic Stone of Omniscience	NDR	NDR-107.png	NDR-107	Special Magic Stone							U		
+Magic Stone of the Hermit	NDR	NDR-108.png	NDR-108	Special Magic Stone							U		
+Magic Stone of the Undead	NDR	NDR-109.png	NDR-109	Special Magic Stone							R		
+Magic Stone of Tranquility	NDR	NDR-110.png	NDR-110	Special Magic Stone							R		
+Acolyte of the Sun	SDV1	SDV1-001.png	SDV1-001	Resonator	Human	[L]		200	200	Light	C		
+Atom Seikhart | Atom Seikhart, the Shimmering Rabbit	SDV1	SDV1-002,SDV1-002J.png	SDV1-002J	Ruler | J-Ruler	Rabbit | Rabbit	 | 	 | 	 | 800	 | 1200	 | 	R	 | 	
+Bethor, the Angel of Treasure	SDV1	SDV1-003.png	SDV1-003	Resonator	Angel	[L][1]		500	500	Light	C		
+Bewilder	SDV1	SDV1-004.png	SDV1-004	Rune(Divinity 2)		[L]				Light	C		
+Brunhild | Brunhild, Caller of Spirits	SDV1	SDV1-005,SDV1-005J.png	SDV1-005J	Ruler | J-Ruler	Valkyrie | Valkyrie	 | 	 | 	 | 1200	 | 1200	 | 	R	 | 	
+Brunhild's Wrath	SDV1	SDV1-006.png	SDV1-006	Rune(Divinity 3)		[L][1]				Light	C		
+Dispel	SDV1	SDV1-007.png	SDV1-007	Rune(Divinity2)		[L]				Light	C		
+Einherjar's Summons	SDV1	SDV1-008.png	SDV1-008	Rune(Divinity2)							U		
+Eir, Valkyrie of Mercy	SDV1	SDV1-009.png	SDV1-009	Resonator	Valkyrie	[L][L][1]		600	700	Light	U		
+Karmic Reversal	SDV1	SDV1-010.png	SDV1-010	Rune(Divinity 3)		[L][1]				Light	C		
+Mini Meteor	SDV1	SDV1-011.png	SDV1-011	Rune(Divinity 3)		[L][L][1]				Light	U		
+Odin's Judgment	SDV1	SDV1-012.png	SDV1-012	Master Rune(Divinity 2)		[L][L][1]				Light	R		
+Phaleg, the Angel of War	SDV1	SDV1-013.png	SDV1-013	Resonator	Angel	[L][L][L]		800	800	Light	U		
+Phul, the Administrator of the Moon	SDV1	SDV1-014.png	SDV1-014	Resonator	Angel	[L][L][2]		1000	1000	Light	SR		
+Ring of Legend	SDV1	SDV1-015.png	SDV1-015	Rune(Divinity 3)		[L]				Light	C		
+Sigrun, Valkyrie of Victory	SDV1	SDV1-016.png	SDV1-016	Resonator	Valkyrie	[L][L][2]		1000	1000	Light	SR		
+Sorceress of the Moon	SDV1	SDV1-017.png	SDV1-017	Resonator	Wererabbit	[L]		400	400	Light	C		
+The Valkyrie's Chosen	SDV1	SDV1-018.png	SDV1-018	Resonator	Human	[L][1]		600	600	Light	C		
+Turn Tail	SDV1	SDV1-019.png	SDV1-019	Rune(Divinity 2)		[L]				Light	C		
+Warrior of the Sun	SDV1	SDV1-020.png	SDV1-020	Resonator	Human	[L]		400	400	Light	C		
+Wererabbit Warrior	SDV1	SDV1-021.png	SDV1-021	Resonator	Wererabbit	[L]		400	400	Light	C		
+Zeus' Grand Lightning	SDV1	SDV1-022.png	SDV1-022	Master Rune(Divinity 2)		[L][L]				Light	R		
+Light Magic Stone	SDV1	SDV1-023.png	SDV1-023	Basic Magic Stone							C	[rest]: Produce [L].	
+Chu-Ko-Nu Soldier	SDV2	SDV2-001.png	SDV2-001	Resonator	Human	[F]		300	300	Fire	C		
+Concealed Khopesh	SDV2	SDV2-002.png	SDV2-002	Rune(Divinity 3)		[F][F][1]				Fire	C		
+Dragon Dance	SDV2	SDV2-003.png	SDV2-003	Rune(Divinity 3)		[F]				Fire	C		
+Dragon of Kunlun	SDV2	SDV2-004.png	SDV2-004	Resonator	Dragon	[F][F][2]		1200	1200	Fire	SR		
+Dragon's Flight	SDV2	SDV2-005.png	SDV2-005	Rune(Divinity 2)		[F]				Fire	U		
+Explosion	SDV2	SDV2-006.png	SDV2-006	Rune(Divinity 2)		[F]				Fire	C		
+Flame Enchant	SDV2	SDV2-007.png	SDV2-007	Rune(Divinity 2)							C		
+Flame Soldier Formation	SDV2	SDV2-008.png	SDV2-008	Master Rune(Divinity 2)		[F][X]				Fire	R		
+Fu Xi | Fu Xi, King of Kunlun	SDV2	SDV2-009,SDV2-009J.png	SDV2-009J	Ruler | J-Ruler	Monarch | Monarch	 | 	 | 	 | 1000	 | 1000	 | 	R	 | 	
+Giant Sandstorm	SDV2	SDV2-010.png	SDV2-010	Rune(Divinity 3)		[F][F][F][F]				Fire	U		
+Isis | Isis, the Hundred Weapon Master	SDV2	SDV2-011,SDV2-011J.png	SDV2-011J	Ruler | J-Ruler	Ascendant | Ascendant	 | 	 | 	 | 1400	 | 800	 | 	R	 | 	
+Magician of Molding	SDV2	SDV2-012.png	SDV2-012	Resonator	Human	[F][1]		600	600	Fire	C		
+Pang Tong	SDV2	SDV2-013.png	SDV2-013	Resonator	Human	[F][F][1]		400	800	Fire	U		
+Poison Stinger	SDV2	SDV2-014.png	SDV2-014	Rune(Divinity 2)		[F]				Fire	C		
+Reckless Flame Soldier	SDV2	SDV2-015.png	SDV2-015	Resonator	Human	[F]		800	800	Fire	C		
+Sand Dragon	SDV2	SDV2-016.png	SDV2-016	Resonator	Sand/Dragon	[F][F][1]		1000	1000	Fire	U		
+Sandora Blacksmith	SDV2	SDV2-017.png	SDV2-017	Resonator	Human	[F]		200	400	Fire	C		
+Sandworm	SDV2	SDV2-018.png	SDV2-018	Resonator	Insect	[F]		300	400	Fire	C		
+Set, the Commander of Destruction	SDV2	SDV2-019.png	SDV2-019	Resonator	Ascendant	[F][F][F][F]		1200	1000	Fire	SR		
+Soldier Ambush	SDV2	SDV2-020.png	SDV2-020	Rune(Divinity 3)		[F][F]				Fire	C		
+Tiger of Kunlun	SDV2	SDV2-021.png	SDV2-021	Resonator	Beast	[F][1]		600	600	Fire	C		
+Whirlwind Conflagration	SDV2	SDV2-022.png	SDV2-022	Master Rune(Divinity 2)		[F][F][3]				Fire	R		
+Fire Magic Stone	SDV2	SDV2-023.png	SDV2-023	Basic Magic Stone							C	[rest]: Produce [F].	
+Anti-Matter Cannon, Excalibur	SDV3	SDV3-001.png	SDV3-001	Master Rune(Divinity 2)		[Wa][Wa][1]				Water	R		
+Arthur | Arthur, King of Machines	SDV3	SDV3-002,SDV3-002J.png	SDV3-002J	Ruler | J-Ruler	Machine | Machine	 | 	 | 	 | 0	 | 800	 | 	R	 | 	
+Caliburn, the Sword of Judgment	SDV3	SDV3-003.png	SDV3-003	Rune(Divinity 3)		[Wa][Wa][2]				Water	U		
+Charm	SDV3	SDV3-004.png	SDV3-004	Rune(Divinity 2)		[Wa][1]				Water	C		
+Checkmate	SDV3	SDV3-005.png	SDV3-005	Rune(Divinity 3)		[Wa][Wa]				Water	C		
+Consume	SDV3	SDV3-006.png	SDV3-006	Master Rune(Divinity 2)		[Wa][Wa][1]				Water	R		
+Donut Drone	SDV3	SDV3-007.png	SDV3-007	Resonator	Machine	[Wa]		200	200	Water	C		
+Gawain, the Swift Knight	SDV3	SDV3-008.png	SDV3-008	Resonator	Machine	[Wa][Wa][1]		800	800	Water	U		
+Gretel of Misty Woods	SDV3	SDV3-009.png	SDV3-009	Resonator	Fairy Tale	[Wa]		200	600	Water	C		
+Hansel of Misty Woods	SDV3	SDV3-010.png	SDV3-010	Resonator	Fairy Tale	[Wa][1]		600	600	Water	C		
+Loki | Loki, the Witch of Chaos	SDV3	SDV3-011,SDV3-011J.png	SDV3-011J	Ruler | J-Ruler	Witch | Witch	 | 	 | 	 | 800	 | 1200	 | 	R	 | 	
+Loki's Watchdog, Fenrir	SDV3	SDV3-012.png	SDV3-012	Resonator	Beast	[Wa][Wa][2]		1000	1000	Water	SR		
+Maintenance	SDV3	SDV3-013.png	SDV3-013	Rune(Divinity 2)							C		
+Mechanical Bishop	SDV3	SDV3-014.png	SDV3-014	Resonator	Machine	[Wa][1]		600	600	Water	C		
+Mechanical Soldier	SDV3	SDV3-015.png	SDV3-015	Resonator	Machine	[Wa]		400	400	Water	C		
+Monstrosify	SDV3	SDV3-016.png	SDV3-016	Rune(Divinity 2)		[Wa]				Water	U		
+Overflowing Knowledge	SDV3	SDV3-017.png	SDV3-017	Rune(Divinity 3)		[Wa][Wa]				Water	C		
+Perceval, the Shining Knight	SDV3	SDV3-018.png	SDV3-018	Resonator	Machine	[Wa][Wa][2]		900	900	Water	SR		
+Petrification	SDV3	SDV3-019.png	SDV3-019	Rune(Divinity 3)		[Wa][Wa]				Water	C		
+Reconnaissance	SDV3	SDV3-020.png	SDV3-020	Rune(Divinity 2)		[Wa]				Water	C		
+Scarecrow Guide	SDV3	SDV3-021.png	SDV3-021	Resonator	Fairy Tale	[Wa]		400	400	Water	C		
+Witch's House	SDV3	SDV3-022.png	SDV3-022	Resonator	Fairy Tale	[Wa][Wa][1]		400	700	Water	U		
+Water Magic Stone	SDV3	SDV3-023.png	SDV3-023	Basic Magic Stone							C	[rest]: Produce [Wa].	
+Chamimi | Chamimi, Guardian of the Sacred Bow	SDV4	SDV4-001,SDV4-001J.png	SDV4-001J	Ruler | J-Ruler	Mimi Tribe | Mimi Tribe	 | 	 | 	 | 1000	 | 1000	 | 	R	 | 	
+Chiyome, the Captivating Kunoichi	SDV4	SDV4-002.png	SDV4-002	Resonator	Cat/Ninja	[Wi][Wi][2]		800	800	Wind	SR		
+Elephant Rush!!	SDV4	SDV4-003.png	SDV4-003	Master Rune(Divinity 2)		[Wi][Wi][3]				Wind	R		
+Fairy of the Lost Isles	SDV4	SDV4-004.png	SDV4-004	Resonator	Fairy	[Wi]		400	400	Wind	C		
+Forest Meditation	SDV4	SDV4-005.png	SDV4-005	Rune(Divinity 3)		[Wi][1]				Wind	C		
+Fuhma Shuriken	SDV4	SDV4-006.png	SDV4-006	Rune(Divinity 2)		[Wi]				Wind	C		
+Grand Mallet Warrior	SDV4	SDV4-007.png	SDV4-007	Resonator	Mimi Tribe	[Wi][Wi][2]		800	800	Wind	SR		
+Hanzo | Hanzo, Chief of the Kouga	SDV4	SDV4-008,SDV4-008J.png	SDV4-008J	Ruler | J-Ruler	Cat/Ninja | Cat/Ninja	 | 	 | 	 | 1000	 | 1000	 | 	R	 | 	
+Huge Toad	SDV4	SDV4-009.png	SDV4-009	Resonator	Beast	[Wi]		400	400	Wind	C		
+Jiraiya, the Toad User	SDV4	SDV4-010.png	SDV4-010	Resonator	Cat/Ninja	[Wi][Wi][1]		700	700	Wind	U		
+Mu, the Hero of the Greatshield	SDV4	SDV4-011.png	SDV4-011	Resonator	Mimi Tribe	[Wi][1]		600	600	Wind	C		
+Pygmy Hippo	SDV4	SDV4-012.png	SDV4-012	Resonator	Beast	[Wi]		600	500	Wind	C		
+Raft Downstream	SDV4	SDV4-013.png	SDV4-013	Rune(Divinity 2)		[Wi][Wi][2]				Wind	U		
+Rapid Fire Mi-!!	SDV4	SDV4-014.png	SDV4-014	Rune(Divinity 2)		[Wi]				Wind	C		
+Sanctuary Elephant	SDV4	SDV4-015.png	SDV4-015	Resonator	Beast	[Wi][Wi][1]		1000	1000	Wind	U		
+Sealing Scroll	SDV4	SDV4-016.png	SDV4-016	Master Rune(Divinity 2)							R		
+Shadow Step	SDV4	SDV4-017.png	SDV4-017	Rune(Divinity 3)		[Wi][1]				Wind	C		
+Snipe Away Mi-!!	SDV4	SDV4-018.png	SDV4-018	Rune(Divinity 3)		[Wi]				Wind	C		
+Soot Sprite	SDV4	SDV4-019.png	SDV4-019	Resonator	Youkai	[Wi]		200	200	Wind	C		
+Spirited Away	SDV4	SDV4-020.png	SDV4-020	Rune(Divinity 3)		[Wi][Wi][2]				Wind	U		
+The Hundred Eyed One	SDV4	SDV4-021.png	SDV4-021	Resonator	Youkai	[Wi][1]		600	600	Wind	C		
+Whirlwind Technique	SDV4	SDV4-022.png	SDV4-022	Rune(Divinity 2)		[Wi]				Wind	C		
+Wind Magic Stone	SDV4	SDV4-023.png	SDV4-023	Basic Magic Stone							C	[rest]: Produce [Wi].	
+Armaros, the Fallen Angel of Nullification	SDV5	SDV5-001.png	SDV5-001	Resonator	Fallen Angel	[D][D][1]		800	800	Darkness	U		
+Black Rosario	SDV5	SDV5-002.png	SDV5-002	Master Rune(Divinity 2)		[D][D]				Darkness	R		
+Cycle of Death	SDV5	SDV5-003.png	SDV5-003	Master Rune(Divinity 2)		[D][D]				Darkness	R		
+Demon Division	SDV5	SDV5-004.png	SDV5-004	Rune(Divinity 2)		[D][D]				Darkness	C		
+Fanatic of Grief	SDV5	SDV5-005.png	SDV5-005	Resonator	Human	[D]		400	400	Darkness	C		
+Fleurety	SDV5	SDV5-006.png	SDV5-006	Resonator	Demon	[D][D]		500	500	Darkness	C		
+Immortal Commander	SDV5	SDV5-007.png	SDV5-007	Resonator	Vampire	[D][D][1]		700	700	Darkness	U		
+Jet-Black Wings	SDV5	SDV5-008.png	SDV5-008	Rune(Divinity 3)		[D][D][1]				Darkness	U		
+Lich | Lich, the Saint of Death	SDV5	SDV5-009,SDV5-009J.png	SDV5-009J	Ruler | J-Ruler	Deathless | Deathless	 | 	 | 	 | 600	 | 1200	 | 	R	 | 	
+Lower Fallen Angel	SDV5	SDV5-010.png	SDV5-010	Resonator	Fallen Angel	[D]		300	400	Darkness	C		
+Lucifer | Lucifer, Fallen Angel of Sorrow	SDV5	SDV5-011,SDV5-011J.png	SDV5-011J	Ruler | J-Ruler	Fallen Angel | Fallen Angel	 | 	 | 	 | 800	 | 800	 | 	R	 | 	
+Patchwork Frankenstein	SDV5	SDV5-012.png	SDV5-012	Resonator	Zombie	[D][D]		1000	1000	Darkness	C		
+Putrefy	SDV5	SDV5-013.png	SDV5-013	Rune(Divinity 2)		[D]				Darkness	C		
+Scythe of the Reaper	SDV5	SDV5-014.png	SDV5-014	Rune(Divinity 3)		[D][1]				Darkness	C		
+Shemhaza, the Fallen Angel of Sadism	SDV5	SDV5-015.png	SDV5-015	Resonator	Fallen Angel	[D][D][2]		1000	1000	Darkness	SR		
+Skeleton Horde	SDV5	SDV5-016.png	SDV5-016	Resonator	Skeleton	[D]		400	400	Darkness	C		
+Specter Rush	SDV5	SDV5-017.png	SDV5-017	Rune(Divinity 3)		[D][D]				Darkness	U		
+Sword of Lament	SDV5	SDV5-018.png	SDV5-018	Rune(Divinity 3)		[D][D][1]				Darkness	C		
+Tears of the Fallen	SDV5	SDV5-019.png	SDV5-019	Rune(Divinity 2)							C		
+Undeath	SDV5	SDV5-020.png	SDV5-020	Rune(Divinity 2)		[D]				Darkness	C		
+Vlad, the Insatiable	SDV5	SDV5-021.png	SDV5-021	Resonator	Vampire	[D][D][2]		1000	1000	Darkness	SR		
+Wanderer of the Abyss	SDV5	SDV5-022.png	SDV5-022	Resonator	Zombie	[D]		100	100	Darkness	C		
+Darkness Magic Stone	SDV5	SDV5-023.png	SDV5-023	Basic Magic Stone							C	[rest]: Produce [D].	
+Alice, Otherworldly Visitor	SNV	SNV-001.png	SNV-001	Resonator	Fairy Tale/Wanderer	[L][L][1]		800	800	Light	SR		
+Barrier of Faith	SNV	SNV-002.png	SNV-002	Chant/Rune(Divinity 1)		[L]				Light	U		
+Blade of Faith	SNV	SNV-003.png	SNV-003	Chant/Master Rune(Divinity 2)		[L][3]				Light	R		
+Card Conscript	SNV	SNV-004.png	SNV-004	Resonator	Fairy Tale	[L][4]		900	1400	Light	C		
+Dark Alice Doll	SNV	SNV-005.png	SNV-005	Resonator	Fairy Tale/Doll	[L][L][1]		400	1000	Light	R		
+God's Choice	SNV	SNV-006.png	SNV-006	Chant		[L][L]				Light	C		
+March Hare of Valhalla	SNV	SNV-007.png	SNV-007	Resonator	Fairy Tale/Wererabbit	[L][L]		600	600	Light	U		
+Messenger of the Sun	SNV	SNV-008.png	SNV-008	Resonator	Human	[L][1]		200	400	Light	C		
+Misteltein, the Pious Sword Saint	SNV	SNV-009.png	SNV-009	Resonator	Human/Wanderer	[L][L][3]		1200	1200	Light	SR		
+Monk Heroic Spirit	SNV	SNV-010.png	SNV-010	Resonator	Heroic Spirit	[L][L][1]		800	800	Light	U		
+Musician of the Moon	SNV	SNV-011.png	SNV-011	Resonator	Wererabbit	[L]		300	300	Light	U		
+Mysterious Welcome Party	SNV	SNV-012.png	SNV-012	Chant		[L]				Light	C		
+Palace Chef	SNV	SNV-013.png	SNV-013	Resonator	Wererabbit	[L][2]		700	800	Light	C		
+Reginleif, Inheritor of God's Will	SNV	SNV-014.png	SNV-014	Resonator	Valkyrie	[L][L][3]		800	1500	Light	R		
+Spirit of Moonlit Nights	SNV	SNV-015.png	SNV-015	Resonator	Spirit	[L]		200	200	Light	C		
+Swordsman Heroic Spirit	SNV	SNV-016.png	SNV-016	Resonator	Heroic Spirit	[L][L]		600	600	Light	C		
+The Battle of Sun and Moon	SNV	SNV-017.png	SNV-017	Chant/Rune(Divinity 2)		[L][L][3]				Light	U		
+The Stranger from Re-Earth	SNV	SNV-018.png	SNV-018	Chant/Rune(Divinity 3)		[L][L][2]				Light	R		
+Valkyrie of the Dawn	SNV	SNV-019.png	SNV-019	Resonator	Valkyrie	[L][L][2]		800	800	Light	C		
+Wizard Heroic Spirit	SNV	SNV-020.png	SNV-020	Resonator	Heroic Spirit	[L][L][2]		500	1000	Light	U		
+All Under Heaven Shall Perish	SNV	SNV-021.png	SNV-021	Chant/Rune(Divinity 2)		[F][F][2]				Fire	U		
+Annihilation Dragon	SNV	SNV-022.png	SNV-022	Resonator	Dragon	[F][F][3]		1000	800	Fire	C		
+Frontline Warrior	SNV	SNV-023.png	SNV-023	Resonator	Human	[F][1]		600	500	Fire	C		
+Gaze of the Fire Emperor	SNV	SNV-024.png	SNV-024	Chant		[F][F][2]				Fire	C		
+Ladies of the Three Stars	SNV	SNV-025.png	SNV-025	Resonator	Taoist	[F][1]		600	500	Fire	U		
+Lady Huang's Karakuri Soldier	SNV	SNV-026.png	SNV-026	Resonator	Karakuri	[F][3]		900	900	Fire	C		
+Ma'at, Arbiter of Judgment	SNV	SNV-027.png	SNV-027	Resonator	Ascendant	[F]		100	600	Fire	R		
+Neo-Berserk Dragon	SNV	SNV-028.png	SNV-028	Resonator	Dragon	[F][F][2]		1000	800	Fire	R		
+Numbing Hedgehog	SNV	SNV-029.png	SNV-029	Resonator	Beast	[F]		400	400	Fire	C		
+Ruins Beneath the Sands	SNV	SNV-030.png	SNV-030	Addition	Ancient Ruins	[F][F]				Fire	U		
+Sand Awakening	SNV	SNV-031.png	SNV-031	Chant/Rune(Divinity 1)		[F][1]				Fire	R		
+Sand Soldier	SNV	SNV-032.png	SNV-032	Resonator	Sand	[F][1]		800	600	Fire	C		
+Sandora's Invasion	SNV	SNV-033.png	SNV-033	Chant/Rune(Divinity 3)		[F][F][3]				Fire	U		
+Scales of the Ascendant	SNV	SNV-034.png	SNV-034	Chant		[F][F][1]				Fire	C		
+Searing Wall of Sand	SNV	SNV-035.png	SNV-035	Resonator	Sand/Wall	[F][2]		0	1500	Fire	U		
+Sima Hui, the Crafty Tactician	SNV	SNV-036.png	SNV-036	Resonator	Human	[F][3]		800	900	Fire	U		
+Surtr, the Sand Giant	SNV	SNV-037.png	SNV-037	Resonator	Sand/Giant	[F][F][F][F][F]		1500	1500	Fire	SR		
+The Three Kingdoms Partition Plan	SNV	SNV-038.png	SNV-038	Chant/Master Rune(Divinity 2)		[F][F][3]				Fire	R		
+Underhanded Assassin	SNV	SNV-039.png	SNV-039	Resonator	Human	[F][2]		600	900	Fire	C		
+Zhuge Liang	SNV	SNV-040.png	SNV-040	Resonator	Human/Wanderer	[F][F][2]		900	900	Fire	SR		
+Antorite, Sealed God of the Riverbed	SNV	SNV-041.png	SNV-041	Resonator	Mermaid	[Wa][Wa][Wa]		900	700	Water	R		
+Bloodberry	SNV	SNV-042.png	SNV-042	Resonator	Vegetation	[Wa][2]		800	700	Water	C		
+Diverse Evolution	SNV	SNV-043.png	SNV-043	Chant/Rune(Divinity 2)		[Wa][Wa][1]				Water	U		
+Guinevere, the Mobility Queen	SNV	SNV-044.png	SNV-044	Resonator	Human/Machine/Wanderer	[Wa]		0	200	Water	SR		
+Guinevere's Imperial Guard	SNV	SNV-045.png	SNV-045	Resonator	Machine	[Wa][2]		600	600	Water	C		
+Mermaid of the Misty Spring	SNV	SNV-046.png	SNV-046	Resonator	Mermaid	[Wa][1]		200	800	Water	C		
+Mordred, the Operator	SNV	SNV-047.png	SNV-047	Resonator	Machine	[Wa][Wa][2]		600	600	Water	U		
+Mutation Slime	SNV	SNV-048.png	SNV-048	Resonator	Ooze	[Wa][Wa][2]		900	1000	Water	U		
+Mystery Box	SNV	SNV-049.png	SNV-049	Chant/Rune(Divinity 3)		[Wa][Wa][Wa][4]				Water	R		
+Parallel World Schrödinger	SNV	SNV-050.png	SNV-050	Resonator	Fairy Tale/Cat	[Wa]		300	300	Water	C		
+Precision-Guided Munition, Sky Beat	SNV	SNV-051.png	SNV-051	Resonator	Machine	[Wa][Wa][1]		800	800	Water	U		
+Ruins Submerged Beneath the Misty Spring	SNV	SNV-052.png	SNV-052	Addition	Ancient Ruins	[Wa]				Water	U		
+Schrödinger, the Harlequin of Phenomena	SNV	SNV-053.png	SNV-053	Resonator	Fairy Tale/Wanderer	[Wa][3]		0	100	Water	SR		
+Shackles of Mist	SNV	SNV-054.png	SNV-054	Chant		[Wa][1]				Water	C		
+Sky Round Musketeer	SNV	SNV-055.png	SNV-055	Resonator	Machine	[Wa][1]		600	400	Water	C		
+Skyfall	SNV	SNV-056.png	SNV-056	Chant		[Wa]				Water	C		
+Skynet	SNV	SNV-057.png	SNV-057	Chant/Master Rune(Divinity 2)		[Wa][Wa][3]				Water	R		
+Super Mobile Fortress Camelot	SNV	SNV-058.png	SNV-058	Resonator	Machine	[Wa][Wa][4]		1200	1200	Water	R		
+Teleport	SNV	SNV-059.png	SNV-059	Chant/Rune(Divinity 2)		[Wa][Wa][2]				Water	U		
+Wheel Drone	SNV	SNV-060.png	SNV-060	Resonator	Machine	[Wa][4]		1200	900	Water	C		
+Ancient Ruins Researcher	SNV	SNV-061.png	SNV-061	Resonator	Mimi Tribe	[Wi][Wi][3]		900	1100	Wind	C		
+Bullet Ball Thunder Clap	SNV	SNV-062.png	SNV-062	Chant/Rune(Divinity 2)		[Wi]				Wind	R		
+Bunbuku, the Legendary Tea Kettle	SNV	SNV-063.png	SNV-063	Resonator	Beast	[Wi][2]		300	1200	Wind	R		
+Chamimi's Contemplation	SNV	SNV-064.png	SNV-064	Chant		[Wi][1]				Wind	C		
+Flying Squirrel	SNV	SNV-065.png	SNV-065	Resonator	Beast	[Wi][2]		800	800	Wind	C		
+Fox Shikigami	SNV	SNV-066.png	SNV-066	Resonator	Shikigami	[Wi][2]		700	900	Wind	C		
+Friend Calling Whistle	SNV	SNV-067.png	SNV-067	Chant/Rune(Divinity 1)		[Wi]				Wind	U		
+Guardian Beast of Nature	SNV	SNV-068.png	SNV-068	Resonator	Beast	[Wi][Wi]		600	600	Wind	C		
+Liz, Sealed God of the Island	SNV	SNV-069.png	SNV-069	Resonator	Elf	[Wi][Wi][6]		1000	1500	Wind	R		
+Magellanica, the Ball Warrior	SNV	SNV-070.png	SNV-070	Resonator	Mimi Tribe	[Wi][Wi][Wi][1]		1200	1200	Wind	SR		
+Molmol, King of Rare Beasts	SNV	SNV-071.png	SNV-071	Resonator	Beast	[Wi][Wi][5]		2000	2000	Wind	U		
+Ninja Students	SNV	SNV-072.png	SNV-072	Resonator	Cat/Ninja	[Wi]		400	300	Wind	C		
+Rikyu, Cat Tongued Tea Master	SNV	SNV-073.png	SNV-073	Resonator	Cat/Wanderer	[Wi][Wi][3]		1100	1200	Wind	SR		
+Ruins Beneath the Flora	SNV	SNV-074.png	SNV-074	Addition	Ancient Ruins	[Wi][Wi][2]				Wind	U		
+Seimei's Disciple	SNV	SNV-075.png	SNV-075	Resonator	Cat/Yin-Yang Master	[Wi][1]		500	600	Wind	C		
+Storm Cat	SNV	SNV-076.png	SNV-076	Chant		[Wi][Wi][4]				Wind	C		
+Table Flip	SNV	SNV-077.png	SNV-077	Chant/Master Rune(Divinity 2)		[Wi][3]				Wind	R		
+The Six Jizo Statues	SNV	SNV-078.png	SNV-078	Resonator	Youkai	[Wi]		600	600	Wind	U		
+The Unsealing of God	SNV	SNV-079.png	SNV-079	Chant/Rune(Divinity 1)		[Wi]				Wind	U		
+Tsunade, Brawny Cat Ninja	SNV	SNV-080.png	SNV-080	Resonator	Cat/Ninja	[Wi][Wi]		800	500	Wind	U		
+Amon, Conspirer of Atrocities	SNV	SNV-081.png	SNV-081	Resonator	Demon	[D][D][3]		1200	1200	Darkness	R		
+Astema, the Returnee of Hatred	SNV	SNV-082.png	SNV-082	Resonator	Fallen Angel/Wanderer	[D][D][1]		700	600	Darkness	SR		
+Athenia, Sealed God of the Ruins	SNV	SNV-083.png	SNV-083	Resonator	Human	[D][D][3]		1200	1000	Darkness	SR		
+Black-Eyed Angel	SNV	SNV-084.png	SNV-084	Resonator	Fallen Angel	[D][D][3]		1300	700	Darkness	C		
+Caspiel, the Fallen Angel of Rebellion	SNV	SNV-085.png	SNV-085	Resonator	Fallen Angel	[D][D][4]		1200	1000	Darkness	U		
+Chaining Hatred	SNV	SNV-086.png	SNV-086	Chant/Rune(Divinity 2)		[D][D][3]				Darkness	U		
+Contract Demon	SNV	SNV-087.png	SNV-087	Resonator	Demon	[D][D]		600	600	Darkness	U		
+Corrupt Teachings	SNV	SNV-088.png	SNV-088	Chant		[D][D][2]				Darkness	C		
+Dark Soldier of the Fallen	SNV	SNV-089.png	SNV-089	Resonator	Human	[D][1]		600	400	Darkness	C		
+Dragon Zombie	SNV	SNV-090.png	SNV-090	Resonator	Dragon/Zombie	[D][D][2]		600	600	Darkness	U		
+Graveyard Vampire	SNV	SNV-091.png	SNV-091	Resonator	Vampire	[D][D][2]		600	700	Darkness	C		
+March of the Dead	SNV	SNV-092.png	SNV-092	Chant		[D]				Darkness	C		
+Orchard of the Immortals	SNV	SNV-093.png	SNV-093	Addition	Ancient Ruins	[D][D][D]				Darkness	U		
+Orpheus, the Immortal Player	SNV	SNV-094.png	SNV-094	Resonator	Zombie	[D][D]		600	500	Darkness	R		
+Power of Immortality	SNV	SNV-095.png	SNV-095	Chant/Rune(Divinity 1)		[D][1]				Darkness	U		
+Ruined Earth	SNV	SNV-096.png	SNV-096	Chant/Rune(Divinity 2)		[D][D][3]				Darkness	R		
+Ruins Devil	SNV	SNV-097.png	SNV-097	Resonator	Demon	[D][3]		1000	600	Darkness	C		
+Sewing Zombie	SNV	SNV-098.png	SNV-098	Resonator	Zombie	[D][D][1]		400	400	Darkness	C		
+Soul Prison	SNV	SNV-099.png	SNV-099	Chant/Master Rune(Divinity 3)		[D][D][4]				Darkness	R		
+Specter of the Abyss	SNV	SNV-100.png	SNV-100	Resonator	Specter	[D][D][1]		700	600	Darkness	C		
+Ancient Moon Dragon	AOA	AOA-001.png	AOA-001	Resonator	Dragon	[L][L][2]		800	800	Light	C	This card gains [+400/+400] as long as you control a Moon.	
+Arcana Collector	AOA	AOA-002.png	AOA-002	Resonator	Wererabbit	[L]		300	300	Light	C	This card gains [+400/+400] and [Barrier] as long as you control four or more light magic stones.	
+Ares, Knight God Emperor of the Burial Grounds	AOA	AOA-003.png	AOA-003	Resonator	Deity	[L][L][2]		1000	800	Light	SR	[Enter] => Produce [L][L]. Other light resonators you control gain [+200/+200]. As long as there are four or more runes revealed from your rune area, they gain [+400/+400] instead.	
+Ballista Warrior	AOA	AOA-004.png	AOA-004	Resonator	Human	[L][L][4]		700	1700	Light	C	At the end of your turn => Recover this card.	
+Brunhild's Shield	AOA	AOA-005.png	AOA-005	Resonator	Valkyrie	[L]		0	700	Light	C	Banish this card: Target resonator gains [Eternal] until end of turn.	
+Delphinius, Flying Giant Beast in the Sky	AOA	AOA-006.png	AOA-006	Resonator	Beast	[L][L][L][3]		1300	1500	Light	R	[Enter] => Destroy all resonators with [Flying] your opponent controls.	
+Holy Knight Burial Grounds	AOA	AOA-007.png	AOA-007	Addition	Ancient Ruins	[L]				Light	U	Whenever a resonator you control is put into a graveyard from the field => Put a grave-post counter on this card. Resonators you control gain [+200/+200] as long as there are three or more grave-post counters on this card. As long as there are seven or more grave-post counters on this card, they gain [+400/+400] instead.	
+Holy Steed of Faith	AOA	AOA-008.png	AOA-008	Resonator	Heroic Spirit	[L][L][3]		1000	1000	Light	U	Whenever a resonator you control attacks => You gain 400 life.	
+Kara, Valkyrie of the Red Lance	AOA	AOA-009.png	AOA-009	Resonator	Valkyrie	[L]		400	400	Light	R	[L]: This card gains [Flying] and [First Strike] until end of turn. [F]: This card gains [+200/+200] until end of turn.	
+Linorsphairia, Vast Land Above the Clouds	AOA	AOA-010.png	AOA-010	Addition	Ancient Ruins	[L][L]				Light	U	At the beginning of you main phase => Produce [L]. If there are four or more runes revealed from your rune area, produce [L][L] instead.	
+Moonlight Nocturne	AOA	AOA-011.png	AOA-011	Chant/Rune(Divinity 2)		[L][1]		0	0	Light	U		
+Priest of Minerva	AOA	AOA-012.png	AOA-012	Resonator	Human	[L][1]		500	700	Light	C		
+Sapling of the Treasure Tree	AOA	AOA-013.png	AOA-013	Resonator	Treasury Item	[L]		0	100	Light	SR	[Rest], discard a card, remove this card from the game: Produce [L][L][L].	
+Shower of Light Blades	AOA	AOA-014.png	AOA-014	Chant/Rune(Divinity 2)		[L][L][1]				Light	R		
+Snow of Linorsphairia	AOA	AOA-015.png	AOA-015	Chant		[L][1]				Light	C		
+Soul Resonance	AOA	AOA-016.png	AOA-016	Chant/Rune(Divinity 1)		[L][1]		0	0	Light	U		
+Spirit of Cloud	AOA	AOA-017.png	AOA-017	Resonator	Spirit	[L][2]		400	600	Light	C	Prevent all damage that would be dealt to this card by resonators during your opponent's turn.	
+Traveler in the Sea of Clouds	AOA	AOA-018.png	AOA-018	Chant/Master Rune(Divinity 2)		[L][3]				Light	R		
+Volley	AOA	AOA-019.png	AOA-019	Chant		[L]		0	0	Light	C		
+Yggnitsvay, Spirit of Laurel	AOA	AOA-020.png	AOA-020	Resonator	Spirit	[L][L][2]		800	800	Light	U	Whenever you play a resonator spell => This card gains [+400/+400] until end of turn. This ability triggers only once per turn. This card gains [Drain] as long as you control seven or more light magic stones.	
+Asakna Training Grounds	AOA	AOA-021.png	AOA-021	Addition	Ancient Ruins	[F][1]		0	0	Fire	U	[Rest]: Put a [+100/+100] counter on target fire resonator.	
+Bird of Scorching Sand	AOA	AOA-022.png	AOA-022	Resonator	Sand/Beast	[F][3]		1000	900	Fire	C	[Enter] => Banish a fire magic stone.	
+Contract Forged in Sand	AOA	AOA-023.png	AOA-023	Chant/Rune(Divinity 2)		[F][F][1]				Fire	U		
+Flame Dragon Summoning	AOA	AOA-024.png	AOA-024	Chant/Rune(Divinity 2)		[F][F][3]		0	0	Fire	R		
+Ghost of Asakna	AOA	AOA-025.png	AOA-025	Resonator	Heroic Spirit	[F][2]		1200	1000	Fire	C	When this card is targeted by a spell => Banish it.	
+Isis' Elite Guard	AOA	AOA-026.png	AOA-026	Resonator	Human	[F][F]		600	500	Fire	U	This card gains [0/+300] and [Swiftness] as long as you control two or more other resonators.	
+Kanna, Descendent of the Oracle	AOA	AOA-027.png	AOA-027	Resonator	Human	[F][F][F]		500	800	Fire	R	You may pay [F][F] less to play this card as long as you control five or more fire magic stones. [Enter] => Target resonator gains [+400/0] until end of turn.	
+Kanna's Attendant	AOA	AOA-028.png	AOA-028	Resonator	Human	[F]		300	300	Fire	C	[Rest]: Target fire resonator gains [+200/+200] until end of turn. If it's "Kanna, Descendent of the Oracle", it also gains [Swiftness] and [Precision].	
+Mind Like Still Water	AOA	AOA-029.png	AOA-029	Chant/Rune(Divinity 1)		[F]		0	0	Fire	U		
+Moon of Crimson Sand	AOA	AOA-030.png	AOA-030	Resonator	Sand/Moon	[F][3]		100	1500	Fire	U	[F]: This card gains [Flying] until end of turn. When this card leaves the field => It deals 300 damage multiplied by the number of fire magic stones you control to each resonator.	
+Mountain Dragon	AOA	AOA-031.png	AOA-031	Resonator	Dragon	[F][F][4]		2000	1500	Fire	C	[Enter] => This card deals 200 damage multiplied by the number of fire magic stones you control to target resonator.	
+Nyarlathotep, the Return of Chaos	AOA	AOA-032.png	AOA-032	Resonator	Cthulhu/Wanderer	[F][F]		500	500	Fire	SR	You may play this card from your removed area. You pay [1] more to play this card from your removed area. [Rest], remove this card from the game: Draw a card. [F][F], remove this card in your graveyard from the game, banish a fire magic stone: Destroy target resonator.	
+Sand Upheaval	AOA	AOA-033.png	AOA-033	Chant		[F][F][3]		0	0	Fire	C		
+Shadow of Chaos	AOA	AOA-034.png	AOA-034	Resonator	Cthulhu	[F]		300	300	Fire	C	This card gains [+300/+300] and [Swiftness] as long as you control four or more fire magic stones.	
+Shu, Ruler of Air	AOA	AOA-035.png	AOA-035	Resonator	Ascendant	[F]		100	300	Fire	R	[Rest], remove a fire card in your graveyard from the game: Produce [F]. [Rest], [F], discard a fire card: This card deals 600 damage to target resonator.	
+Spiral of Chaos	AOA	AOA-036.png	AOA-036	Chant/Master Rune(Divinity 2)		[F][F][3]				Fire	R	This card deals 1000 damage to target resonator. If this card would deal more damage to that resonator than its DEF, this card deals the rest to that resonator's controller.	
+The Sage's Afternoon Nap	AOA	AOA-037.png	AOA-037	Chant		[F][1]		0	0	Fire	C		
+Thunder Dragon	AOA	AOA-038.png	AOA-038	Resonator	Dragon	[F][F][F][1]		900	800	Fire	U	[Enter] => You may discard a card at random. If you do, this card deals 800 damage to target resonator.	
+Ushuah, the Swordsman of Eternal Flame	AOA	AOA-039.png	AOA-039	Resonator	Human	[F][F][F][3]		1700	100	Fire	SR	Fire resonators you control gain [Swiftness]. [Enter] => Look at the top five cards of your deck. You may put a resonator with total cost 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.	
+Warrior Lurking Beneath the Sands	AOA	AOA-040.png	AOA-040	Resonator	Human	[F][1]		600	400	Fire	C		
+Butterfly Gimmick	AOA	AOA-041.png	AOA-041	Resonator	Machine	[Wa][1]		300	300	Water	C	[Enter] => Look at the top five cards of your deck. You may put a card named "Butterfly Gimmick" from among them into the field. Put the rest on the bottom of your deck in a random order.	
+Chronos' Envoy	AOA	AOA-042.png	AOA-042	Resonator	Wizard	[Wa][1]		400	400	Water	U	[Enter] => Search your deck for a card and put it into your graveyard. Then shuffle your deck.	
+Commanding Gaze	AOA	AOA-043.png	AOA-043	Chant		[Wa][1]		0	0	Water	C		
+Fenrir, Second Form	AOA	AOA-044.png	AOA-044	Resonator	Beast	[Wa][4]		1000	1100	Water	R	This card gains [Quickcast] as long as it's in your hand and there are four or more runes revealed from your rune area. [Enter] => Put target resonator on top of its owner's deck. Draw two cards.	
+Fiendish Mirror	AOA	AOA-045.png	AOA-045	Resonator	Fairy Tale	[Wa][3]		0	400	Water	C	When this card is put into a graveyard from the field => Reveal the top card of your deck. If it's a resonator, put it into the field.	
+Freya, Royal Palace Contraption Mage	AOA	AOA-046.png	AOA-046	Resonator	Wizard/Machine	[Wa]		0	200	Water	SR	This card gains [0/+400] as long as you control another Machine. If you would draw a card during your draw phase, you may instead look at the top two cards of your deck, put a card from among them into your hand and the rest into your graveyard.	
+Freya's Transforming Cane	AOA	AOA-047.png	AOA-047	Resonator	Machine	[Wa]		300	300	Water	C	This card gains [+300/+300] and "This card cannot be blocked." as long as you control four or more water magic stones.	
+Garmheld, Half of God	AOA	AOA-048.png	AOA-048	Resonator	God/Wanderer	[Wa][Wa][1]		500	800	Water	SR	Whenever another resonator enters the field under your control => Produce [Wa]. This ability triggers only once per turn. [Rest], banish this card: Produce [Wa] for each resonator you control. Play this ability only during your turn.	
+Garmheld's Phantasmal Warrior	AOA	AOA-049.png	AOA-049	Resonator	Illusion	[Wa][1]		500	500	Water	C		
+Guinevere's Investigation	AOA	AOA-050.png	AOA-050	Chant		[Wa]				Water	C		
+Loki's Insight	AOA	AOA-051.png	AOA-051	Chant/Rune(Divinity 2)		[Wa][1]		0	0	Water	U		
+Mecha Leviathan	AOA	AOA-052.png	AOA-052	Resonator	Machine	[Wa][Wa][Wa][2]		1200	1300	Water	R	Banish another Machine resonator: Return target resonator to its owner's hand.	
+Mini Leviathan	AOA	AOA-053.png	AOA-053	Resonator	Machine	[Wa][2]		700	700	Water	U	[Enter] => Return target resonator to its owner's hand. Banish two "Mini Leviathan": Search your deck for a card with "Leviathan" in its name and put it into the field. Then shuffle your deck.	
+Ocean Beam	AOA	AOA-054.png	AOA-054	Chant/Rune(Divinity 3)		[Wa][Wa][2]		0	0	Water	R		
+Repair Bug	AOA	AOA-055.png	AOA-055	Resonator	Machine	[Wa][1]		0	800	Water	C	[Wa], banish this card: Recover target Machine.	
+Ruined Capital	AOA	AOA-056.png	AOA-056	Addition	Ancient Ruins	[Wa]				Water	U	At the end of your turn => Put a ruin counter on this card. Then, if there are five or more ruin counters on it, banish it. If you do, shuffle all resonators into their owner's deck. [Wa][Wa][1]: Remove a ruin counter from this card.	
+Soldiers of the New Round Table	AOA	AOA-057.png	AOA-057	Chant/Rune(Divinity 2)		[Wa][Wa]		0	0	Water	U		
+Strolling House	AOA	AOA-058.png	AOA-058	Resonator	House	[Wa][Wa][3]		800	1200	Water	C	Rest another recovered resonator you control: This card gains [+200/+200] until end of turn.	
+The Return of God	AOA	AOA-059.png	AOA-059	Chant/Master Rune(Divinity 2)		[Wa][3]		0	0	Water	R		
+The Returnee from Twilight	AOA	AOA-060.png	AOA-060	Resonator	Cthulhu	[Wa][Wa][1]		800	800	Water	U	[Wa], remove three resonators in your graveyard from the game: Put this card from your graveyard into the field. Play this ability only during your turn.	
+200 IQ	AOA	AOA-061.png	AOA-061	Chant		[Wi][1]				Wind	C		
+Algernon, Mouse of Intellect	AOA	AOA-062.png	AOA-062	Resonator	Mouse/Wanderer	[Wi]		200	200	Wind	SR	[Enter] => Put a intellect counter on this card. If you control five or more magic stones, put three intellect counters on this card instead. Remove a intellect counter from this card: This card gains [+400/+200] until end of turn. [Rest], remove two intellect counters from this card: Search your deck for a chant, reveal it and put it into your hand. Then shuffle your deck.	
+Barrier Castle	AOA	AOA-063.png	AOA-063	Addition	Ancient Ruins	[Wi][1]				Wind	U	Whenever a wind resonator you control is targeted by a spell or ability your opponent controls => Counter that spell or ability unless its controller pays [1].	
+Dog Shikigami	AOA	AOA-064.png	AOA-064	Resonator	Shikigami	[Wi][Wi]		600	600	Wind	C	[Enter] => Recover two target magic stones if you control a Yin-Yang Master.	
+Gunpowder Barrel	AOA	AOA-065.png	AOA-065	Chant		[Wi]				Wind	C		
+Hunting Party	AOA	AOA-066.png	AOA-066	Resonator	Mimi Tribe	[Wi][Wi][2]		800	700	Wind	C	[Enter] => Draw a card. Discard a card: This card gains [+400/0] until end of turn. Play this ability only once per turn.	
+Kukunochi, the Shikigami	AOA	AOA-067.png	AOA-067	Resonator	Cat/Shikigami	[Wi][3]		700	1200	Wind	R	When this card is put into a graveyard from your hand by a spell or ability your opponent controls => Put this card into the field. [Enter] => Recover target Cat.	
+Kukunochi's Dance	AOA	AOA-068.png	AOA-068	Chant/Rune(Divinity 3)		[Wi][Wi]				Wind	U		
+Marine Beast of the Lost Isles	AOA	AOA-069.png	AOA-069	Resonator	Beast	[Wi][Wi][1]		800	800	Wind	C	This card gains [+200/+200] as long as you control a water magic stone.	
+Mimi Tribe Logger	AOA	AOA-070.png	AOA-070	Resonator	Mimi Tribe	[Wi][1]		600	600	Wind	C		
+Monkey Shikigami	AOA	AOA-071.png	AOA-071	Resonator	Shikigami	[Wi]		400	400	Wind	C	This card gains [+100/+100] and [Swiftness] as long as you control a Yin-Yang Master.	
+Nature's Beauty	AOA	AOA-072.png	AOA-072	Chant/Master Rune(Divinity 2)		[Wi][2]				Wind	R		
+Rikugou, Tree Shikigami	AOA	AOA-073.png	AOA-073	Resonator	Shikigami	[Wi][2]		300	1000	Wind	U	If damage would be dealt to you, it's dealt to this card instead. This card gains [+200/+200] as long as you control a Yin-Yang Master.	
+Scroll Transporter	AOA	AOA-074.png	AOA-074	Resonator	Cat/Ninja	[Wi]		300	300	Wind	C	This card gains [+400/+400] and "This card cannot be attacked." as long as you control four or more wind magic stones.	
+Seimei, the Shikigami User	AOA	AOA-075.png	AOA-075	Resonator	Cat/Yin-Yang Master	[Wi][Wi][1]		700	800	Wind	SR	[Enter] => Look at the top four cards of your deck. You may reveal a Shikigami from among them and put it into your hand. Put the rest on the bottom of your deck in a random order. [Rest], [Wi]: You may put a Shikigami with total cost 4 or less from your hand into the field. Banish a Shikigami: This card gains [Barrier] until end of turn.	
+Shikigami Summoning	AOA	AOA-076.png	AOA-076	Chant/Rune(Divinity 1)		[Wi][1]				Wind	R		
+Three Beast Conference	AOA	AOA-077.png	AOA-077	Chant/Rune(Divinity 1)		[Wi][Wi]				Wind	U		
+Three Beast Warrior, Eaglemi	AOA	AOA-078.png	AOA-078	Resonator	Mimi Tribe/Beast	[Wi]		300	300	Wind	U	Banish this card: Target resonator gains [+400/+400] until end of turn.	
+Three Beast Warrior, Molemi	AOA	AOA-079.png	AOA-079	Resonator	Mimi Tribe/Beast	[Wi][Wi]		700	500	Wind	U	Whenever this card attacks => You gain 500 life.	
+Three Beast Warrior, Tigermi	AOA	AOA-080.png	AOA-080	Resonator	Mimi Tribe/Beast	[Wi][Wi][Wi]		800	800	Wind	R	[Enter] => Draw a card if you control another Mimi Tribe.	
+Alseid, the Harvester	AOA	AOA-081.png	AOA-081	Resonator	Spirit	[D][D][1]		400	800	Darkness	U	[Enter] => Put target darkness resonator with total cost 1 or less from your graveyard into the field. [Rest], banish two other resonators: Destroy target resonator.	
+Believer Blinded by Faith	AOA	AOA-082.png	AOA-082	Resonator	Human	[D]		0	400	Darkness	C	[Rest], [D], banish this card: Put target darkness resonator from your graveyard into your hand.	
+Crawler Zombie	AOA	AOA-083.png	AOA-083	Resonator	Zombie	[D][D]		400	400	Darkness	C	[D][D][D][1]: Put this card from your graveyard into the field. Play this ability only during your turn.	
+Diabolos, Sealed God of Madness	AOA	AOA-084.png	AOA-084	Resonator	Demon	[D][D][3]		1200	1000	Darkness	SR	[Enter] => Choose a resonator at random, then destroy all other resonators. Pay 600 life: This card gains [Eternal] until end of turn.	
+Graveyard Scavenger	AOA	AOA-090.png	AOA-090	Resonator	Beast	[D][D][2]		900	700	Darkness	C	[Enter] => Remove up to two target cards in your opponent's graveyard from the game. Then put [+100/+100] counters on this card equal to the number of cards removed this way.	
+Harvesting Season	AOA	AOA-091.png	AOA-091	Chant/Rune(Divinity 3)		[D][1]				Darkness	U		
+Lailah, Maiden of the Swamps	AOA	AOA-092.png	AOA-092	Resonator	Wizard	[D]		0	200	Darkness	R	When this card is put into a graveyard from the field => Search your magic stone deck for a card named "Darkness Magic Stone" and put it into the field. Then shuffle your magic stone deck.	
+Laurier, Dark Corpse Sorceress	AOA	AOA-093.png	AOA-093	Resonator	Wizard	[D][D][1]		400	400	Darkness	R	[Enter] => Put two [100/100] darkness Skeleton resonator tokens into the field.	
+Laurier's Experiment	AOA	AOA-094.png	AOA-094	Resonator	Zombie	[D][D]		600	600	Darkness	U	[Enter] => Remove two target resonators in your graveyard from the game. If you do, put two [+100/+100] counters on this card. Whenever this card attacks => You may remove target card in your opponent's graveyard from the game.	
+Mana Transmuter	AOA	AOA-095.png	AOA-095	Resonator	Vampire	[Wa][2]		600	700	Water	C	Pay 300 life: Produce [L],[F],[Wa],[Wi], or [D]. Play this ability only once per turn.	
+Oborozuki, Caller of Gods	AOA	AOA-096.png	AOA-096	Resonator	Vampire/Wanderer	[Wa][Wa][Wa][Wa]		1000	1000	Water	SR	[Enter] => Put two fresh blood counters on this card. If there are four or more runes revealed from your rune area, put four fresh blood counters on this card instead. Remove a fresh blood counter from this card: This card gains [Flying] and [Drain] until end of turn. [Rest], remove two fresh blood counters from this card: Destroy target J/resonator. This card gains [+1000/+1000] as long as you control ten or more magic stones.	
+Perfect Matrix	AOA	AOA-097.png	AOA-097	Chant/Master Rune(Divinity 2)		[Wa][Wa][4]				Water	R		
+Puppeteer	AOA	AOA-098.png	AOA-098	Chant		[Wa][Wa][3]				Water	C		
+Roar of Diabolos	AOA	AOA-099.png	AOA-099	Chant/Rune(Divinity 2)		[Wa][Wa][1]				Water	R		
+Sacrificial Altar	AOA	AOA-100.png	AOA-100	Addition	Ancient Ruins	[Wa][1]				Water	U	Banish a resonator: Put an offering counter on this card. Banish this card: Search your deck for a resonator with total cost X or less and put it into the field, where X is the number of offering counters that were on this card. Then shuffle your deck.	
+Acolyte of the Sun	DBV	DBV-001.png	DBV-001	Resonator	Human	[L]		200	200	Light	C		
+Bethor, the Angel of Treasure	DBV	DBV-005.png	DBV-005	Resonator	Angel	[L][1]		500	500	Light	C		
+Bewilder	DBV	DBV-006.png	DBV-006	Rune(Divinity 2)		[L]				Light	C		
+Brunhild's Wrath	DBV	DBV-008.png	DBV-008	Rune(Divinity 3)		[L][1]				Light	C		
+Dispel	DBV	DBV-010.png	DBV-010	Rune(Divinity2)		[L]				Light	C		
+Einherjar's Summons	DBV	DBV-011.png	DBV-011	Rune(Divinity2)							C		
+Eir, Valkyrie of Mercy	DBV	DBV-012.png	DBV-012	Resonator	Valkyrie	[L][L][1]		600	700	Light	U		
+Phaleg, the Angel of War	DBV	DBV-016.png	DBV-016	Resonator	Angel	[L][L][L]		800	800	Light	U		
+Sigrun, Valkyrie of Victory	DBV	DBV-017.png	DBV-017	Resonator	Valkyrie	[L][L][2]		1000	1000	Light	U		
+Sorceress of the Moon	DBV	DBV-018.png	DBV-018	Resonator	Wererabbit	[L]		400	400	Light	C		
+Concealed Khopesh	DBV	DBV-019.png	DBV-019	Rune(Divinity 3)		[F][F][1]				Fire	C		
+Dragon's Flight	DBV	DBV-021.png	DBV-021	Rune(Divinity 2)		[F]				Fire	C		
+Explosion	DBV	DBV-022.png	DBV-022	Rune(Divinity 2)		[F]				Fire	C		
+Pang Tong	DBV	DBV-027.png	DBV-027	Resonator	Human	[F][F][1]		400	800	Fire	U		
+Reckless Flame Soldier	DBV	DBV-028.png	DBV-028	Resonator	Human	[F]		800	800	Fire	C		
+Sand Dragon	DBV	DBV-029.png	DBV-029	Resonator	Sand/Dragon	[F][F][1]		1000	1000	Fire	U		
+Sandora Blacksmith	DBV	DBV-030.png	DBV-030	Resonator	Human	[F]		200	400	Fire	C		
+Set, the Commander of Destruction	DBV	DBV-031.png	DBV-031	Resonator	Ascendant	[F][F][F][F]		1200	1000	Fire	U		
+Soldier Ambush	DBV	DBV-032.png	DBV-032	Rune(Divinity 3)		[F][F]				Fire	C		
+Tiger of Kunlun	DBV	DBV-034.png	DBV-034	Resonator	Beast	[F][1]		600	600	Fire	C		
+Donut Drone	DBV	DBV-040.png	DBV-040	Resonator	Machine	[Wa]		200	200	Water	C		
+Gawain, the Swift Knight	DBV	DBV-042.png	DBV-042	Resonator	Machine	[Wa][Wa][1]		800	800	Water	U		
+Gretel of Misty Woods	DBV	DBV-043.png	DBV-043	Resonator	Fairy Tale	[Wa]		200	600	Water	C		
+Loki's Watchdog, Fenrir	DBV	DBV-044.png	DBV-044	Resonator	Beast	[Wa][Wa][2]		1000	1000	Water	U		
+Maintenance	DBV	DBV-046.png	DBV-046	Rune(Divinity 2)							C		
+Mechanical Bishop	DBV	DBV-047.png	DBV-047	Resonator	Machine	[Wa][1]		600	600	Water	C		
+Monstrosify	DBV	DBV-048.png	DBV-048	Rune(Divinity 2)		[Wa]				Water	C		
+Overflowing Knowledge	DBV	DBV-050.png	DBV-050	Rune(Divinity 3)		[Wa][Wa]				Water	C		
+Perceval, the Shining Knight	DBV	DBV-051.png	DBV-051	Resonator	Machine	[Wa][Wa][2]		900	900	Water	U		
+Reconnaissance	DBV	DBV-052.png	DBV-052	Rune(Divinity 2)		[Wa]				Water	C		
+Chiyome, the Captivating Kunoichi	DBV	DBV-061.png	DBV-061	Resonator	Cat/Ninja	[Wi][Wi][2]		800	800	Wind	U		
+Forest Meditation	DBV	DBV-062.png	DBV-062	Rune(Divinity 3)		[Wi][1]				Wind	C		
+Fuhma Shuriken	DBV	DBV-063.png	DBV-063	Rune(Divinity 2)		[Wi]				Wind	C		
+Huge Toad	DBV	DBV-064.png	DBV-064	Resonator	Beast	[Wi]		400	400	Wind	C		
+Jiraiya, the Toad User	DBV	DBV-065.png	DBV-065	Resonator	Cat/Ninja	[Wi][Wi][1]		700	700	Wind	U		
+Pygmy Hippo	DBV	DBV-066.png	DBV-066	Resonator	Beast	[Wi]		600	500	Wind	C		
+Snipe Away Mi-!!	DBV	DBV-068.png	DBV-068	Rune(Divinity 3)		[Wi]				Wind	C		
+Soot Sprite	DBV	DBV-069.png	DBV-069	Resonator	Youkai	[Wi]		200	200	Wind	C		
+The Hundred Eyed One	DBV	DBV-070.png	DBV-070	Resonator	Youkai	[Wi][1]		600	600	Wind	U		
+Whirlwind Technique	DBV	DBV-072.png	DBV-072	Rune(Divinity 2)		[Wi]				Wind	C		
+Demon Division	DBV	DBV-074.png	DBV-074	Rune(Divinity 2)		[D][D]				Darkness	C		
+Fanatic of Grief	DBV	DBV-076.png	DBV-076	Resonator	Human	[D]		400	400	Darkness	C		
+Immortal Commander	DBV	DBV-078.png	DBV-078	Resonator	Vampire	[D][D][1]		700	700	Darkness	U		
+Shemhaza, the Fallen Angel of Sadism	DBV	DBV-084.png	DBV-084	Resonator	Fallen Angel	[D][D][2]		1000	1000	Darkness	U		
+Skeleton Horde	DBV	DBV-085.png	DBV-085	Resonator	Skeleton	[D]		400	400	Darkness	C		
+Sword of Lament	DBV	DBV-086.png	DBV-086	Rune(Divinity 3)		[D][D][1]				Darkness	C		
+Tears of the Fallen	DBV	DBV-087.png	DBV-087	Rune(Divinity 2)							C		
+Undeath	DBV	DBV-088.png	DBV-088	Rune(Divinity 2)		[D]				Darkness	C		
+Vlad, the Insatiable	DBV	DBV-090.png	DBV-090	Resonator	Vampire	[D][D][2]		1000	1000	Darkness	U		
+Dark Alice, Rabbit Princess	DBV	DBV-009.png	DBV-009	Resonator	Fairy Tale/Wererabbit	[L]		200	500	Light	SR	Cards in your graveyard cannot be the target of chant spells and abilities your opponent controls or be removed from the game. [Enter] => Draw a card, then discard a card or banish an entity. Repeat this process once. As long as there is a resonator, chant, addition, and magic stone in your graveyard, magic stones you control gain "[Rest]: Produce [L], [F], [D], [Wi], or [D].".	
+Utgarda Loki, Giant of Darkness	DBV	DBV-089.png	DBV-089	Resonator	Giant	[D][D][D][4]		1200	1800	Darkness	R	[Enter] => Destroy target J/resonator. Your opponent discards a card. You lose 400 life. [d][d][1], discard this card: Your opponent discards a card. You lose 400 life.	
+Angrboda, Giant of the Setting Sun	DBV	DBV-003.png	DBV-003	Resonator	Giant	[L][L][L][4]		1400	1700	Light	R	[Enter] => Destroy target rested J/resonator or addition. You gain 1000 life. [L][L][1], discard this card: Destroy target rested J/resonator or addition. You gain 1000 life.	
